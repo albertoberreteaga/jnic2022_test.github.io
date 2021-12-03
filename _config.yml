@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: JNIC 2021
-email: congreso.jnic2021@uclm.es
-description: VI Jornadas Nacionales de Investigación en Ciberseguridad
-#location: Ciudad Real
-date: Del 9 al 10 de junio de 2021
-logo: LOGO_JNIC_LIVE_FB.png
+title: JNIC 2022
+email: jnic2022@tecnalia.com
+description: VII Jornadas Nacionales de Investigación en Ciberseguridad
+location: Bilbao
+date: Del 8 al 10 de junio de 2022
+logo: LOGO_JNIC_2022.png
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://2021.jnic.es"
 twitter_username: jekyllrb
@@ -46,6 +46,9 @@ links:
   - title: Comités
     url: /comites
     external: false
+  - title: Participa
+    url: /participa
+    external: false
   - title: Envío de trabajos
     url: /trabajos
     external: false
@@ -54,6 +57,9 @@ links:
     external: false
   - title: Programa
     url: /programa
+    external: false
+  - title: Sede
+    url: /sede
     external: false
   - title: Inscripción
     url: /inscripcion
