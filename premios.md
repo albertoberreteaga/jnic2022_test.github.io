@@ -9,8 +9,9 @@ layout: page
 __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/actividades-sociales) / [Premios JNIC2021]({{site.url}}/premios) / [Track de transferencia]({{site.url}}/track-transferencia)
 -->
 <div class="text-center">
+<a id="inicio"></a>
 <a href="{{site.url}}/programa"><img src="{{site.url}}/images/IcoPrograma.jpg" class="img-circle" 	width="40" height="40"><strong>Programa</strong></a> &nbsp;&nbsp;&nbsp;
-
+<a href="{{site.url}}/actividades-sociales"><img src="{{site.url}}/images/IcoActividades.jpg" class="img-circle" 	width="40" height="40"><strong>Actividades sociales</strong></a>&nbsp;&nbsp;&nbsp;
 <a href="{{site.url}}/premios"><img src="{{site.url}}/images/IcoPremios.jpg" class="img-circle" 	width="40" height="40"><strong>Premios</strong></a>&nbsp;&nbsp;&nbsp;
 <a href="{{site.url}}/track-transferencia" class=""><img src="{{site.url}}/images/IcoTrackTX.jpg" class="img-circle" 	width="40" height="40"><strong>Track de Transferencia</strong></a>
 </div><br>
