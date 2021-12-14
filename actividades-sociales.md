@@ -15,22 +15,21 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
 <a href="{{site.url}}/track-transferencia" class=""><img src="{{site.url}}/images/IcoTrackTX.jpg" class="img-circle" 	width="40" height="40"><strong>Track de Transferencia</strong></a>
 </div><br>
 
-### __Actividades sociales JNIC 2021__
+### __Actividades sociales JNIC 2022__
 <br><br>
-<h5 style="color:white; background-color: #550000;" class="text-center"><i class="far fa-clock mr-3"></i> <b>Contenido de las actividades proximamente...</b></h5>
- <br><br>
+<!-- <h5 style="color:white; background-color: #550000;" class="text-center"><i class="far fa-clock mr-3"></i> <b>Contenido de las actividades proximamente...</b></h5>
+ <br><br> -->
 
-<!--
-A continuación, detallamos las actividades sociales de JNIC 2019, centrados en la cultura y gastronomía extremeña en general y de Cáceres en particular.
+
+A continuación, detallamos las actividades sociales de JNIC 2022, centrados en la cultura y gastronomía vasca.
 
 <p align="center"><b><i>(Pulsa en la imagen para cargar la galería).</i></b></p>
 
 <div align="center" style="padding: 15px">
-<a data-fancybox="gallery-actividades" data-caption='1 - Tapas "Cáceres Patrimonio de la Humanidad".' href="{{site.url}}/images/actividades/tapas.png"><img src="{{site.url}}/images/actividades/tapas.png" style="max-height: 600px;"></a>
-<a data-fancybox="gallery-actividades" data-caption='2 - Visita al Museo Wolf Vostell.' href="{{site.url}}/images/actividades/Museo Wolf_Vostell.jpeg"></a>
-<a data-fancybox="gallery-actividades" data-caption='3 - Visita al Paraje Natural "Los Barruecos".' href="{{site.url}}/images/actividades/Reserva_Natural_de_los_Barruecos_(Malpartida_de_Cáceres).jpg"></a>
-<a data-fancybox="gallery-actividades" data-caption='4 - Cena "a la luz de las estrellas".' href="{{site.url}}/images/actividades/Cena estrellas.jpg"></a>
+<a data-fancybox="gallery-actividades" data-caption='1 - Visita al museo Guggenheim.' href="{{site.url}}/images/actividades/guggemheim.png"><img src="{{site.url}}/images/actividades/guggemheim.png" style="max-height: 600px;"></a>
+<a data-fancybox="gallery-actividades" data-caption='2 - Cena en el restaurante Bistró Guggenheim.' href="{{site.url}}/images/actividades/bistro.png"></a>
+<a data-fancybox="gallery-actividades" data-caption='3 - Navegando al mar.' href="{{site.url}}/images/actividades/boats.png"></a>
+<!-- <a data-fancybox="gallery-actividades" data-caption='2 - Cena "a la luz de las estrellas".' href="{{site.url}}/images/actividades/Cena estrellas.jpg"></a>
 <a data-fancybox="gallery-actividades" data-caption='5 - Visita Guiada "Cáceres Ciudad Monumental".' href="{{site.url}}/images/actividades/Visita Guiada Cáceres Ciudad Monumental.jpg"></a>
 <a data-fancybox="gallery-actividades" data-caption='6 - Cena de Gala – Castillo de la Arguijuela.' href="{{site.url}}/images/actividades/Cena de Gala - Castillo de la Arguijuela.jpg"></a>
-</div>
--->
+</div> -->
