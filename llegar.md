@@ -17,23 +17,23 @@ layout: page
 
 ### __Cómo llegar__
 
-La mejor opción para llegar a Ciudad Real es en tren. La ciudad tiene una parada en la línea de alta velocidad (AVE) que la conecta, por ejemplo, con Madrid en 55 minutos, Sevilla en 1 hora y 44 minutos, Valencia en 2 horas y 9 minutos o Barcelona en 3 horas y 44 minutos. 
+#### __En avión__ ![A test image]({{site.url}}/images/tren_logo.png)
 
 #### __En tren__ ![A test image]({{site.url}}/images/tren_logo.png)
 
-Para más información dirigirse a: [http://www.renfe.com/viajeros/](http://www.renfe.com/viajeros/)
+La [Estación de Trenes de Bilbao](https://turismo.euskadi.eus/es/estaciones-transporte/estacion-de-abando-indalecio-prieto-renfe/aa30-12375/es/), Abando Indalecio Prieto, o Bilbao Abando, denominada también tradicionalmente Estación del Norte, es la principal estación de ferrocarril de la villa de Bilbao. Se encuentra comunicada con Madrid en cinco horas, y Zaragoza en cuatro horas y media.  
 
+Para más información dirigirse a: [RENFE](http://www.renfe.com/viajeros/)
 
        
 #### __En autobús__ ![A test image]({{site.url}}/images/bus_logo.png)
 
-También existe la posibilidad de llegar a Ciudad Real en autobus. Para más información consultar la web: [https://www.aisa-grupo.com/es/](https://www.aisa-grupo.com/es/)
+[Bilbao Intermodal](https://www.bilbaointermodal.eus/es/estacion-intermodal.html), la estación de autobuses de Bilbao, se encuentra en la calle Gurtubay nº1, conectada con Madrid (4h 30m) y Barcelona (8 h.) con servicios diarios ofrecidos por la empresa [ALSA](https://www.alsa.es/). Conectada a todos los transportes de la ciudad. Más información a través del teléfono 944 39 50 77. Horario de apertura: de 05:45 a 23:30 hrs y zona nocturna de 23:30 a 05:45 hrs.
 
 
 #### __Por carretera__ ![A test image]({{site.url}}/images/carretera_logo.png)
 
-Ciudad Real está bien comunicada por carretera pudiendo llegar por las autovías A-4, A-41, A-43 y carreteras nacionales.
+El acceso a Bilbao es posible desde varias entradas y una vez allí, dirigirse a la [Plaza Moyua](https://www.google.com/maps/place/Pl.+de+Don+Federico+Moy%C3%BAa,+Bilbao,+Vizcaya/@43.2626692,-2.9373646,17z/data=!3m1!4b1!4m5!3m4!1s0xd4e4fd77cf75557:0xf7568ccc8c4c758e!8m2!3d43.2626692!4d-2.9351759) sita en el centro de Bilbao a dos minutos del YIMBY.
 
-Puedes consultar la [localización de la Escuela Superior de Informática](https://www.google.es/maps/place/Escuela+Superior+de+Inform%C3%A1tica/@38.9902399,-3.9206207,19z/data=!3m1!4b1!4m5!3m4!1s0xd6bc3441815e52f:0xe9d3de4afcb57d4d!8m2!3d38.9902389!4d-3.9200735?hl=es)
 
 
