@@ -20,7 +20,7 @@ location: Bilbao
 date: Del 8 al 10 de junio de 2022
 logo: LOGO_JNIC_2022.png
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://2021.jnic.es"
+url: "https://2022.jnic.es"
 twitter_username: jekyllrb
 github_username:  jekyll
 
