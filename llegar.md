@@ -4,9 +4,10 @@
 
 layout: page
 ---
-<!--
-[Sede]({{site.url}}/sede) / __[Cómo llegar]({{site.url}}/llegar)__ / [Información turística]({{site.url}}/turismo) / [Alojamiento]({{site.url}}/alojamiento)
--->
+
+[Sede]({{site.url}}/sede) / __[Cómo llegar]({{site.url}}/llegar)__ / [Información turística]({{site.url}}/turismo) / [Alojamiento]({{site.url}}/alojamiento) / [Aparcamiento]({{site.url}}/aparcamiento)
+
+
 <div class="text-center">
 <a href="{{site.url}}/sede"><img src="{{site.url}}/images/IcoSede.jpg" class="img-circle" 	width="40" height="40"><strong>Sede</strong></a> &nbsp;&nbsp;&nbsp;
 <a href="{{site.url}}/llegar"><img src="{{site.url}}/images/IcoUbicacion.jpg" class="img-circle" 	width="40" height="40"><strong>Como llegar</strong></a>&nbsp;&nbsp;&nbsp;
