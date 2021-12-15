@@ -21,7 +21,7 @@ Con el objetivo de convertir estas jornadas en un foro científico de excelencia
 
 Este Programa, se basa en un certamen de retos científicos planteados por usuarios finales con necesidades en ciberseguridad (no cubiertas actualmente por el mercado) para ser resueltos por equipos nacionales de investigación.
 
-El Programa de Transferencia se articula en ediciones de un año de duración. En <b>JNIC <span style="color:#e3041e">2021</span></b>, dentro de esta sección, se darán a conocer los ganadores de la [edición 2019](http://2019.jnic.es/) y de igual forma, se presentarán los retos científicos disponibles de la edición 2021.
+El Programa de Transferencia se articula en ediciones de un año de duración. En <b>JNIC <span style="color:#e3041e">2022</span></b>, dentro de esta sección, se darán a conocer los ganadores de la [edición 2021](http://2021.jnic.es/) y de igual forma, se presentarán los retos científicos disponibles de la edición 2022.
 
 
 ### __¿Cómo participar?__
