@@ -4,14 +4,16 @@
 
 layout: page
 ---
-<!--
-[Sede]({{site.url}}/sede) / [Cómo llegar]({{site.url}}/llegar) / __[Información turística]({{site.url}}/turismo)__ / [Alojamiento]({{site.url}}/alojamiento)
--->
+
+[Sede]({{site.url}}/sede) / [Cómo llegar]({{site.url}}/llegar) / __[Información turística]({{site.url}}/turismo)__ / [Alojamiento]({{site.url}}/alojamiento)/ [Aparcamiento]({{site.url}}/aparcamiento)
+
+
 <div class="text-center">
 <a href="{{site.url}}/sede"><img src="{{site.url}}/images/IcoSede.jpg" class="img-circle" 	width="40" height="40"><strong>Sede</strong></a> &nbsp;&nbsp;&nbsp;
 <a href="{{site.url}}/llegar"><img src="{{site.url}}/images/IcoUbicacion.jpg" class="img-circle" 	width="40" height="40"><strong>Como llegar</strong></a>&nbsp;&nbsp;&nbsp;
 <a href="{{site.url}}/turismo"><img src="{{site.url}}/images/IcoTurismo.jpg" class="img-circle" 	width="40" height="40"><strong>Información turística</strong></a>&nbsp;&nbsp;&nbsp;
-<a href="{{site.url}}/alojamiento" class=""><img src="{{site.url}}/images/IcoAlojamiento.jpg" class="img-circle" 	width="40" height="40"><strong>Alojamiento</strong></a>
+<a href="{{site.url}}/alojamiento" class=""><img src="{{site.url}}/images/IcoAlojamiento.jpg" class="img-circle" 	width="40" height="40"><strong>Alojamiento</strong></a>&nbsp;&nbsp;&nbsp;
+<a href="{{site.url}}/aparcamiento" class=""><img src="{{site.url}}/images/IcoAparcamiento.jpg" class="img-circle" 	width="40" height="40"><strong>Aparcamiento</strong></a>
 </div><br>
 
 
