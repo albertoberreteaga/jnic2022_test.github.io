@@ -15,7 +15,15 @@ __[Sede]({{site.url}}/sede)__ / [Cómo llegar]({{site.url}}/llegar) / [Informaci
 </div><br>
 
 
-![](/images/ESI.jpg)
+![YIMBI]({{site.url}}/images/YIMBY_BILBAO.jpg)   
+    
+Las <b>VII <span style="color:#e3041e">J</span>ornadas <span style="color:#e3041e">N</span>acionales de <span style="color:#e3041e">I</span>nvestigación en <span style="color:#e3041e">C</span>iberseguridad (<span style="color:#e3041e">JNIC</span>)</b> tendrán lugar en las dependencias del espléndido edificio histórico sito en la céntrica Plaza Moyua. El lugar elegido se denomina __[YIMBY Bilbao](https://yimbybilbao.com/)__. __Y__ (Yes)-__I__ (In)-__M__ (my)-__B__ (back)-__Y__ (Yard).  
+
+YIMBY es un espacio con un diseño moderno que cuenta con todos los servicios necesarios para llevar a cabo un evento especial. Un espacio formado por cinco salas modulables, dos de ellas con capacidad para más de 100 asistentes y otras tres salas que pueden ser usadas como salas auxiliares para sesiones paralelas. Adaptado a las necesidades para dar un toque de exclusividad al evento. 1.200 m² en cinco salas modulables y versátiles que se combinan y adecuan al evento.
+Durante las pausas de las Jornadas se ofrecerá un servicio de catering. Asimismo, está previsto que se ofrezca un servicio de comida durante los tres días.
+
+<!--
+![](/images/ESI.jpg) -->
 
 <!--
 JNIC2021 tendrá lugar en la [Escuela Superior de Informática](https://esi.uclm.es/) de la [Universidad de Castilla-La Mancha](https://www.uclm.es), en Ciudad Real, España.
@@ -28,15 +36,12 @@ Con más de siete siglos de historia, Ciudad Real ofrece a los ciudadanos y visi
 Ciudad Real fue fundada por el Rey Alfonso X el Sabio en 1255, con el fin de frenar el creciente poder de las Órdenes Militares. Así, fundó una Ciudad Amurallada, con 7 puertas y 130 torres, de las que sólo se conserva un lienzo de muralla y la Puerta de Toledo. En la ciudad, los cristianos convivían con los judíos y los musulmanes, dividiéndose en tres parroquias: Santa María, San Pedro y Santiago. Fue en la época de los Reyes Católicos cuando la ciudad vivió su máximo esplendor, ubicando en ella el tribunal de la Santa Inquisición y la Cancillería Real. Parte de la historia de Ciudad Real se encuentra a unos ocho kilómetros de distancia en el parque arqueológico de Alarcos, un yacimiento con numerosos vestigios que destacan niveles de ocupación de la Edad de Bronce, la Edad de Hierro y la Edad Media, destacando los restos que documentan la famosa batalla de Alarcos en 1195. En el punto más alto se encuentra el Castillo Medieval y cerca de él, el bello santuario gótico de la Virgen de Alarcos. -->
 
 
-
-
-
 <!--
 <br><br>
 <h5 style="color:white; background-color: #550000;" class="text-center"><i class="far fa-clock mr-3"></i> <b>Contenido de la sede proximamente...</b></h5>
  <br><br> -->
 
-
+<!--
 ![YIMBI]({{site.url}}/images/YIMBY_BILBAO.jpg)   
     
 Las <b>VI <span style="color:#e3041e">J</span>ornadas <span style="color:#e3041e">N</span>acionales de <span style="color:#e3041e">I</span>nvestigación en <span style="color:#e3041e">C</span>iberseguridad (<span style="color:#e3041e">JNIC</span>)</b> tendrán lugar en las dependencias del espléndido [Monasterio San Francisco el Real](https://brocense.dip-caceres.es/espacios-y-congresos/complejo-cultural-san-francisco/), situado al extramuro de la Ciudad Monumental, al borde de la calzada romana conocida como Vía de la Plata. Este complejo está acondicionado para la organización de congresos, disponiendo de un completo auditorio, varias salas totalmente acondicionadas, y varios claustros para tomar un café en los descansos.  
