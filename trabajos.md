@@ -6,7 +6,7 @@
 layout: page
 ---
 
-El envio de publicaciones se abrirá durnate el mes de Enero de 2022.
+El envio de publicaciones se abrirá durante el mes de Enero de 2022.
 <!--
 Llamada a la participación en las <b>VII <span style="color:#e3041e">J</span>ornadas <span style="color:#e3041e">N</span>acionales de <span style="color:#e3041e">I</span>nvestigación en <span style="color:#e3041e">C</span>iberseguridad (<span style="color:#e3041e">JNIC</span>)</b>
 
@@ -31,10 +31,10 @@ El envío de contribuciones se realizará a través de la plataforma EasyChair, 
 Toda participación en las JNIC2022 estará sujeta a la aceptación de las [bases de participación]({{site.url}}/bases).
 Independientemente del tipo de contribución (en investigación y en formación e innovación educativa), los autores se deben comprometer a presentar los trabajos aceptados durante las Jornadas. 
 
-Todas las contribuciones (que podrán ser en español o en inglés) seguirán el estilo __IEEEtrans__ dispuesto para JNIC tanto en formato [Latex]({{site.url}}/assets/jnic2021_trabajos_latex.zip) como en formato [MS WORD]({{site.url}}/assets/jnic2021_trabajos_word.zip).
+Todas las contribuciones (que podrán ser en español o en inglés) seguirán el estilo __IEEEtrans__ dispuesto para JNIC tanto en formato [Latex]({{site.url}}/assets/jnic2022_trabajos_latex.zip) como en formato [MS WORD]({{site.url}}/assets/jnic2022_trabajos_word.zip).-->
 <!--El tamaño del póster debería ser A0 en formato vertical (841 mm ancho x 1189 mm alto).  -->
 <!--
 __Las versiones extendidas de los mejores artículos en investigación en ciberseguridad podrán enviarse a Special Issues de revistas indexadas en el JCR en posiciones relevantes. Los detalles se irán comunicando próximamente.__
 -->
-
+<!--
 __Las versiones extendidas de los mejores artículos podrán enviarse a Special Issues de revistas indexadas en el JCR en posiciones relevantes tales como [Applied Sciences MDPI](https://www.mdpi.com/journal/applsci/special_issues/Cybersecurity_Opportunities) (Q2) y [electronics MDPI](https://www.mdpi.com/journal/electronics/special_issues/Cybersecurity_defense) (Q2).__ -->
