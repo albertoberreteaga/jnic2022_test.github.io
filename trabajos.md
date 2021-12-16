@@ -7,8 +7,8 @@ layout: home
 ---
 
 El envio de publicaciones se abrirá durante el mes de Enero de 2022.
-<!--
-Llamada a la participación en las <b>VII <span style="color:#e3041e">J</span>ornadas <span style="color:#e3041e">N</span>acionales de <span style="color:#e3041e">I</span>nvestigación en <span style="color:#e3041e">C</span>iberseguridad (<span style="color:#e3041e">JNIC</span>)</b>
+
+<!-- Llamada a la participación en las <b>VII <span style="color:#e3041e">J</span>ornadas <span style="color:#e3041e">N</span>acionales de <span style="color:#e3041e">I</span>nvestigación en <span style="color:#e3041e">C</span>iberseguridad (<span style="color:#e3041e">JNIC</span>)</b> -->
 
 
 Las Jornadas, organizadas de forma conjunta con INCIBE, se centrarán fundamentalmente en tres áreas de trabajo:
@@ -20,8 +20,10 @@ Las Jornadas, organizadas de forma conjunta con INCIBE, se centrarán fundamenta
 
 2 - __Formación e innovación educativa en ciberseguridad__. En este caso, se espera un único tipo de contribución como artículo largo (máximo 8 páginas).
 
-3 - __Programa de transferencia tecnológica__ (certamen de retos científicos). [Más información](https://transferencia.jnic.es/edicion-2019-20).
- 
+3 - __Programa de transferencia tecnológica__ (certamen de retos científicos). Se proporcionará más información proximamente. 
+
+<!-- [Más información](https://transferencia.jnic.es/edicion-2019-20). -->
+<!-- 
 Aparte de esto, se considerarán resultados de __TFMs y Tesis Doctorales__ sobre ciberseguridad que deseen presentarse a la “Edición de Premios RENIC de Investigación en Ciberseguridad” que se concederá durante las Jornadas. [Ver bases y fechas](https://www.renic.es/es/convocados-los-premios-de-investigacion-en-ciberseguridad-2021). -->
 <!--
 __Fecha límite__ de recepción de trabajos:  _28/03/2021 (para tanto a artículos como resúmenes extendidos)_. -->
