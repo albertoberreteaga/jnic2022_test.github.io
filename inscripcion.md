@@ -4,16 +4,17 @@
 
 layout: page
 ---
-<h5 style="color:white; background-color: #550000;" class="text-center"><i class="far fa-clock mr-3"></i> <b> Abierto el plazo de inscripción a las jornadas. </b></h5>
+<h5 style="color:white; background-color: #550000;" class="text-center"><i class="far fa-clock mr-3"></i> <b> La inscripción a las jornadas se abrira en breve. <br/> Estate atento a esta página web y al twitter. </b></h5>
 <br/>
-
+<!--
 <p>Para inscribirte visita  <a href="http://eventos.uclm.es/go/jnic2021" target="_blank">http://eventos.uclm.es/go/jnic2021</a> y rellena el formulario que se encuentra al pulsar el botón <a href="https://eventos.uclm.es/event_detail/48324/tickets.html" target="_blank">INSCRIBIRSE</a> </p>
 <p>O puedes ir directamente al <a href="https://eventos.uclm.es/event_detail/48324/tickets.html" target="_blank">Formulario de Inscripción</a></p>
 
 <p>Es obligatorio que, al menos, un autor de cada contribución aceptada se inscriba en las JNIC para que el trabajo sea incluido en las actas.</p>
 <p><b>La cuota de inscripción de esta edición de JNIC Live es gratuita al tratarse de un evento online.</b></p>
 
-<center><b>¡Te esperamos!</b></center>
+<center><b>¡Te esperamos!</b></center> -->
+
 <!-- <center>Proximamente facilitaremos el formulario de inscrición</center> -->
 <!--
 Es obligatorio que, al menos, un autor de cada contribución aceptada se inscriba en las JNIC para que el trabajo sea incluido en las actas. La cuota de inscripción da derecho a asistir a todas las conferencias, sesiones, actividades, cafés y comidas organizadas durante las Jornadas (para una persona). Los acompañantes que deseen asistir a los actos sociales organizados de forma complementaria, deberán hacer frente a los pagos indicados.
