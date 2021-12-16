@@ -21,12 +21,16 @@ layout: page
 
 ### __Información turística__
 <br>
-<div class="text-center">
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=YYmwsu_03g8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-<br>
+
 
 Bilbao es un municipio y ciudad de España, capital de la provincia de Vizcaya en la comunidad autónoma del País Vasco. Con una población de más de 350.000 habitantes en 2020, es la mayor ciudad del País Vasco y la décima de España. El área metropolitana de Bilbao, llamada Gran Bilbao, tiene aproximadamente un millón de habitantes, lo que la convierte en la quinta área urbana más grande de España.
+<br>
+<div class="text-center">
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YYmwsu_03g8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!--<iframe> width="560" height="315" src="https://www.youtube.com/watch?v=YYmwsu_03g8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
+</div>
+<br>
 
 Bilbao fue fundada en 1300 por D. Diego López de Haro y fue principalmente una ciudad comercial debido a la importancia del puerto basado en la exportación del hierro que se podía encontrar en las montañas que rodean la ciudad. La industrialización de la zona se hizo aún más importante en el siglo XIX y principios del XX, convirtiendo a la ciudad en la segunda más industrializada de España sólo por detrás de Barcelona.  La población aumentó extraordinariamente en esa época. Tras una grave crisis industrial en los años 80 y 90, Bilbao inició un proceso de renovación y la ciudad se convirtió en una pujante ciudad de servicios revitalizada por varias iniciativas como la construcción del Museo Guggenheim (arquitecto Frank Gehry), la nueva terminal del aeropuerto (arquitecto Calatrava), el metro (arquitecto Norman Foster), la Alhóndiga (arquitecto Ricardo Bastida, renovada por Phillippe Starck) y la zona de Abandoibarra.
 
