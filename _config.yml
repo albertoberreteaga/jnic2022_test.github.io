@@ -70,3 +70,5 @@ links:
   - title: Contacto
     url: /contacto
     external: false
+
+theme: jekyll-theme-cayman
