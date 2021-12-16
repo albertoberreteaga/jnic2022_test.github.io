@@ -4,8 +4,8 @@
 
 layout: page
 ---
-
-[Sede]({{site.url}}/sede) / [Cómo llegar]({{site.url}}/llegar) / [Información turística]({{site.url}}/turismo) / [Alojamiento]({{site.url}}/alojamiento) / __[Aparcamiento]({{site.url}}/aparcamiento)__
+<!--
+[Sede]({{site.url}}/sede) / [Cómo llegar]({{site.url}}/llegar) / [Información turística]({{site.url}}/turismo) / [Alojamiento]({{site.url}}/alojamiento) / __[Aparcamiento]({{site.url}}/aparcamiento)__ -->
 
 <div class="text-center">
 <a href="{{site.url}}/sede"><img src="{{site.url}}/images/IcoSede.jpg" class="img-circle" 	width="40" height="40"><strong>Sede</strong></a> &nbsp;&nbsp;&nbsp;
