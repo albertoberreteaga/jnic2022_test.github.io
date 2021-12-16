@@ -4,8 +4,8 @@
 
 layout: page
 ---
-
-[Sede]({{site.url}}/sede) / __[Cómo llegar]({{site.url}}/llegar)__ / [Información turística]({{site.url}}/turismo) / [Alojamiento]({{site.url}}/alojamiento) / [Aparcamiento]({{site.url}}/aparcamiento)
+<!--
+[Sede]({{site.url}}/sede) / __[Cómo llegar]({{site.url}}/llegar)__ / [Información turística]({{site.url}}/turismo) / [Alojamiento]({{site.url}}/alojamiento) / [Aparcamiento]({{site.url}}/aparcamiento)-->
 
 
 <div class="text-center">
