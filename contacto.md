@@ -4,6 +4,6 @@
 
 layout: page
 ---
-__JNIC 2021__  
+__JNIC 2022__  
 
-<img class="" src="{{ site.url }}/images/Email2.jpg">
+<img class="" src="{{ site.url }}/images/email2022.png">
