@@ -19,47 +19,50 @@ layout: page
 
 ### __Alojamiento__
 
-<a data-fancybox="gallery-carlota" href="{{site.url}}/images/hoteles/carlota.jpg"><img src="{{site.url}}/images/hoteles/carlota.jpg" style="margin-left:15px;width: 100%; border-radius: 25px; max-width: 400px; height: auto; float: right"></a>
-##### __Hotel Doña Carlota **** (recomendado <sup>1</sup>)__
+<a data-fancybox="gallery-carlota" href="{{site.url}}/images/hoteles/ercilla01.jpg"><img src="{{site.url}}/images/hoteles/ercilla01.jpg" style="margin-left:15px;width: 100%; border-radius: 25px; max-width: 400px; height: auto; float: right"></a>
+##### __Hotel ERCILLA **** __
+
 
 Contacto/Dirección
-    <br>&nbsp;&nbsp;&nbsp;&nbsp; [Web del hotel](http://www.hotelcarlota.es/)  
-    &nbsp;&nbsp;&nbsp;&nbsp; Dirección: Rda de Toledo, 21, 13003.
-    <br>&nbsp;&nbsp;&nbsp;&nbsp; Teléfono de reservas: (+34) 926 231 610
-<br>
-Distancias:
-  <br>&nbsp;&nbsp;&nbsp;&nbsp;22 minutos caminando a/desde la [estación de tren](https://www.google.com/maps/dir/Parking+Estaci%C3%B3n+AVE,+Ciudad+Real/Hotel+Do%C3%B1a+Carlota,+Ronda+de+Toledo,+Ciudad+Real/@38.9892355,-3.9217915,16z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0xd6bc349e56b276f:0x8692a93cf4952340!2m2!1d-3.91209!2d38.98543!1m5!1m1!1s0xd6bc343116e1a65:0x49d9184d13e2a4a7!2m2!1d-3.9233854!2d38.9941623!3e2)
-  <br>&nbsp;&nbsp;&nbsp;&nbsp; 8 minutos caminando a/desde la [ESI](https://www.google.com/maps/dir/Escuela+Superior+de+Inform%C3%A1tica,+Paseo+Universidad,+4,+13071+Ciudad+Real,+Cdad.+Real/Hotel+Do%C3%B1a+Carlota,+Ronda+de+Toledo,+21,+13005+Ciudad+Real,+Cdad.+Real/@38.9922006,-3.9240104,17z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0xd6bc3441815e52f:0xe9d3de4afcb57d4d!2m2!1d-3.9200735!2d38.9902389!1m5!1m1!1s0xd6bc343116e1a65:0x49d9184d13e2a4a7!2m2!1d-3.9233854!2d38.9941623!3e2)
-  <br>&nbsp;&nbsp;&nbsp;&nbsp; 16 minutos caminando a/desde centro [Ciudad Real](https://www.google.com/maps/dir/Hotel+Do%C3%B1a+Carlota,+Ronda+de+Toledo,+Ciudad+Real/Plaza+Mayor,+13001+Ciudad+Real,+Cdad.+Real/@38.9898043,-3.9300161,16z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0xd6bc343116e1a65:0x49d9184d13e2a4a7!2m2!1d-3.9233854!2d38.9941623!1m5!1m1!1s0xd6bc36ae853415d:0xff9f99208a5918a5!2m2!1d-3.9287594!2d38.9854464!3e2)<br>
-   <sup>1</sup>Recomendado por su ubicación, en él se realizarán las comidas. A la hora de reservar, se debe indicar que es para el congreso JNIC2021.
+    <br>&nbsp;&nbsp;&nbsp;&nbsp; [Web del hotel](https://www.espanol.marriott.com/)  
+    &nbsp;&nbsp;&nbsp;&nbsp; Dirección: Ercilla 37-39. [Mapa] (https://www.espanol.marriott.com/hotels/maps/travel/bioak-hotel-ercilla-de-bilbao-autograph-collection/?maps) 
+    <br>&nbsp;&nbsp;&nbsp;&nbsp; Teléfono de reservas: (+34) 944 70 57 00
 
-<a data-fancybox="gallery-carlota" href="{{site.url}}/images/hoteles/Carlota01.jpg"></a>
-<a data-fancybox="gallery-carlota" href="{{site.url}}/images/hoteles/Carlota02.jpg"></a>
-<a data-fancybox="gallery-carlota" href="{{site.url}}/images/hoteles/Carlota03.jpg"></a>
-<a data-fancybox="gallery-carlota" href="{{site.url}}/images/hoteles/Carlota04.jpg"></a>
-<a data-fancybox="gallery-carlota" href="{{site.url}}/images/hoteles/Carlota05.jpg"></a>
+<br>
+
+Parking en el propio hotel. Tarifa de 20€/día.
+
+Otros servicios: 13 pisos, 278 habitaciones, 7 suites, 3 salas de reuniones, 355 Metros cuadrados del total espacio para reuniones. Política libre humo. Acceso inalámbrico gratis.
+
+<br>
+
+<a data-fancybox="gallery-ercilla" href="{{site.url}}/images/hoteles/ercilla01.jpg"></a>
+<a data-fancybox="gallery-ercilla" href="{{site.url}}/images/hoteles/ercilla02.jpg"></a>
+<a data-fancybox="gallery-ercilla" href="{{site.url}}/images/hoteles/ercilla03.jpg"></a>
+<a data-fancybox="gallery-ercilla" href="{{site.url}}/images/hoteles/ercilla04.jpg"></a>
+
 
 <div style="margin-bottom:50px;clear:both"></div>
 
 
 
-<a data-fancybox="gallery-cumbria" href="{{site.url}}/images/hoteles/cumbria.jpg"><img src="{{site.url}}/images/hoteles/cumbria.jpg" style="margin-left:15px;width: 100%; border-radius: 25px; max-width: 400px; height: auto; float: right"></a>
-##### __Hotel Cumbria ***__
+<a data-fancybox="gallery-miro" href="{{site.url}}/images/hoteles/miro01.jpg"><img src="{{site.url}}/images/hoteles/miro01.jpg" style="margin-left:15px;width: 100%; border-radius: 25px; max-width: 400px; height: auto; float: right"></a>
+##### __Hotel Miro ***__
 
 Contacto/Dirección
-    <br>&nbsp;&nbsp;&nbsp;&nbsp; [Web del hotel](https://www.cumbriahotel.es/)  
-    &nbsp;&nbsp;&nbsp;&nbsp; Dirección: Crta de Toledo, 26, 13005.
-    <br>&nbsp;&nbsp;&nbsp;&nbsp; Teléfono de reservas: (+34) 926 217 672
+    <br>&nbsp;&nbsp;&nbsp;&nbsp; [Web del hotel](https://www.mirohotelbilbao.com/)  
+    &nbsp;&nbsp;&nbsp;&nbsp; Dirección: Mazarredo Zumarkalea, 77. [Mapa] (https://www.google.es/maps/dir/hotel+miro+bilbao/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0xd4e4fd8bb8cc12b:0xb1eda75f6a18e4a2?sa=X&ved=2ahUKEwiRlc_Ui-H0AhU4QvEDHfaMDXAQ9Rd6BAgOEAQ)
+    <br>&nbsp;&nbsp;&nbsp;&nbsp; Teléfono de reservas: (+34) 946 61 18 80
 <br>
-Distancias:
-  <br>&nbsp;&nbsp;&nbsp;&nbsp;32 minutos caminando a/desde la [estación de tren](https://www.google.com/maps/dir/Parking+Estaci%C3%B3n+AVE,+Ciudad+Real/Hotel+Cumbria,+Calle+de+Toledo,+Ciudad+Real/@38.9915565,-3.927468,15z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0xd6bc349e56b276f:0x8692a93cf4952340!2m2!1d-3.91209!2d38.98543!1m5!1m1!1s0xd6bc369bf27224b:0x173c93ebd1952c60!2m2!1d-3.9270883!2d38.9987082!3e2)
-  <br>&nbsp;&nbsp;&nbsp;&nbsp;15 minutos caminando a/desde la [ESI](https://www.google.com/maps/dir/Escuela+Superior+de+Inform%C3%A1tica,+Paseo+Universidad,+4,+13071+Ciudad+Real,+Cdad.+Real/Hotel+Cumbria,+Calle+de+Toledo,+Ciudad+Real/@38.9944735,-3.9280511,16z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0xd6bc3441815e52f:0xe9d3de4afcb57d4d!2m2!1d-3.9200735!2d38.9902389!1m5!1m1!1s0xd6bc369bf27224b:0x173c93ebd1952c60!2m2!1d-3.9270883!2d38.9987082!3e2)
-  <br>&nbsp;&nbsp;&nbsp;&nbsp;19 minutos caminando a/desde centro [Ciudad Real](https://www.google.com/maps/dir/Hotel+Cumbria,+Calle+de+Toledo,+Ciudad+Real/Plaza+Mayor,+13001+Ciudad+Real,+Cdad.+Real/@38.9920772,-3.9326305,16z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0xd6bc369bf27224b:0x173c93ebd1952c60!2m2!1d-3.9270883!2d38.9987082!1m5!1m1!1s0xd6bc36ae853415d:0xff9f99208a5918a5!2m2!1d-3.9287594!2d38.9854464!3e2)
 
-<a data-fancybox="gallery-cumbria" href="{{site.url}}/images/hoteles/cumbria01.jpg"></a>
-<a data-fancybox="gallery-cumbria" href="{{site.url}}/images/hoteles/cumbria02.jpg"></a>
-<a data-fancybox="gallery-cumbria" href="{{site.url}}/images/hoteles/cumbria03.jpg"></a>
-<a data-fancybox="gallery-cumbria" href="{{site.url}}/images/hoteles/cumbria04.jpg"></a>
+El hotel no tiene parking propio. Dispone de parking cercano.
+Otros servicios: Algunos de los servicios más populares que se ofrecen son wifi gratuito, bar y gimnasio. Situado entre los museos Guggenheim y Bellas Artes, y a pocos minutos a pie del Casco Antiguo. Este Hotel Boutique fue diseñado por el modisto Antonio Miró, dotándolo de un estilo contemporáneo.
+
+
+<a data-fancybox="gallery-miro" href="{{site.url}}/images/hoteles/miro01.jpg"></a>
+<a data-fancybox="gallery-miro" href="{{site.url}}/images/hoteles/miro02.jpg"></a>
+<a data-fancybox="gallery-miro" href="{{site.url}}/images/hoteles/miro03.jpg"></a>
+<a data-fancybox="gallery-miro" href="{{site.url}}/images/hoteles/miro04.jpg"></a>
 
 <div style="margin-bottom:50px;clear:both"></div>
 
