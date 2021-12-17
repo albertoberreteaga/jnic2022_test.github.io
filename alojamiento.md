@@ -24,9 +24,10 @@ layout: page
 
 
 Contacto/Dirección
-    <br>&nbsp;&nbsp;&nbsp;&nbsp; [Web del hotel](https://www.espanol.marriott.com/)  
-    &nbsp;&nbsp;&nbsp;&nbsp; Dirección: Ercilla 37-39. [Mapa] (https://www.espanol.marriott.com/hotels/maps/travel/bioak-hotel-ercilla-de-bilbao-autograph-collection/?maps) 
+    <br>&nbsp;&nbsp;&nbsp;&nbsp; [Web del hotel](https://www.espanol.marriott.com/)    
+    &nbsp;&nbsp;&nbsp;&nbsp; Dirección: Ercilla 37-39. [Mapa](https://www.espanol.marriott.com/hotels/maps/travel/bioak-hotel-ercilla-de-bilbao-autograph-collection/?maps)    
     <br>&nbsp;&nbsp;&nbsp;&nbsp; Teléfono de reservas: (+34) 944 70 57 00
+   
 
 <br>
 
@@ -51,8 +52,9 @@ Otros servicios: 13 pisos, 278 habitaciones, 7 suites, 3 salas de reuniones, 355
 
 Contacto/Dirección
     <br>&nbsp;&nbsp;&nbsp;&nbsp; [Web del hotel](https://www.mirohotelbilbao.com/)  
-    &nbsp;&nbsp;&nbsp;&nbsp; Dirección: Mazarredo Zumarkalea, 77. [Mapa] (https://www.google.es/maps/dir/hotel+miro+bilbao/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0xd4e4fd8bb8cc12b:0xb1eda75f6a18e4a2?sa=X&ved=2ahUKEwiRlc_Ui-H0AhU4QvEDHfaMDXAQ9Rd6BAgOEAQ)
+    &nbsp;&nbsp;&nbsp;&nbsp; Dirección: Mazarredo Zumarkalea, 77. [Mapa](https://www.google.es/maps/dir/hotel+miro+bilbao/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0xd4e4fd8bb8cc12b:0xb1eda75f6a18e4a2?sa=X&ved=2ahUKEwiRlc_Ui-H0AhU4QvEDHfaMDXAQ9Rd6BAgOEAQ)
     <br>&nbsp;&nbsp;&nbsp;&nbsp; Teléfono de reservas: (+34) 946 61 18 80
+    
 <br>
 
 El hotel no tiene parking propio. Dispone de parking cercano.
