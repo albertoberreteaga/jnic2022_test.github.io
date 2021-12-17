@@ -13,18 +13,17 @@ layout: sponsors
 -->
 
 <div>
-    <a href="http://catedratelefonica.ulpgc.es/" target="_blank"><img style="max-height: 130px; padding:25px;" src="{{site.url}}/images/patrocinadores/LogoCatedraTelefonica.jpg"></a>
-    <a href="https://www.renic.es" target="_blank"><img style="max-height: 130px; padding:25px;" src="{{site.url}}/images/patrocinadores/LogoRENIC.jpg"></a>
-    <a href="https://www.cojali.com/es/" target="_blank"><img style="max-height: 130px; padding:25px;" src="{{site.url}}/images/patrocinadores/GrupoCojali.jpg"></a>
+    <a href="https://web.bizkaia.eus/es/" target="_blank"><img style="max-height: 130px; padding:25px;" src="{{site.url}}/images/patrocinadores/DFB.png"></a>
+    <a href="https://www.bilbao.eus/cs/Satellite?cid=3000005415&language=es&pagename=Bilbaonet%2FPage%2FBIO_home" target="_blank"><img style="max-height: 130px; padding:25px;" src="{{site.url}}/images/patrocinadores/Bilbao.png"></a>
+    <a href="https://www.basquecybersecurity.eus/es/" target="_blank"><img style="max-height: 130px; padding:25px;" src="{{site.url}}/images/patrocinadores/BCSC.png"></a>
     <br>
-    <a href="https://avanttic.com/aula-smact/" target="_blank"><img style="max-height: 100px; padding:20px;" src="{{site.url}}/images/patrocinadores/AulaAvanttic.jpg"></a>
-    <a href="http://alpinia.digital/" target="_blank"><img style="max-height: 100px; padding:20px;" src="{{site.url}}/images/patrocinadores/LogoAulaAlpinia.jpg"></a>
-    <a href="https://www.uclm.es/perfiles/empresa/colaboracionmecenazgo/catedrasaulasempresa/catedra_indra" target="_blank"><img style="max-height: 100px; padding:20px;" src="{{site.url}}/images/patrocinadores/LogoCatedraIndra.jpg"></a>
+    <a href="https://www.cybasque.eus/home-cybasque" target="_blank"><img style="max-height: 100px; padding:20px;" src="{{site.url}}/images/patrocinadores/CYBASQUE.png"></a>
+    <a href="https://www.ziur.eus/es/" target="_blank"><img style="max-height: 100px; padding:20px;" src="{{site.url}}/images/patrocinadores/ZIUR.jpg"></a>
+    <a href="https://www.renic.es" target="_blank"><img style="max-height: 100px; padding:20px;" src="{{site.url}}/images/patrocinadores/LogoRENIC.jpg"></a>
     <br>
-    <a href="https://www.viewnext.com/" target="_blank"><img style="max-height: 130px; padding:25px;" src="{{site.url}}/images/patrocinadores/viewnext.png"></a>
+    <a href="https://www.ibm.com/es-es" target="_blank"><img style="max-height: 130px; padding:25px;" src="{{site.url}}/images/patrocinadores/ibm.png"></a>
     <br>
-    <a href="https://esi.uclm.es/" target="_blank"><img style="max-height: 130px; padding:25px;" src="{{site.url}}/images/patrocinadores/LogoESI.jpg"></a>
-    <a href="https://alarcos.esi.uclm.es/itsi/" target="_blank"><img style="max-height: 130px; padding:25px;" src="{{site.url}}/images/patrocinadores/LogoITSI.jpg"></a>
-    <a href="https://www.uclm.es/departamentos/dtsi" target="_blank"><img style="max-height: 130px; padding:25px;" src="{{site.url}}/images/patrocinadores/LogoDTSI.jpg"></a>
-    <br>
+    <a href="https://www.accenture.com/es-es" target="_blank"><img style="max-height: 130px; padding:25px;" src="{{site.url}}/images/patrocinadores/accenture.png"></a>
+    <a href="https://www.telefonica.es/es/" target="_blank"><img style="max-height: 130px; padding:25px;" src="{{site.url}}/images/patrocinadores/telefonica.png"></a>
+        <br>
 </div>
