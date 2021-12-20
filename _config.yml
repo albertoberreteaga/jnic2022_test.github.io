@@ -61,9 +61,9 @@ links:
   - title: Inscripción
     url: /inscripcion
     external: false
-  - title: Patrocinadores
-    url: /patrocinadores
-    external: false
+  # - title: Patrocinadores
+  # url: /patrocinadores
+  # external: false
   - title: Contacto
     url: /contacto
     external: false
