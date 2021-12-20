@@ -85,7 +85,25 @@ __Otros servicios__: El Hotel Abando se encuentra ubicado en el centro de Bilbao
 
 <div style="margin-bottom:50px;clear:both"></div>
 
+<a data-fancybox="gallery-barcelo" href="{{site.url}}/images/hoteles/barcelo01.jpg"><img src="{{site.url}}/images/hoteles/barcelo01.jpg" style="margin-left:15px;width: 100%; border-radius: 25px; max-width: 400px; height: auto; float: right"></a>
 
+##### __Hotel Barceló Nervión ****__
+
+
+Contacto/Dirección
+    <br>&nbsp;&nbsp;&nbsp;&nbsp; [Web del hotel](https://www.barcelo.com/es-es/barcelo-bilbao-nervion/)    
+    &nbsp;&nbsp;&nbsp;&nbsp; Dirección: Campo de Volantín Pasealekua, 11. [Mapa](https://www.google.es/maps/place/Barcel%C3%B3+Bilbao+Nervi%C3%B3n/@43.2652059,-2.9272877,17z/data=!3m1!4b1!4m8!3m7!1s0xd4e4fc5bd31b45d:0x83b19b023e2f1c0d!5m2!4m1!1i2!8m2!3d43.265202!4d-2.925099)    
+    <br>&nbsp;&nbsp;&nbsp;&nbsp; Teléfono de reservas: (+34) 944 45 47 00
+   
+<br>
+
+__Parking:__ En el propio hotel.
+__Otros servicios:__ Este exclusivo hotel se encuentra a 10 minutos a pie de la estación de metro de Bilbao, a 13 del Museo Guggenheim Bilbao y a 9 km del Bilbao Exhibition Centre. El hotel dispone de un restaurante refinado de cocina vasca, un bar en el vestíbulo que sirve platos ligeros, vinoteca, 10 salas de reuniones, centro de negocios y galería de arte. Las habitaciones, modernas y funcionales, cuentan con Wi‑Fi gratis.
+
+<br>
+
+
+<div style="margin-bottom:50px;clear:both"></div>
 
 
 
