@@ -7,7 +7,7 @@ layout: home
 ---
 
 
-<h5 style="color:white; background-color: #550000;" class="text-center"><i class="far fa-clock mr-3"></i> <b> <i> El envio de publicaciones se abrirá durante el mes de Enero de 2022..</i></b></h5>
+<h5 style="color:white; background-color: #550000;" class="text-center"><i class="far fa-clock mr-3"></i> <b> <i> El envio de publicaciones se abrirá durante el mes de Enero de 2022.</i></b></h5>
  <br><br>
 
 <!-- Llamada a la participación en las <b>VII <span style="color:#e3041e">J</span>ornadas <span style="color:#e3041e">N</span>acionales de <span style="color:#e3041e">I</span>nvestigación en <span style="color:#e3041e">C</span>iberseguridad (<span style="color:#e3041e">JNIC</span>)</b> -->
