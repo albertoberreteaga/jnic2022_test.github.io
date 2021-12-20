@@ -1,25 +1,25 @@
 [
 	{
 		"titulo":"Recepción de trabajos",
-		"contenido":"11/03/2022",
+		"contenido":"15/03/2022",
 		"fecha_ref":"1",
 		"activada": true
 	},
 	{
 		"titulo":"Notificación a los autores",
-		"contenido":"06/05/2022",
+		"contenido":"13/05/2022",
 		"fecha_ref":"2",
 		"activada": true
 	},
 	{
 		"titulo":"Inscripción a las jornadas",
-		"contenido":"20/05/2022",
+		"contenido":"25/05/2022",
 		"fecha_ref":"4",
 		"activada": true
 	},
 	{
 		"titulo":"Envío de trabajos definitivos",
-		"contenido":"13/05/2022",
+		"contenido":"20/05/2022",
 		"fecha_ref":"3",
 		"activada": true
 	},
