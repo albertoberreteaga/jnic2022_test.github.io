@@ -20,7 +20,7 @@ layout: page
 ### __Alojamiento__
 
 <a data-fancybox="gallery-carlota" href="{{site.url}}/images/hoteles/ercilla01.jpg"><img src="{{site.url}}/images/hoteles/ercilla01.jpg" style="margin-left:15px;width: 100%; border-radius: 25px; max-width: 400px; height: auto; float: right"></a>
-##### __Hotel ERCILLA **** __
+##### __Hotel ERCILLA ****__
 
 
 Contacto/Dirección
@@ -48,7 +48,7 @@ Otros servicios: 13 pisos, 278 habitaciones, 7 suites, 3 salas de reuniones, 355
 
 
 <a data-fancybox="gallery-miro" href="{{site.url}}/images/hoteles/miro01.jpg"><img src="{{site.url}}/images/hoteles/miro01.jpg" style="margin-left:15px;width: 100%; border-radius: 25px; max-width: 400px; height: auto; float: right"></a>
-##### __Hotel Miro ***__
+##### __Hotel Miro ****__
 
 Contacto/Dirección
     <br>&nbsp;&nbsp;&nbsp;&nbsp; [Web del hotel](https://www.mirohotelbilbao.com/)  
