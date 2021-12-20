@@ -25,7 +25,7 @@ layout: page
 
 Contacto/Dirección
     <br>&nbsp;&nbsp;&nbsp;&nbsp; [Web del hotel](https://www.espanol.marriott.com/)    
-    &nbsp;&nbsp;&nbsp;&nbsp; Dirección: Ercilla 37-39. [Mapa](https://www.google.es/maps/place/Hotel+Ercilla+de+Bilbao/@43.2611026,-2.9408092,17z/data=!3m1!4b1!4m8!3m7!1s0xd4e5028388181dd:0x1b0d1daf36a39f01!5m2!4m1!1i2!8m2!3d43.2611046!4d-2.9386219)    
+    &nbsp;&nbsp;&nbsp;&nbsp; Dirección: Ercilla 37-39. [Mapa](https://www.google.es/maps/place/Hotel+Ercilla+de+Bilbao/@43.2611026,-2.9408092,17z/data=!3m1!4b1!4m8!3m7!1s0xd4e5028388181dd:0x1b0d1daf36a39f01!5m2!4m1!1i2!8m2!3d43.2611046!4d-2.9386219) 
     <br>&nbsp;&nbsp;&nbsp;&nbsp; Teléfono de reservas: (+34) 944 70 57 00
    
 
@@ -47,7 +47,7 @@ __Parking:__ En el propio hotel. Tarifa de 20€/día.
 Contacto/Dirección
     <br>&nbsp;&nbsp;&nbsp;&nbsp; [Web del hotel](https://www.mirohotelbilbao.com/)  
     &nbsp;&nbsp;&nbsp;&nbsp; Dirección: Mazarredo Zumarkalea, 77. [Mapa](https://www.google.es/maps/place/Hotel+Mir%C3%B3/@43.2668461,-2.9388457,17z/data=!3m1!4b1!4m8!3m7!1s0xd4e4fd8bb8cc12b:0xb1eda75f6a18e4a2!5m2!4m1!1i2!8m2!3d43.2668395!4d-2.9366559)
-    <br>&nbsp;&nbsp;&nbsp;&nbsp; Teléfono de reservas: (+34) 946 61 18 80
+    &nbsp;&nbsp;&nbsp;&nbsp; Teléfono de reservas: (+34) 946 61 18 80
     
 <br>
 
