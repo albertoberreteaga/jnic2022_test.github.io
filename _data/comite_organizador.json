@@ -4,12 +4,12 @@
 		"members":
 		[
 			{
-				"name" : [{"n":"Eduardo", "a": "Fernández-Medina Patón", "a_sort": "Fernández-Medina Patón"}],
-				"organization": "Universidad de Castilla-la Mancha"
+				"name" : [{"n":"Ana", "a": "Ayerbe Fernandez-Cuesta", "a_sort": "Ayerbe Fernandez-Cuesta"}],
+				"organization": "TECNALIA"
 			},
 			{
-				"name" : [{"n":"Manuel Ángel", "a": "Serrano Martín", "a_sort": "Serrano Martín"}],
-				"organization": "Universidad de Castilla-la Mancha"
+				"name" : [{"n":"Oscar", "a": "Lage Serrano", "a_sort": "Lage Serrano"}],
+				"organization": "TECNALIA"
 			}
 		]
 	},
@@ -17,13 +17,9 @@
 		"chair" : "Finanzas",
 		"members":
 		[
-			{
-				"name" : [{"n":"David", "a": "García Rosado", "a_sort": "Esteban Diaz Verdejo"}],
-				"organization": "Universidad de Castilla-la Mancha"
-			},
-			{
-				"name" : [{"n":"Luis Enrique", "a": "Sánchez Crespo", "a_sort": "Sánchez Crespo"}],
-				"organization": "Universidad de Castilla-la Mancha"
+						{
+				"name" : [{"n":"Elena", "a": "Urrutia Beldarrain", "a_sort": "Urrutia Beldarrain"}],
+				"organization": "TECNALIA"
 			}
 		]
 	},
@@ -32,8 +28,8 @@
 		"members":
 		[
 			{
-				"name" : [{"n":"Antonio", "a": "Santos-Olmo Parra", "a_sort": "Santos-Olmo Parra"}],
-				"organization": "Universidad de Castilla-la Mancha"
+				"name" : [{"n":"Marisa", "a": "Escalante Martínez", "a_sort": "Escalante Martínez"}],
+				"organization": "TECNALIA"
 			}
 		]
 	},
@@ -42,17 +38,13 @@
 		"members":
 		[
 			{
-				"name" : [{"n":"Julio", "a":"Moreno García-Nieto", "a_sort": "Moreno García-Nieto"}],
-				"organization": "Universidad de Castilla-la Mancha"
+				"name" : [{"n":"Eva", "a":"Salgado Etxebarria", "a_sort": "Salgado Etxebarria"}],
+				"organization": "TECNALIA"
 			},
 			{
-				"name" : [{"n":"José Antonio", "a":"Cruz Lemus", "a_sort": "Cruz Lemus"}],
-				"organization": "Universidad de Castilla-la Mancha"
-			},
-			{
-				"name" : [{"n":"María de los Ángeles ", "a":"Moraga de la Rubia", "a_sort": "Moraga de la Rubia"}],
-				"organization": "Universidad de Castilla-la Mancha"
-			}
+				"name" : [{"n":"Pilar", "a":"Ruiz Ibañez", "a_sort": "Ruiz Ibañez"}],
+				"organization": "TECNALIA"
+			}			
 		]
 	},
 	{
@@ -60,8 +52,8 @@
 		"members":
 		[
 			{
-				"name" : [{"n":"Aurelio José", "a":"Horneros Cano", "a_sort": "Horneros Cano"}],
-				"organization": "Universidad de Castilla-la Mancha"
+				"name" : [{"n":"Alberto", "a":"Berreteaga Barbero", "a_sort": "Berreteaga Barbero"}],
+				"organization": "TECNALIA"
 			}
 		]
 	},
@@ -70,20 +62,12 @@
 		"members":
 		[
 			{
-				"name" : [{"n":"Ignacio", "a":"García-Rodriguez de Guzmán", "a_sort": "García-Rodriguez de Guzmán"}],
-				"organization": "Universidad de Castilla-la Mancha"
+				"name" : [{"n":"Eva", "a":"Salgado Etxebarria", "a_sort": "Salgado Etxebarria"}],
+				"organization": "TECNALIA"
 			},
 			{
-				"name" : [{"n":"Ismael", "a":"Caballero Muñoz-Reja ", "a_sort": "Caballero Muñoz-Reja "}],
-				"organization": "Universidad de Castilla-la Mancha"
-			},
-			{
-				"name" : [{"n":"Gregoria", "a":"Romero Grande", "a_sort": "Romero Grande"}],
-				"organization": "Universidad de Castilla-la Mancha"
-			},
-			{
-				"name" : [{"n":"Natalia", "a":"Sanchez Pinilla", "a_sort": "Sanchez Pinilla"}],
-				"organization": "Universidad de Castilla-la Mancha"
+				"name" : [{"n":"Aranzazu", "a":"Gamez Rodriguez", "a_sort": "Gamez Rodriguez"}],
+				"organization": "TECNALIA"
 			}
 		]
 	}
