@@ -14,7 +14,8 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
 <a href="{{site.url}}/track-transferencia" class=""><img src="{{site.url}}/images/IcoTrackTX.jpg" class="img-circle" 	width="40" height="40"><strong>Track de Transferencia</strong></a>
 </div><br>
 
-
+<h5 style="color:white; background-color: #550000;" class="text-center"><i class="far fa-clock mr-3"></i> <b> <i> El Track de transferencia está en proceso de definición. Esta página se irá actualizando con más información.</i></b></h5>
+<!--
 ### __¿Qué es el Track de Transferencia JNIC?__
 
 Con el objetivo de convertir estas jornadas en un foro científico de excelencia en el ámbito de la ciberseguridad a nivel nacional que fomenta la innovación, JNIC cuenta con un completo Programa de Transferencia Tecnológica, que permite poner en contacto a usuarios finales (empresas, organismos, etc.) e investigadores.
@@ -39,4 +40,4 @@ Puedes encontrar toda la información relativa al Track de Transferencia a trav�
 
 ### __Consultas__
 
-Para cualquier cuestión respecto al Programa de Transferencia, envíanos tu consulta a través de la [web del Programa de Transferencia JNIC](http://transferencia.jnic.es/).
+Para cualquier cuestión respecto al Programa de Transferencia, envíanos tu consulta a través de la [web del Programa de Transferencia JNIC](http://transferencia.jnic.es/). -->
