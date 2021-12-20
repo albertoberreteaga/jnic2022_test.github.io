@@ -38,10 +38,9 @@ __Parking:__ En el propio hotel. Tarifa de 20€/día.
 
 
 <div style="margin-bottom:50px;clear:both"></div>
-<!--
-<a data-fancybox="gallery-miro" href="{{site.url}}/images/hoteles/miro05.jpg"><img src="{{site.url}}/images/hoteles/miro05.jpg" style="margin-left:15px;width: 100%; border-radius: 25px; max-width: 400px; height: auto; float: right"></a> -->
 
-href="{{site.url}}/images/hoteles/miro05.jpg"><img src="{{site.url}}/images/hoteles/miro05.jpg" style="margin-left:15px;width: 100%; border-radius: 25px; max-width: 400px; height: auto; float: right">
+<a data-fancybox="gallery-miro" href="{{site.url}}/images/hoteles/miro05.jpg"><img src="{{site.url}}/images/hoteles/miro05.jpg" style="margin-left:15px;width: 100%; border-radius: 25px; max-width: 400px; height: auto; float: right"></a> 
+
 
 ##### __Hotel Miro ****__
 
