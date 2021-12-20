@@ -43,9 +43,9 @@ github_username:  jekyll
 #   - vendor/ruby/
 
 links:
-  - title: Comités
-    url: /comites
-    external: false
+  #- title: Comités
+  # url: /comites
+  # external: false
   - title: Envío de trabajos
     url: /trabajos
     external: false
