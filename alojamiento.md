@@ -32,21 +32,17 @@ Contacto/Dirección
 <br>
 
 __Parking:__ En el propio hotel. Tarifa de 20€/día.
-__Otros servicios:__ 13 pisos, 278 habitaciones, 7 suites, 3 salas de reuniones, 355 Metros cuadrados del total espacio para reuniones. Política libre humo. Acceso inalámbrico gratis.
+<br> __Otros servicios:__ 13 pisos, 278 habitaciones, 7 suites, 3 salas de reuniones, 355 Metros cuadrados del total espacio para reuniones. Política libre humo. Acceso inalámbrico gratis.
 
 <br>
 
-<a data-fancybox="gallery-ercilla" href="{{site.url}}/images/hoteles/ercilla01.jpg"></a>
-<a data-fancybox="gallery-ercilla" href="{{site.url}}/images/hoteles/ercilla02.jpg"></a>
-<a data-fancybox="gallery-ercilla" href="{{site.url}}/images/hoteles/ercilla03.jpg"></a>
-<a data-fancybox="gallery-ercilla" href="{{site.url}}/images/hoteles/ercilla04.jpg"></a>
-
 
 <div style="margin-bottom:50px;clear:both"></div>
+<!--
+<a data-fancybox="gallery-miro" href="{{site.url}}/images/hoteles/miro05.jpg"><img src="{{site.url}}/images/hoteles/miro05.jpg" style="margin-left:15px;width: 100%; border-radius: 25px; max-width: 400px; height: auto; float: right"></a> -->
 
+href="{{site.url}}/images/hoteles/miro05.jpg"><img src="{{site.url}}/images/hoteles/miro05.jpg" style="margin-left:15px;width: 100%; border-radius: 25px; max-width: 400px; height: auto; float: right">
 
-
-<a data-fancybox="gallery-miro" href="{{site.url}}/images/hoteles/miro05.jpg"><img src="{{site.url}}/images/hoteles/miro05.jpg" style="margin-left:15px;width: 100%; border-radius: 25px; max-width: 400px; height: auto; float: right"></a>
 ##### __Hotel Miro ****__
 
 Contacto/Dirección
@@ -57,13 +53,8 @@ Contacto/Dirección
 <br>
 
 __Parking:__ El hotel no tiene parking propio. Dispone de parking cercano.
-__Otros servicios:__ Algunos de los servicios más populares que se ofrecen son wifi gratuito, bar y gimnasio. Situado entre los museos Guggenheim y Bellas Artes, y a pocos minutos a pie del Casco Antiguo. Este Hotel Boutique fue diseñado por el modisto Antonio Miró, dotándolo de un estilo contemporáneo.
+<br> __Otros servicios:__ Algunos de los servicios más populares que se ofrecen son wifi gratuito, bar y gimnasio. Situado entre los museos Guggenheim y Bellas Artes, y a pocos minutos a pie del Casco Antiguo. Este Hotel Boutique fue diseñado por el modisto Antonio Miró, dotándolo de un estilo contemporáneo.
 
-
-<a data-fancybox="gallery-miro" href="{{site.url}}/images/hoteles/miro01.jpg"></a>
-<a data-fancybox="gallery-miro" href="{{site.url}}/images/hoteles/miro02.jpg"></a>
-<a data-fancybox="gallery-miro" href="{{site.url}}/images/hoteles/miro03.jpg"></a>
-<a data-fancybox="gallery-miro" href="{{site.url}}/images/hoteles/miro04.jpg"></a>
 
 <div style="margin-bottom:50px;clear:both"></div>
 
