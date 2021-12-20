@@ -111,49 +111,24 @@ __Otros servicios:__ Este exclusivo hotel se encuentra a 10 minutos a pie de la 
 <br>
 
 
-
-
-##### __Hotel Navarro **__  
+##### __abba Euskalduna Hotel ****__  
 
  Contacto/Dirección
-   <br>&nbsp;&nbsp;&nbsp;&nbsp; [Web del Hotel](http://www.hotelnavarro.es)  
-   &nbsp;&nbsp;&nbsp;&nbsp; Dirección: Av. Pío XII.
-   <br>&nbsp;&nbsp;&nbsp;&nbsp; Teléfono de reservas: (+34) 926 214 377 
+   <br>&nbsp;&nbsp;&nbsp;&nbsp; [Web del Hotel](https://abbaeuskaldunabilbao.com-hotel.com/es/)  
+   &nbsp;&nbsp;&nbsp;&nbsp; Dirección: Camino de la Ventosa, 34. [Mapa] (https://www.google.es/maps/place/abba+Euskalduna+hotel/@43.2650095,-2.9505568,17z/data=!3m1!4b1!4m8!3m7!1s0xd4e503ad8a48837:0xec52ee47d9308059!5m2!4m1!1i2!8m2!3d43.2650164!4d-2.9483178)
+   <br>&nbsp;&nbsp;&nbsp;&nbsp; Teléfono de reservas: (+34) 94 667 31 69 
 <br>
  
-  
-
-
-
-
-
-##### __Hotel El Molino **__  
+ 
+##### __ILUNION Bilbao ***__  
 
  Contacto/Dirección
-   <br>&nbsp;&nbsp;&nbsp;&nbsp; [Web del hotel](http://www.hotelciudadreal.com.es/)  
-   &nbsp;&nbsp;&nbsp;&nbsp; Dirección: Crta Carrion 10, 13005.
-   <br>&nbsp;&nbsp;&nbsp;&nbsp; Teléfono de reservas: (+34) 926 223 050
+   <br>&nbsp;&nbsp;&nbsp;&nbsp; [Web del hotel](https://www.ilunionbilbao.com/)  
+   &nbsp;&nbsp;&nbsp;&nbsp; Dirección: Rodríguez Arias, 66. [Mapa] (https://www.google.es/maps/place/Hotel+ILUNION+Bilbao/@43.2640236,-2.9467118,17z/data=!3m1!4b1!4m8!3m7!1s0xd4e5025a2f9d0cd:0xdaa8dd4bd580becb!5m2!4m1!1i2!8m2!3d43.2640209!4d-2.944521)
+   <br>&nbsp;&nbsp;&nbsp;&nbsp; Teléfono de reservas: (+34) 944 41 31 00
 <br>
 
 
-
-
-##### __Hostal Frasca__  
-
- Contacto/Dirección
-   <br>&nbsp;&nbsp;&nbsp;&nbsp; Web del hostal no disponible  
-   &nbsp;&nbsp;&nbsp;&nbsp; Dirección: Plaza Agustín Salido 2.
-   <br>&nbsp;&nbsp;&nbsp;&nbsp; Teléfono de reservas: (+34) 651 838 660
-<br>
-
-
-##### __Pensión Esteban__  
-
- Contacto/Dirección
-   <br>&nbsp;&nbsp;&nbsp;&nbsp; Web de la Pensión no disponible  
-   &nbsp;&nbsp;&nbsp;&nbsp; Dirección: Calle Reyes 15, 13002.
-   <br>&nbsp;&nbsp;&nbsp;&nbsp; Teléfono de reservas: (+34) 926 224 578
-<br>
 
 
   
