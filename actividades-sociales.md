@@ -16,7 +16,7 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
 </div><br>
 
 ### __Actividades sociales JNIC 2022__
-<br><br>
+<br>
 <!-- <h5 style="color:white; background-color: #550000;" class="text-center"><i class="far fa-clock mr-3"></i> <b>Contenido de las actividades proximamente...</b></h5>
  <br><br> -->
 
