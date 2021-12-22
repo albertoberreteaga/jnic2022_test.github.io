@@ -10,7 +10,6 @@ layout: page
 
 
 
-
  <div class="row">
     
 
@@ -34,6 +33,10 @@ layout: page
 {% endfor %}
 </div>
 {% endfor %}
+ 
+ </div>
+  
+<div class="column" style="background-color: #F5F5F5;box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);">
 
 <h5 style="padding: 0.2rem;color:white; background-color: #550000; border-radius: 5px"><i class="fa fa-users mr-3"></i> <b>Comité Ejecutivo</b></h5>
 
