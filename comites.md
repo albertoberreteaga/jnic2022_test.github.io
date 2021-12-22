@@ -48,7 +48,7 @@ layout: page
 {% endfor %}
 </div>
 
-
+<!--
 
 <h5 style="padding: 0.2rem;color:white; background-color: #e3041e; border-radius: 5px"><i class="fa fa-users mr-3"></i> <b>Comité de Programa de Formación e Innovación Educativa</b></h5>
 {% assign chairs = site.data.comite_programa_formacion %}
@@ -105,7 +105,7 @@ layout: page
 </div>
 {% endfor %}
 
-
+-->
 
 <!--
 {% assign members_investigacion = site.data.comite_programa_investigacion | sort: 'surname_sort' %}
