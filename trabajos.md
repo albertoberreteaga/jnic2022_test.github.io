@@ -7,7 +7,7 @@ layout: home
 ---
 
 
-<h5 style="color:white; background-color: #550000;" class="text-center"><i class="far fa-clock mr-3"></i> <b> <i> El envio de publicaciones se abrirá durante el mes de Enero de 2022.</i></b></h5>
+<h5 style="color:white; background-color: #550000;" class="text-center"><i class="far fa-clock mr-3"></i> <b> <i> El envío de publicaciones se abrirá durante el mes de Enero de 2022.</i></b></h5>
  <br><br>
 
 <!-- Llamada a la participación en las <b>VII <span style="color:#e3041e">J</span>ornadas <span style="color:#e3041e">N</span>acionales de <span style="color:#e3041e">I</span>nvestigación en <span style="color:#e3041e">C</span>iberseguridad (<span style="color:#e3041e">JNIC</span>)</b> -->
@@ -22,7 +22,7 @@ Las Jornadas, organizadas de forma conjunta con INCIBE, se centrarán fundamenta
 
 2 - __Formación e innovación educativa en ciberseguridad__. En este caso, se espera un único tipo de contribución como artículo largo (máximo 8 páginas).
 
-3 - __Programa de transferencia tecnológica__ (certamen de retos científicos). Se proporcionará más información proximamente. 
+3 - __Programa de Transferencia Tecnológica__ (certamen de retos científicos). Se proporcionará más información próximamente. 
 
 <!-- [Más información](https://transferencia.jnic.es/edicion-2019-20). -->
 <!-- 
