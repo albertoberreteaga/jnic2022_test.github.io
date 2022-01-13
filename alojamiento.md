@@ -49,6 +49,7 @@ __Parking:__ El hotel no tiene parking propio. Dispone de parking cercano.
 <div style="margin-bottom:50px;clear:both"></div>
 
 
+
 <a data-fancybox="gallery-abando" href="{{site.url}}/images/hoteles/abando01.jpg"><img src="{{site.url}}/images/hoteles/abando01.jpg" style="margin-left:15px;width: 100%; border-radius: 25px; max-width: 400px; height: auto; float: right"></a>
 ##### __Hotel Abando ****__
 
@@ -64,24 +65,63 @@ __Parking:__ En el propio hotel, garaje privado (cubierto) de más de 100 plazas
 
 <div style="margin-bottom:50px;clear:both"></div>
 
-<a data-fancybox="gallery-barcelo" href="{{site.url}}/images/hoteles/barcelo01.jpg"><img src="{{site.url}}/images/hoteles/barcelo01.jpg" style="margin-left:15px;width: 100%; border-radius: 25px; max-width: 400px; height: auto; float: right"></a>
-##### __Hotel Barceló Nervión ****__
+<a data-fancybox="gallery-barcelo" href="{{site.url}}/images/hoteles/ilunion01.jpg"><img src="{{site.url}}/images/hoteles/ilunion01.jpg" style="margin-left:15px;width: 100%; border-radius: 25px; max-width: 400px; height: auto; float: right"></a>
 
+##### __ILUNION Bilbao ***__  
 
-Contacto/Dirección
-    <br>&nbsp;&nbsp;&nbsp;&nbsp; [Web del hotel](https://www.barcelo.com/es-es/barcelo-bilbao-nervion/)  
-    &nbsp;&nbsp;&nbsp;&nbsp;  Dirección: Campo de Volantín Pasealekua, 11. [Mapa](https://www.google.es/maps/place/Barcel%C3%B3+Bilbao+Nervi%C3%B3n/@43.2652059,-2.9272877,17z/data=!3m1!4b1!4m8!3m7!1s0xd4e4fc5bd31b45d:0x83b19b023e2f1c0d!5m2!4m1!1i2!8m2!3d43.265202!4d-2.925099)
-    <br>&nbsp;&nbsp;&nbsp;&nbsp; Teléfono de reservas: (+34) 944 45 47 00
-  
-
-__Parking:__ En el propio hotel.
-<br>__Otros servicios:__ Este exclusivo hotel se encuentra a 10 minutos a pie de la estación de metro de Bilbao, a 13 del Museo Guggenheim Bilbao y a 9 km del Bilbao Exhibition Centre. El hotel dispone de un restaurante refinado de cocina vasca, un bar en el vestíbulo que sirve platos ligeros, vinoteca, 10 salas de reuniones, centro de negocios y galería de arte. Las habitaciones, modernas y funcionales, cuentan con Wi‑Fi gratis.
-
-
+ Contacto/Dirección
+   <br>&nbsp;&nbsp;&nbsp;&nbsp; [Web del hotel](https://www.ilunionbilbao.com/)  
+    &nbsp;&nbsp;&nbsp;&nbsp; Dirección: Rodríguez Arias, 66. [Mapa](https://www.google.es/maps/place/Hotel+ILUNION+Bilbao/@43.2640236,-2.9467118,17z/data=!3m1!4b1!4m8!3m7!1s0xd4e5025a2f9d0cd:0xdaa8dd4bd580becb!5m2!4m1!1i2!8m2!3d43.2640209!4d-2.944521) 
+   <br>&nbsp;&nbsp;&nbsp;&nbsp; Teléfono de reservas: (+34) 944 41 31 00
+   
+ __Parking:__ El hotel dispone de parking propio.
+<br>__Otros servicios__: El hotel dispone de un fantástico restaurante especializado en pinchos vascos y gastronomía local en el que podrás disfrutar de nuestro magnífico desayuno buffet, carta de comidas y cenas. Ven a nuestra cafetería, pídenos la prensa del día y la carta de bebidas. Además dispone de gimnasio equipado con máquinas de fitness de última generación, zona de ordenadores, working área y conexión a Internet.
+<br>
 <div style="margin-bottom:50px;clear:both"></div>
 
+<a data-fancybox="gallery-barcelo" href="{{site.url}}/images/hoteles/sercotel01.jpg"><img src="{{site.url}}/images/hoteles/sercotel01.jpg" style="margin-left:15px;width: 100%; border-radius: 25px; max-width: 400px; height: auto; float: right"></a>
 
+##### __Sercotel Arenal ***__  
 
+ Contacto/Dirección
+   <br>&nbsp;&nbsp;&nbsp;&nbsp; [Web del hotel](https://www.sercotelarenalbilbao.com/)  
+    &nbsp;&nbsp;&nbsp;&nbsp; Dirección: Foru Kalea, 2. [Mapa](https://www.google.com/maps/place/Sercotel+Arenal+Bilbao/@43.2595937,-2.9255095,17z/data=!3m2!4b1!5s0xd4e4fceb878be7b:0xf5810456d80bb019!4m8!3m7!1s0xd4e4fceb6beb909:0xbfc1c6208794423!5m2!4m1!1i2!8m2!3d43.2595937!4d-2.9233208) 
+   <br>&nbsp;&nbsp;&nbsp;&nbsp; Teléfono de reservas: (+34) 944 15 14 07
+   
+ __Parking:__ El hotel no tiene parking propio. Dispone de parking público cercano.
+<br>__Otros servicios__: El hotel se encuentra en un edificio de estilo clásico que alberga 36 habitaciones distribuidas en 6 plantas. El Sercotel Arenal Bilbao dispone de una excelente ubicación para conocer la ciudad a pie. A pocos minutos andando encontrarás las atracciones turísticas más importantes de Bilbao.
+<br>
+<div style="margin-bottom:50px;clear:both"></div>
+
+<a data-fancybox="gallery-barcelo" href="{{site.url}}/images/hoteles/zabalburu01.jpg"><img src="{{site.url}}/images/hoteles/zabalburu01.jpg" style="margin-left:15px;width: 100%; border-radius: 25px; max-width: 400px; height: auto; float: right"></a>
+
+##### __Photo Zabalburu **__  
+
+ Contacto/Dirección
+   <br>&nbsp;&nbsp;&nbsp;&nbsp; [Web del hotel](http://hotelzabalburu.com/)  
+    &nbsp;&nbsp;&nbsp;&nbsp; Dirección: Pedro Martínez Artola, 8. [Mapa](https://www.google.com/maps/place/Hotel+Photo+Zabalburu/@43.2566696,-2.9375972,17z/data=!3m1!4b1!4m8!3m7!1s0xd4e4fd5b6a3801f:0xe380669f81be190c!5m2!4m1!1i2!8m2!3d43.2566492!4d-2.9353721) 
+   <br>&nbsp;&nbsp;&nbsp;&nbsp; Teléfono de reservas: (+34) 944 43 71 00
+   
+ __Parking:__ El hotel no tiene parking propio. Dispone de parking público cercano.
+<br>__Otros servicios__: El Hotel Photo Zabalburu presenta una decoración exclusiva y ofrece conexión Wi-Fi gratuita tanto en las habitaciones como en las zonas comunes. Se encuentra en el centro de Bilbao, a 200 metros de la plaza de toros de Vista Alegre y a solo unos metros de la estación de tren de Abando de Bilbao.
+<br>
+<div style="margin-bottom:50px;clear:both"></div>
+
+<a data-fancybox="gallery-barcelo" href="{{site.url}}/images/hoteles/cosmov01.jpg"><img src="{{site.url}}/images/hoteles/cosmov01.jpg" style="margin-left:15px;width: 100%; border-radius: 25px; max-width: 400px; height: auto; float: right"></a>
+
+##### __Cosmov Bilbao **__  
+
+ Contacto/Dirección
+   <br>&nbsp;&nbsp;&nbsp;&nbsp; [Web del hotel](https://cosmovbilbaohotel.com/)  
+    &nbsp;&nbsp;&nbsp;&nbsp; Dirección: Alameda de Recalde, 12. [Mapa](https://www.google.com/maps/place/Hotel+Photo+Zabalburu/@43.2566696,-2.9375972,17z/data=!3m1!4b1!4m8!3m7!1s0xd4e4fd5b6a3801f:0xe380669f81be190c!5m2!4m1!1i2!8m2!3d43.2566492!4d-2.9353721) 
+   <br>&nbsp;&nbsp;&nbsp;&nbsp; Teléfono de reservas: (+34) 944 01 54 54
+   
+ __Parking:__ Hay parking privado en las inmediaciones. Es necesario reservar. Precio: 18 EUR por día.
+<br>__Otros servicios__: El Cosmov Bilbao Hotel se encuentra en el distrito Centro de Bilbao, a 300 metros del Museo Guggenheim de Bilbao, y dispone de aparcamiento privado y de habitaciones con aire acondicionado. El Cosmov Bilbao Hotel proporciona WiFi gratuita en todo el establecimiento.
+<br>
+<div style="margin-bottom:50px;clear:both"></div>
+
+<!--
 ### __OTRAS OPCIONES__
 <br>
 
@@ -96,12 +136,13 @@ __Parking:__ En el propio hotel.
  
  <div style="margin-bottom:50px;clear:both"></div>
  
-##### __ILUNION Bilbao ***__  
+##### __Hotel Barceló Nervión ****__
 
- Contacto/Dirección
-   <br>&nbsp;&nbsp;&nbsp;&nbsp; [Web del hotel](https://www.ilunionbilbao.com/)  
-    &nbsp;&nbsp;&nbsp;&nbsp; Dirección: Rodríguez Arias, 66. [Mapa](https://www.google.es/maps/place/Hotel+ILUNION+Bilbao/@43.2640236,-2.9467118,17z/data=!3m1!4b1!4m8!3m7!1s0xd4e5025a2f9d0cd:0xdaa8dd4bd580becb!5m2!4m1!1i2!8m2!3d43.2640209!4d-2.944521) 
-   <br>&nbsp;&nbsp;&nbsp;&nbsp; Teléfono de reservas: (+34) 944 41 31 00
-<br>
 
- <div style="margin-bottom:50px;clear:both"></div>
+Contacto/Dirección
+    <br>&nbsp;&nbsp;&nbsp;&nbsp; [Web del hotel](https://www.barcelo.com/es-es/barcelo-bilbao-nervion/)  
+    &nbsp;&nbsp;&nbsp;&nbsp;  Dirección: Campo de Volantín Pasealekua, 11. [Mapa](https://www.google.es/maps/place/Barcel%C3%B3+Bilbao+Nervi%C3%B3n/@43.2652059,-2.9272877,17z/data=!3m1!4b1!4m8!3m7!1s0xd4e4fc5bd31b45d:0x83b19b023e2f1c0d!5m2!4m1!1i2!8m2!3d43.265202!4d-2.925099)
+    <br>&nbsp;&nbsp;&nbsp;&nbsp; Teléfono de reservas: (+34) 944 45 47 00
+  
+<div style="margin-bottom:50px;clear:both"></div>
+-->
