@@ -113,7 +113,7 @@ __Parking:__ En el propio hotel, garaje privado (cubierto) de más de 100 plazas
 
  Contacto/Dirección
    <br>&nbsp;&nbsp;&nbsp;&nbsp; [Web del hotel](https://cosmovbilbaohotel.com/)  
-    &nbsp;&nbsp;&nbsp;&nbsp; Dirección: Alameda de Recalde, 12. [Mapa](https://www.google.com/maps/place/Hotel+Photo+Zabalburu/@43.2566696,-2.9375972,17z/data=!3m1!4b1!4m8!3m7!1s0xd4e4fd5b6a3801f:0xe380669f81be190c!5m2!4m1!1i2!8m2!3d43.2566492!4d-2.9353721) 
+    &nbsp;&nbsp;&nbsp;&nbsp; Dirección: Alameda de Recalde, 12. [Mapa](https://www.google.com/maps/place/CosmovBilbaoHotel/@43.2662062,-2.9360073,17z/data=!3m1!4b1!4m8!3m7!1s0xd4e4fd96cb1e0e7:0x268c7889053d9861!5m2!4m1!1i2!8m2!3d43.2661998!4d-2.9338132) 
    <br>&nbsp;&nbsp;&nbsp;&nbsp; Teléfono de reservas: (+34) 944 01 54 54
    
  __Parking:__ Hay parking privado en las inmediaciones. Es necesario reservar. Precio: 18 EUR por día.
