@@ -38,9 +38,9 @@ Son muchos los ingredientes que hacen de Bilbao una ciudad idónea para la celeb
   
 
 __Más información turística:__  
-[Web de turismo de Bilbao](https://www.bilbaoturismo.net/BilbaoTurismo/es/turistas)
+<a href="https://www.bilbaoturismo.net/BilbaoTurismo/es/turistas" target="_blank"> Web de turismo de Bilbao </a>
 
-[Web de Ayuntamiento de Bilbao](https://www.bilbao.eus/cs/Satellite?cid=3000005415&language=es&pagename=Bilbaonet%2FPage%2FBIO_home)
+<a href="https://www.bilbao.eus/cs/Satellite?cid=3000005415&language=es&pagename=Bilbaonet%2FPage%2FBIO_home" target="_blank"> Web de Ayuntamiento de Bilbao </a>
 
 <!--
 <a href="https://turismo.ciudadreal.es/" target="_blank">Que ver/hacer en Ciudad Real</a><br>
