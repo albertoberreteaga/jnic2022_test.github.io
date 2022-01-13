@@ -22,7 +22,7 @@ layout: home
 <h4><center>Para conectar a las jornadas consulte el <a href="{{site.url}}/programa">programa</a> y allí encontrará los enlaces a las sesiones</center></h4> -->
 <p style="text-align: center; background-color:red; color:white;"></p>
 
-Las <b>VII <span style="color:#e3041e">J</span>ornadas <span style="color:#e3041e">N</span>acionales de <span style="color:#e3041e">I</span>nvestigación en <span style="color:#e3041e">C</span>iberseguridad (<span style="color:#e3041e">JNIC</span>)</b> se celebrarán en el espacio (<a href="https://yimbybilbao.com/" target="_blank">YIMBY </a>) de Bilbao entre los días 8 y 10 de junio de 2022. 
+Las <b>VII <span style="color:#e3041e">J</span>ornadas <span style="color:#e3041e">N</span>acionales de <span style="color:#e3041e">I</span>nvestigación en <span style="color:#e3041e">C</span>iberseguridad (<span style="color:#e3041e">JNIC</span>)</b> se celebrarán en el espacio (<a href="https://yimbybilbao.com/" target="_blank">YIMBY</a>) de Bilbao entre los días 8 y 10 de junio de 2022. 
 
 El Instituto Nacional de Ciberseguridad ([INCIBE](https://www.incibe.es/)) colabora en la realización de estas Jornadas. INCIBE es la entidad de referencia nacional para el desarrollo de la ciberseguridad y de la confianza digital de ciudadanos, red académica y de investigación, profesionales, empresas y especialmente para sectores estratégicos. Es misión de INCIBE apoyar la I+D+i para generar conocimiento y tecnología que haga frente a las necesidades y retos que plantean las ciberamenazas y ciberataques.   
 
