@@ -29,7 +29,7 @@ El <a href= "https://www.aena.es/es/bilbao.html" target="_blank">aeropuerto de B
 
 La <a href="https://turismo.euskadi.eus/es/estaciones-transporte/estacion-de-abando-indalecio-prieto-renfe/aa30-12375/es/" target="_blank"> estación de trenes de Bilbao </a>, Abando Indalecio Prieto, o Bilbao Abando, denominada también tradicionalmente Estación del Norte, es la principal estación de ferrocarril de la villa de Bilbao. Se encuentra comunicada con Madrid en cinco horas, y Zaragoza en cuatro horas y media.  
 
-Para más información dirigirse a: <a href=http://www.renfe.com/viajeros/" target="_blank"> RENFE </a>
+Para más información dirigirse a: <a href="http://www.renfe.com/viajeros/" target="_blank"> RENFE </a>
 
        
 #### __En autobús__ ![A test image]({{site.url}}/images/bus_logo.png)
