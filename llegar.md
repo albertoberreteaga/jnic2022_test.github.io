@@ -22,7 +22,8 @@ layout: page
 
 #### __En avión__ ![A test image]({{site.url}}/images/avion_logo.png)
 
-El (<a href= "https://www.aena.es/es/bilbao.html" target="_blank" aeropuerto de Bilbao </a>) se encuentra situado en la localidad de Loiu (Bizkaia), a una distancia de 12 km de Bilbao. Hay vuelos diarios provenientes de Madrid, Sevilla y Barcelona. Las mejores opciones para llegar a Bilbao son el taxi cuyo coste está alrededor de 30€ y de una forma más económica y sencilla el autobús [A3247](https://web.bizkaia.eus/es/web/bizkaibus/bus-al-aeropuerto) de Bizkaibus. Este autobús entre Bilbao y el aeropuerto pasa con una frecuencia de media hora en invierno y unos 20 minutos en verano.
+
+El <a href= "https://www.aena.es/es/bilbao.html" target="_blank">aeropuerto de Bilbao </a> se encuentra situado en la localidad de Loiu (Bizkaia), a una distancia de 12 km de Bilbao. Hay vuelos diarios provenientes de Madrid, Sevilla y Barcelona. Las mejores opciones para llegar a Bilbao son el taxi cuyo coste está alrededor de 30€ y de una forma más económica y sencilla el autobús [A3247](https://web.bizkaia.eus/es/web/bizkaibus/bus-al-aeropuerto) de Bizkaibus. Este autobús entre Bilbao y el aeropuerto pasa con una frecuencia de media hora en invierno y unos 20 minutos en verano.
 
 #### __En tren__ ![A test image]({{site.url}}/images/tren_logo.png)
 
