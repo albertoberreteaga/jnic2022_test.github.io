@@ -23,7 +23,7 @@ layout: page
 ##### __Hotel ERCILLA ****__
 
 Contacto/Dirección
-   <br>&nbsp;&nbsp;&nbsp;&nbsp; [Web del hotel](https://www.espanol.marriott.com/)    
+   <br>&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.espanol.marriott.com/" target="_blank">Web del hotel</a>    
     &nbsp;&nbsp;&nbsp;&nbsp; Dirección: Ercilla 37-39. [Mapa](https://www.google.es/maps/place/Hotel+Ercilla+de+Bilbao/@43.2611026,-2.9408092,17z/data=!3m1!4b1!4m8!3m7!1s0xd4e5028388181dd:0x1b0d1daf36a39f01!5m2!4m1!1i2!8m2!3d43.2611046!4d-2.9386219)
    <br>&nbsp;&nbsp;&nbsp;&nbsp; Teléfono de reservas: (+34) 944 70 57 00
  
