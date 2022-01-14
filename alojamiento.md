@@ -24,7 +24,7 @@ layout: page
 
 Contacto/Dirección
    <br>&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.espanol.marriott.com/" target="_blank">Web del hotel</a>    
-    &nbsp;&nbsp;&nbsp;&nbsp; Dirección: Ercilla 37-39. [Mapa](https://www.google.es/maps/place/Hotel+Ercilla+de+Bilbao/@43.2611026,-2.9408092,17z/data=!3m1!4b1!4m8!3m7!1s0xd4e5028388181dd:0x1b0d1daf36a39f01!5m2!4m1!1i2!8m2!3d43.2611046!4d-2.9386219)
+    &nbsp;&nbsp;&nbsp;&nbsp; Dirección: Ercilla 37-39. <a href="https://www.google.es/maps/place/Hotel+Ercilla+de+Bilbao/@43.2611026,-2.9408092,17z/data=!3m1!4b1!4m8!3m7!1s0xd4e5028388181dd:0x1b0d1daf36a39f01!5m2!4m1!1i2!8m2!3d43.2611046!4d-2.9386219" target="_blank">Mapa</a>
    <br>&nbsp;&nbsp;&nbsp;&nbsp; Teléfono de reservas: (+34) 944 70 57 00
  
 __Parking:__ En el propio hotel. Tarifa de 20€/día.
@@ -38,9 +38,9 @@ __Parking:__ En el propio hotel. Tarifa de 20€/día.
 ##### __Hotel Miro ****__
 
 Contacto/Dirección
-    <br>&nbsp;&nbsp;&nbsp;&nbsp; [Web del hotel](https://www.mirohotelbilbao.com/)  
-    &nbsp;&nbsp;&nbsp;&nbsp; Dirección: Mazarredo Zumarkalea, 77. [Mapa](https://www.google.es/maps/place/Hotel+Mir%C3%B3/@43.2668461,-2.9388457,17z/data=!3m1!4b1!4m8!3m7!1s0xd4e4fd8bb8cc12b:0xb1eda75f6a18e4a2!5m2!4m1!1i2!8m2!3d43.2668395!4d-2.9366559)
-   <br>&nbsp;&nbsp;&nbsp;&nbsp; Teléfono de reservas: (+34) 946 61 18 80
+    <br>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.mirohotelbilbao.com/" target="_blank">Web del hotel</a>  
+    &nbsp;&nbsp;&nbsp;&nbsp; Dirección: Mazarredo Zumarkalea, 77. <a href="https://www.google.es/maps/place/Hotel+Mir%C3%B3/@43.2668461,-2.9388457,17z/data=!3m1!4b1!4m8!3m7!1s0xd4e4fd8bb8cc12b:0xb1eda75f6a18e4a2!5m2!4m1!1i2!8m2!3d43.2668395!4d-2.9366559" target="_blank">Mapa</a>
+    <br>&nbsp;&nbsp;&nbsp;&nbsp; Teléfono de reservas: (+34) 946 61 18 80
     
 __Parking:__ El hotel no tiene parking propio. Dispone de parking cercano.
 <br> __Otros servicios:__ Algunos de los servicios más populares que se ofrecen son wifi gratuito, bar y gimnasio. Situado entre los museos Guggenheim y Bellas Artes, y a pocos minutos a pie del Casco Antiguo. Este Hotel Boutique fue diseñado por el modisto Antonio Miró, dotándolo de un estilo contemporáneo.
@@ -54,8 +54,8 @@ __Parking:__ El hotel no tiene parking propio. Dispone de parking cercano.
 ##### __Hotel Abando ****__
 
 Contacto/Dirección
-    <br>&nbsp;&nbsp;&nbsp;&nbsp; [Web del hotel](https://www.hotelabando.com/)  
-    &nbsp;&nbsp;&nbsp;&nbsp; Dirección: Calle Colón de Larreátegui, 9. [Mapa](https://www.google.es/maps/place/Hotel+Abando/@43.2623405,-2.929559,17z/data=!3m1!4b1!4m8!3m7!1s0xd4e4fcfe43ccbf5:0x1507ae581e2d30ba!5m2!4m1!1i2!8m2!3d43.2623366!4d-2.9273703)
+    <br>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.hotelabando.com/" target="_blank">Web del hotel</a>  
+    &nbsp;&nbsp;&nbsp;&nbsp; Dirección: Calle Colón de Larreátegui, 9. <a href="https://www.google.es/maps/place/Hotel+Abando/@43.2623405,-2.929559,17z/data=!3m1!4b1!4m8!3m7!1s0xd4e4fcfe43ccbf5:0x1507ae581e2d30ba!5m2!4m1!1i2!8m2!3d43.2623366!4d-2.9273703" target="_blank">Mapa</a>
     <br>&nbsp;&nbsp;&nbsp;&nbsp; Teléfono de reservas: (+34) 944 23 62 00
     
 
@@ -70,8 +70,8 @@ __Parking:__ En el propio hotel, garaje privado (cubierto) de más de 100 plazas
 ##### __ILUNION Bilbao ***__  
 
  Contacto/Dirección
-   <br>&nbsp;&nbsp;&nbsp;&nbsp; [Web del hotel](https://www.ilunionbilbao.com/)  
-    &nbsp;&nbsp;&nbsp;&nbsp; Dirección: Rodríguez Arias, 66. [Mapa](https://www.google.es/maps/place/Hotel+ILUNION+Bilbao/@43.2640236,-2.9467118,17z/data=!3m1!4b1!4m8!3m7!1s0xd4e5025a2f9d0cd:0xdaa8dd4bd580becb!5m2!4m1!1i2!8m2!3d43.2640209!4d-2.944521) 
+   <br>&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.ilunionbilbao.com/" target="_blank">Web del hotel</a>  
+    &nbsp;&nbsp;&nbsp;&nbsp; Dirección: Rodríguez Arias, 66. <a href="https://www.google.es/maps/place/Hotel+ILUNION+Bilbao/@43.2640236,-2.9467118,17z/data=!3m1!4b1!4m8!3m7!1s0xd4e5025a2f9d0cd:0xdaa8dd4bd580becb!5m2!4m1!1i2!8m2!3d43.2640209!4d-2.944521" target="_blank">Mapa</a>
    <br>&nbsp;&nbsp;&nbsp;&nbsp; Teléfono de reservas: (+34) 944 41 31 00
    
  __Parking:__ El hotel dispone de parking propio.
@@ -84,8 +84,8 @@ __Parking:__ En el propio hotel, garaje privado (cubierto) de más de 100 plazas
 ##### __Sercotel Arenal ***__  
 
  Contacto/Dirección
-   <br>&nbsp;&nbsp;&nbsp;&nbsp; [Web del hotel](https://www.sercotelarenalbilbao.com/)  
-    &nbsp;&nbsp;&nbsp;&nbsp; Dirección: Foru Kalea, 2. [Mapa](https://www.google.com/maps/place/Sercotel+Arenal+Bilbao/@43.2595937,-2.9255095,17z/data=!3m2!4b1!5s0xd4e4fceb878be7b:0xf5810456d80bb019!4m8!3m7!1s0xd4e4fceb6beb909:0xbfc1c6208794423!5m2!4m1!1i2!8m2!3d43.2595937!4d-2.9233208) 
+   <br>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.sercotelarenalbilbao.com/" target="_blank">Web del hotel</a>  
+    &nbsp;&nbsp;&nbsp;&nbsp; Dirección: Foru Kalea, 2. <a href="https://www.google.com/maps/place/Sercotel+Arenal+Bilbao/@43.2595937,-2.9255095,17z/data=!3m2!4b1!5s0xd4e4fceb878be7b:0xf5810456d80bb019!4m8!3m7!1s0xd4e4fceb6beb909:0xbfc1c6208794423!5m2!4m1!1i2!8m2!3d43.2595937!4d-2.9233208" target="_blank">Mapa</a>
    <br>&nbsp;&nbsp;&nbsp;&nbsp; Teléfono de reservas: (+34) 944 15 14 07
    
  __Parking:__ El hotel no tiene parking propio. Dispone de parking público cercano.
@@ -98,8 +98,8 @@ __Parking:__ En el propio hotel, garaje privado (cubierto) de más de 100 plazas
 ##### __Photo Zabalburu **__  
 
  Contacto/Dirección
-   <br>&nbsp;&nbsp;&nbsp;&nbsp; [Web del hotel](http://hotelzabalburu.com/)  
-    &nbsp;&nbsp;&nbsp;&nbsp; Dirección: Pedro Martínez Artola, 8. [Mapa](https://www.google.com/maps/place/Hotel+Photo+Zabalburu/@43.2566696,-2.9375972,17z/data=!3m1!4b1!4m8!3m7!1s0xd4e4fd5b6a3801f:0xe380669f81be190c!5m2!4m1!1i2!8m2!3d43.2566492!4d-2.9353721) 
+   <br>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://hotelzabalburu.com/" target="_blank">Web del hotel</a>  
+    &nbsp;&nbsp;&nbsp;&nbsp; Dirección: Pedro Martínez Artola, 8. <a href="https://www.google.com/maps/place/Hotel+Photo+Zabalburu/@43.2566696,-2.9375972,17z/data=!3m1!4b1!4m8!3m7!1s0xd4e4fd5b6a3801f:0xe380669f81be190c!5m2!4m1!1i2!8m2!3d43.2566492!4d-2.9353721" target="_blank">Mapa</a>
    <br>&nbsp;&nbsp;&nbsp;&nbsp; Teléfono de reservas: (+34) 944 43 71 00
    
  __Parking:__ El hotel no tiene parking propio. Dispone de parking público cercano.
@@ -112,8 +112,8 @@ __Parking:__ En el propio hotel, garaje privado (cubierto) de más de 100 plazas
 ##### __Cosmov Bilbao **__  
 
  Contacto/Dirección
-   <br>&nbsp;&nbsp;&nbsp;&nbsp; [Web del hotel](https://cosmovbilbaohotel.com/)  
-    &nbsp;&nbsp;&nbsp;&nbsp; Dirección: Alameda de Recalde, 12. [Mapa](https://www.google.com/maps/place/CosmovBilbaoHotel/@43.2662062,-2.9360073,17z/data=!3m1!4b1!4m8!3m7!1s0xd4e4fd96cb1e0e7:0x268c7889053d9861!5m2!4m1!1i2!8m2!3d43.2661998!4d-2.9338132) 
+   <br>&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://cosmovbilbaohotel.com/" target="_blank">Web del hotel</a>  
+    &nbsp;&nbsp;&nbsp;&nbsp; Dirección: Alameda de Recalde, 12. <a href="https://www.google.com/maps/place/CosmovBilbaoHotel/@43.2662062,-2.9360073,17z/data=!3m1!4b1!4m8!3m7!1s0xd4e4fd96cb1e0e7:0x268c7889053d9861!5m2!4m1!1i2!8m2!3d43.2661998!4d-2.9338132" target="_blank">Mapa</a>
    <br>&nbsp;&nbsp;&nbsp;&nbsp; Teléfono de reservas: (+34) 944 01 54 54
    
  __Parking:__ Hay parking privado en las inmediaciones. Es necesario reservar. Precio: 18 EUR por día.
