@@ -26,7 +26,7 @@ Las Jornadas, organizadas de forma conjunta con INCIBE, se centrarán fundamenta
 
 <!-- [Más información](https://transferencia.jnic.es/edicion-2019-20). -->
 
-Aparte de esto, se considerarán resultados de __TFMs y Tesis Doctorales__ sobre ciberseguridad que deseen presentarse a la “Edición de Premios RENIC de Investigación en Ciberseguridad  2022” que se concederá durante las Jornadas. [Ver bases y fechas](https://www.renic.es/es/convocados-los-premios-de-investigacion-en-ciberseguridad-2021). -->
+Aparte de esto, se considerarán resultados de __TFMs y Tesis Doctorales__ sobre ciberseguridad que deseen presentarse a la “Edición de Premios RENIC de Investigación en Ciberseguridad  2022” que se concederá durante las Jornadas. <a href="https://www.renic.es/es/convocados-los-premios-de-investigacion-en-ciberseguridad-2022" target="_blank"> Ver bases y fechas</a>.
 <!--
 __Fecha límite__ de recepción de trabajos:  _28/03/2021 (para tanto a artículos como resúmenes extendidos)_. -->
 <!--
