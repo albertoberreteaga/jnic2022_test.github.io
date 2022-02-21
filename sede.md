@@ -17,12 +17,13 @@ __[Sede]({{site.url}}/sede)__ / [Cómo llegar]({{site.url}}/llegar) / [Informaci
 </div><br>
 
 
-![YIMBI]({{site.url}}/images/YIMBY_BILBAO.jpg)   
+![Palacio Euskalduna]({{site.url}}/images/Euskalduna01.jpg)   
     
-Las <b>VII <span style="color:#e3041e">J</span>ornadas <span style="color:#e3041e">N</span>acionales de <span style="color:#e3041e">I</span>nvestigación en <span style="color:#e3041e">C</span>iberseguridad (<span style="color:#e3041e">JNIC</span>)</b> tendrán lugar en las dependencias del espléndido edificio histórico sito en la céntrica Plaza Moyua. El lugar elegido se denomina __[YIMBY Bilbao](https://yimbybilbao.com/)__. __Y__ (Yes)-__I__ (In)-__M__ (my)-__B__ (back)-__Y__ (Yard).  
+Las <b>VII <span style="color:#e3041e">J</span>ornadas <span style="color:#e3041e">N</span>acionales de <span style="color:#e3041e">I</span>nvestigación en <span style="color:#e3041e">C</span>iberseguridad (<span style="color:#e3041e">JNIC</span>)</b> tendrán lugar en el palacio Euskalduna.  El palacio de congresos y de la música Euskalduna Jauregia fue inaugurado el 19 de febrero de 1999, y es uno de los buques insignia del nuevo Bilbao del siglo XXI.  
 
-YIMBY es un espacio con un diseño moderno que cuenta con todos los servicios necesarios para llevar a cabo un evento especial. Un espacio formado por cinco salas modulables, dos de ellas con capacidad para más de 100 asistentes y otras tres salas que pueden ser usadas como salas auxiliares para sesiones paralelas. Adaptado a las necesidades para dar un toque de exclusividad al evento. 1.200 m² en cinco salas modulables y versátiles que se combinan y adecuan al evento.
+El Palacio Euskalduna está situado en pleno centro de la ciudad, a pocos minutos del aeropuerto internacional de Bilbao, y magníficamente conectado con las grandes vías de comunicación terrestre, ferroviaria y marítima. Al Palacio se accede caminando desde la mayoría de los hoteles del municipio; se encuentra muy cerca de alguno de los grandes museos de Bilbao (Museo Guggenheim Bilbao, Museo de Bellas Artes, Museo Marítimo Ría de Bilbao) y de una atractiva oferta comercial, gastronómica y de ocio.
 Durante las pausas de las Jornadas se ofrecerá un servicio de catering. Asimismo, está previsto que se ofrezca un servicio de comida durante los tres días.
+
 
 <!--
 ![](/images/ESI.jpg) -->
