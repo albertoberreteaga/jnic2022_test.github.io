@@ -22,28 +22,32 @@ layout: page
 <h5 style="color:white; background-color: #550000;" class="text-center"><i class="far fa-clock mr-3"></i> <b>Contenido proximamente...</b></h5>
  <br><br> -->
 
+#####  <a href="http://copark.es/parkingarea/parking-palacio-euskalduna" target="_blank">Parking Palacio Euskalduna</a>
+
+Dirección: Abandoibarra Etorbidea, 4.  <a href="https://goo.gl/maps/eiSkFCKGURmuG2Un8" target="_blank">Mapa</a>  
+Teléfono de reservas: (+34) 944 41 55 07  
+Precio coche/día: 17,00 €  
+
+#####  <a href="http://copark.es/parkingarea/parking-hospital-imq-zorrotzaurre-bilbao?parkIdd=parking_hospital_imq-zorrotzaurre_bilbao" target="_blank">Parking IMQ Zorrotzaurre</a>
+
+Dirección: Julio Urquijo Kalea, 1.  <a href="https://goo.gl/maps/GV3gcQmBc3eCixzJ7" target="_blank">Mapa</a>  
+Teléfono de reservas: (+34) 946 12 40 37  
+Precio coche/día: 16,00 €  
 
 
-##### __[Parking INDIGO Instituto](https://es.parkindigo.com/es/car-park/instituto-miguel-de-unamuno)__
+##### <a href="https://www.empark.com/es/es/parking/Bilbao/indautxu/" target="_blank">Parking Indautxu</a> 
 
-Dirección: Urkixo Zumarkalea, 14. [Mapa](https://www.google.com/maps/place/Parking+Indigo+-+Instituto/@43.2599775,-2.9343794,17z/data=!3m1!4b1!4m5!3m4!1s0xd4e4fd13215517b:0x5b3f702865550fcb!8m2!3d43.2599736!4d-2.9321907)  
-Teléfono de reservas: (+34) 944 16 43 15  
-Precio coche/día: 18,75 €  
-
-##### __[Parking Indautxu](https://www.empark.com/es/es/parking/Bilbao/indautxu/)__
-Dirección: Indautxu Plaza, 2. [Mapa](https://www.google.com/maps/place/Parking+Indautxu-+San+Mam%C3%A9s+Telpark+by+Empark/@43.2616132,-2.942853,17z/data=!4m5!3m4!1s0xd4e5028c6728c23:0x56bed0ef716bbcba!8m2!3d43.2610089!4d-2.9408557)  
+Dirección: Indautxu Plaza, 2. <a href="https://goo.gl/maps/SdpuViihq3CqjPT28" target="_blank">Mapa</a>   
 Teléfono de reservas: (+34) 944 21 94 35  
 Precio coche/día: 18,00 €  
 
-##### __[Parking Plaza Euskadi](https://www.interparking.es/es-ES/find-parking/PlazaEuskadi/)__
-Dirección: Euskadi Plaza. [Mapa](https://www.google.com/maps/place/Aparcamiento+Plaza+Euskadi+24+Horas+Vigilado/@43.2673764,-2.9391322,17z/data=!4m9!1m2!2m1!1sParking+euskadi+plaza!3m5!1s0xd4e518948ce39b5:0x15f6bbcfac7ba8b3!8m2!3d43.2674992!4d-2.9375464!15sChVQYXJraW5nIGV1c2thZGkgcGxhemGSAQ5wYXJraW5nX2dhcmFnZQ)  
+#####  <a href="https://www.interparking.es/es-ES/find-parking/PlazaEuskadi/" target="_blank">Parking Plaza Euskadi</a>
+
+Dirección: Euskadi Plaza. <a href="https://goo.gl/maps/fzZUrXuF4eqsyQWeA" target="_blank">Mapa</a>   
 Teléfono de reservas: (+34) 944 42 33 43  
 Precio coche/día: 13,35 € 
 
-##### __[Parking La Alhondiga](https://www.empark.com/es/es/parking/bilbao/la-alhondiga/)__
-Dirección: Urkixo Zumarkalea, 43. [Mapa](https://www.google.es/maps/place/Parking+La+Alh%C3%B3ndiga+Telpark+by+Empark/@43.2601853,-2.9392525,17z/data=!3m1!4b1!4m5!3m4!1s0xd4e4fd631150845:0x980fbc78e17513cf!8m2!3d43.2601814!4d-2.9370638)  
-Teléfono de reservas: (+34) 944 21 06 53  
-Precio coche/día: 13,70 €  
+
 
 
 
