@@ -42,7 +42,7 @@
 				"organization": "TECNALIA"
 			},
 			{
-				"name" : [{"n":"Pilar", "a":"Ruiz Ibañez", "a_sort": "Ruiz Ibañez"}],
+				"name" : [{"n":"Ana", "a":"Diaz de Zugazua Salazar", "a_sort": "Diaz de Zugazua Salazar"}],
 				"organization": "TECNALIA"
 			}			
 		]
@@ -62,13 +62,14 @@
 		"members":
 		[
 			{
-				"name" : [{"n":"Eva", "a":"Salgado Etxebarria", "a_sort": "Salgado Etxebarria"}],
+				"name" : [{"n":"Ana", "a":"Diaz de Zugazua Salazar", "a_sort": "Diaz de Zugazua Salazar"}],
 				"organization": "TECNALIA"
 			},
 			{
-				"name" : [{"n":"Aranzazu", "a":"Gamez Rodriguez", "a_sort": "Gamez Rodriguez"}],
+				"name" : [{"n":"Eva", "a":"Salgado Etxebarria", "a_sort": "Salgado Etxebarria"}],
 				"organization": "TECNALIA"
 			}
+			
 		]
 	}
 ]
