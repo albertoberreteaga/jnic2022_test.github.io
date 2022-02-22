@@ -1,31 +1,31 @@
 [
 	{
 		"titulo":"Recepción de trabajos",
-		"contenido":"15/03/2022",
+		"contenido":"15/04/2022",
 		"fecha_ref":"1",
 		"activada": true
 	},
 	{
 		"titulo":"Notificación a los autores",
-		"contenido":"13/05/2022",
+		"contenido":"30/05/2022",
 		"fecha_ref":"2",
 		"activada": true
 	},
 	{
 		"titulo":"Inscripción a las jornadas",
-		"contenido":"25/05/2022",
+		"contenido":"20/06/2022",
 		"fecha_ref":"4",
 		"activada": true
 	},
 	{
 		"titulo":"Envío de trabajos definitivos",
-		"contenido":"20/05/2022",
+		"contenido":"06/06/2022",
 		"fecha_ref":"3",
 		"activada": true
 	},
 	{
 		"titulo":"Celebración de las Jornadas",
-		"contenido":"8, 9 y 10 de junio de 2022",
+		"contenido":"27, 28 y 29 de junio de 2022",
 		"fecha_ref":"5",
 		"activada": true
 	}
