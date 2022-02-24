@@ -32,10 +32,10 @@ Aparte de esto, se considerarán resultados de __TFMs y Tesis Doctorales__ sobre
 __Fecha límite__ de recepción de trabajos:  _15/04/2022 (para tanto a artículos como resúmenes extendidos)_. 
 
 El envío de contribuciones se realizará a través de la plataforma EasyChair, mediante este <a href="https://easychair.org/my/conference?conf=jnic2022" target="_blank">enlace </a>. 
-<!--
+
 Toda participación en las JNIC2022 estará sujeta a la aceptación de las <a href="{{site.url}}/bases)" target="_blank">bases de participación </a>.
 Independientemente del tipo de contribución (en investigación y en formación e innovación educativa), los autores se deben comprometer a presentar los trabajos aceptados durante las Jornadas. 
-
+<!--
 Todas las contribuciones (que podrán ser en español o en inglés) seguirán el estilo __IEEEtrans__ dispuesto para JNIC tanto en formato [Latex]({{site.url}}/assets/jnic2022_trabajos_latex.zip) como en formato [MS WORD]({{site.url}}/assets/jnic2022_trabajos_word.zip).-->
 <!--El tamaño del póster debería ser A0 en formato vertical (841 mm ancho x 1189 mm alto).  -->
 <!--
