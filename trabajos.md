@@ -31,9 +31,9 @@ Aparte de esto, se considerarán resultados de __TFMs y Tesis Doctorales__ sobre
 
 __Fecha límite__ de recepción de trabajos:  _15/04/2022 (para tanto a artículos como resúmenes extendidos)_. 
 
-El envío de contribuciones se realizará a través de la plataforma EasyChair, mediante este <a href="https://easychair.org/my/conference?conf=jnic2022" target="_blank">enlace </a>. 
+El envío de contribuciones se realizará a través de la plataforma EasyChair, mediante este <a href="https://easychair.org/my/conference?conf=jnic2022" target="_blank">enlace</a>. 
 
-Toda participación en las JNIC2022 estará sujeta a la aceptación de las <a href={{site.url}}/bases) target="_blank">bases de participación </a>.
+Toda participación en las JNIC2022 estará sujeta a la aceptación de las [bases de participación] ({{site.url}}/bases). 
 
 Independientemente del tipo de contribución (en investigación y en formación e innovación educativa), los autores se deben comprometer a presentar los trabajos aceptados durante las Jornadas. 
 <!--
