@@ -18,6 +18,7 @@ Las Jornadas, organizadas de forma conjunta con INCIBE, se centrarán fundamenta
 1 - __Investigación en ciberseguridad__. Se consideran los siguientes tipos de contribución:
 
 *  Artículos largos (máximo 8 páginas) correspondientes a contribuciones científicas originales, ya consolidadas y contrastadas.
+*  Artículos cortos (máximo 4 páginas): con contribuciones científicas originales en un estado preliminar y/o en desarrollo.
 *  Resúmenes extendidos (máximo 2 páginas) con resultados científicos muy relevantes, y publicados durante los años 2019, 2020 y 2021. En este caso, se ha de indicar el título y el congreso o la revista donde fue publicado. 
 
 2 - __Formación e innovación educativa en ciberseguridad__. En este caso, se espera un único tipo de contribución como artículo largo (máximo 8 páginas).
@@ -33,11 +34,10 @@ __Fecha límite__ de recepción de trabajos:  _15/04/2022 (para tanto a artícul
 
 El envío de contribuciones se realizará a través de la plataforma EasyChair, mediante este <a href="https://easychair.org/my/conference?conf=jnic2022" target="_blank">enlace</a>. 
 
-Toda participación en las JNIC2022 estará sujeta a la aceptación de las [bases de participación]({{site.url}}/bases). 
+Toda participación en las JNIC2022 estará sujeta a la aceptación de las [bases de participación]({{site.url}}/bases). Independientemente del tipo de contribución (en investigación y en formación e innovación educativa), los autores se deben comprometer a presentar los trabajos aceptados durante las Jornadas. 
 
-Independientemente del tipo de contribución (en investigación y en formación e innovación educativa), los autores se deben comprometer a presentar los trabajos aceptados durante las Jornadas. 
-<!--
-Todas las contribuciones (que podrán ser en español o en inglés) seguirán el estilo __IEEEtrans__ dispuesto para JNIC tanto en formato [Latex]({{site.url}}/assets/jnic2022_trabajos_latex.zip) como en formato [MS WORD]({{site.url}}/assets/jnic2022_trabajos_word.zip).-->
+Todas las contribuciones (que podrán ser en español o en inglés) seguirán el estilo __IEEEtrans__ dispuesto para JNIC tanto en formato [Latex]({{site.url}}/assets/jnic2022_trabajos_latex.zip) como en formato [MS WORD]({{site.url}}/assets/jnic2022_trabajos_word.zip).
+
 <!--El tamaño del póster debería ser A0 en formato vertical (841 mm ancho x 1189 mm alto).  -->
 <!--
 __Las versiones extendidas de los mejores artículos en investigación en ciberseguridad podrán enviarse a Special Issues de revistas indexadas en el JCR en posiciones relevantes. Los detalles se irán comunicando próximamente.__
