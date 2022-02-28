@@ -39,7 +39,7 @@ Para más información dirigirse a: <a href="http://www.renfe.com/viajeros/" tar
 
 #### __Por carretera__ ![A test image]({{site.url}}/images/carretera_logo.png)
 
-El acceso a Bilbao es posible desde varias entradas y una vez allí, dirigirse a la <a href="https://goo.gl/maps/9DEBmN3zb9r9oiJo6" target="_blank"> Plaza Sagrado Corazón </a> dsde donde se accede facilmente al Palacio Euskalduna.
+El acceso a Bilbao es posible desde varias entradas y una vez allí, dirigirse a la <a href="https://goo.gl/maps/9DEBmN3zb9r9oiJo6" target="_blank"> Plaza Sagrado Corazón </a> desde donde se accede facilmente al Palacio Euskalduna.
 
 
 
