@@ -39,7 +39,7 @@ Para más información dirigirse a: <a href="http://www.renfe.com/viajeros/" tar
 
 #### __Por carretera__ ![A test image]({{site.url}}/images/carretera_logo.png)
 
-El acceso a Bilbao es posible desde varias entradas y una vez allí, dirigirse a la <a href="https://www.google.com/maps/place/Pl.+de+Don+Federico+Moy%C3%BAa,+Bilbao,+Vizcaya/@43.2626692,-2.9373646,17z/data=!3m1!4b1!4m5!3m4!1s0xd4e4fd77cf75557:0xf7568ccc8c4c758e!8m2!3d43.2626692!4d-2.9351759" target="_blank"> Plaza Moyua </a> sita en el centro de Bilbao a dos minutos del YIMBY.
+El acceso a Bilbao es posible desde varias entradas y una vez allí, dirigirse a la <a href="https://goo.gl/maps/9DEBmN3zb9r9oiJo6" target="_blank"> Plaza Sagrado Corazón </a> dsde donde se accede facilmente al Palacio Euskalduna.
 
 
 
