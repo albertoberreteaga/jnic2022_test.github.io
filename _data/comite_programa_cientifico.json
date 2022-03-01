@@ -114,6 +114,14 @@
 				"organization": "ATOS"
 			},
 			{
+				"name" : [{"n":"Cristina", "a":"Regueiro Senderos", "a_sort": "Regueiro Senderos"}],
+				"organization": "Tecnalia"
+			},
+			{
+				"name" : [{"n":"Erkuden", "a":"Ríos Velasco", "a_sort": "Ríos Velasco"}],
+				"organization": "Tecnalia"
+			},
+			{
 				"name" : [{"n":"Ricardo J.", "a":"Rodríguez ", "a_sort": "Rodríguez"}],
 				"organization": "Universidad de Zaragoza"
 			},
@@ -136,14 +144,6 @@
 			{
 				"name" : [{"n":"Urko", "a":"Zurutuza Ortega", "a_sort": "Zurutuza Ortega"}],
 				"organization": "Mondragon Unibertsitatea"
-			},
-			{
-				"name" : [{"n":"Erkuden", "a":"Ríos Velasco", "a_sort": "Ríos Velasco"}],
-				"organization": "Tecnalia"
-			},
-			{
-				"name" : [{"n":"Cristina", "a":"Regueiro Senderos", "a_sort": "Regueiro Senderos"}],
-				"organization": "Tecnalia"
 			}
 		]
 	}
