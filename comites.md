@@ -24,9 +24,9 @@ layout: page
 {% for member in chair.members %}
 {% assign names = member.name | sort: 'a_sort' %}
 {% for name in names %}
-<br><b>{{ name.n }} {{ name.a }}</b><br>
+<br><b>{{ name.n }} {{ name.a }}</b>
 {% endfor %}
-<br>{{ member.organization }}<br><br>
+<br>{{ member.organization }}<br>
 {% endfor %}
 </div>
 {% endfor %}
@@ -42,7 +42,7 @@ layout: page
 <br>{{ member.organization }}<br><br><br>
 {% endfor %}
 </div>
-<!--
+
 <h5 style="padding: 0.2rem;color:white; background-color: #e3041e; border-radius: 5px"><i class="fa fa-users mr-3"></i> <b>Comité de Programa de Formación e Innovación Educativa</b></h5>
 {% assign chairs = site.data.comite_programa_formacion %}
 {% for chair in chairs %}
@@ -58,7 +58,7 @@ layout: page
 </div>
 {% endfor %}
 
--->
+
 <!--
 </div>
 <div class="column" style="background-color: #F5F5F5;box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);">
