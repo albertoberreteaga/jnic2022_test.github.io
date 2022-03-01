@@ -24,9 +24,9 @@ layout: page
 {% for member in chair.members %}
 {% assign names = member.name | sort: 'a_sort' %}
 {% for name in names %}
-<b>{{ name.n }} {{ name.a }}</b><br>
+<br><b>{{ name.n }} {{ name.a }}</b><br>
 {% endfor %}
-<br>{{ member.organization }}
+<br>{{ member.organization }}<br><br>
 {% endfor %}
 </div>
 {% endfor %}
