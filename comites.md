@@ -32,7 +32,7 @@ layout: page
 {% endfor %}
  
 <h5 style="padding: 0.2rem;color:white; background-color: #550000; border-radius: 5px"><i class="fa fa-users mr-3"></i> <b>Comité Ejecutivo</b></h5>
-
+<!--
 
 {% assign members_ejecutivo = site.data.comite_ejecutivo  %}
 <div style="font-size: 0.9rem; padding-top: 1.5rem; padding-bottom: 1.5rem;">
@@ -94,7 +94,7 @@ layout: page
 </div>
 {% endfor %}
 
-
+-->
 <!--
 
 {% assign members_investigacion = site.data.comite_programa_investigacion | sort: 'surname_sort' %}
