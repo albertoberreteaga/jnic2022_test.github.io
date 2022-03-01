@@ -1,25 +1,29 @@
 [
 	{
-		"chair" : "Presidenta",
+		"chair" : "Presidentes",
 		"members":
 		[
 			{
-				"name" : [{"n":"Cristina", "a":"Alcaraz Tello", "a_sort": "Alcaraz Tello"}],
-				"organization": "Universidad de Málaga"
+				"name" : [{"n":"Lorena", "a":"González Manzano", "a_sort": "González Manzano"}],
+				"organization": "Universidad Carlos III de Madrid"
+			},
+			{
+				"name" : [{"n":"José María", "a":"de Fuentes García-Romero de Tejada", "a_sort": "María de Fuentes García-Romero de Tejada"}],
+				"organization": "Universidad Carlos III de Madrid"
 			}
 		]
 	},
 	{
 		"chair" : "Miembros",
 		"members":
-		[
+		
+			{
+				"name" : [{"n":"Cristina", "a":"Alcaraz Tello", "a_sort": "Alcaraz Tello"}],
+				"organization": "Universidad de Málaga"
+			},
 			{
 				"name" : [{"n":"Aitana", "a":"Alonso Nogueira", "a_sort": "Alonso Nogueira"}],
 				"organization": "INCIBE"
-			},
-			{
-				"name" : [{"n":"Marcos", "a":"Arjona Fernández", "a_sort": "Arjona Fernández"}],
-				"organization": "ElevenPaths"
 			},
 			{
 				"name" : [{"n":"Ana", "a":"Ayerbe Fernández-Cuesta", "a_sort": "Ayerbe Fernández-Cuesta"}],
@@ -38,32 +42,12 @@
 				"organization": "Royal Holloway, University of London"
 			},
 			{
-				"name" : [{"n":"Pino", "a":"Caballero Gil", "a_sort": "Caballero Gil"}],
-				"organization": "Universidad de La Laguna"
-			},
-			{
 				"name" : [{"n":"Andrés", "a":"Caro Lindo", "a_sort": "Caro Lindo"}],
 				"organization": "Universidad de Extremadura"
 			},
 			{
-				"name" : [{"n":"Jordi", "a":"Castellà Roca", "a_sort": "Castellà Roca "}],
-				"organization": "Universitat Rovira i Virgili"
-			},
-			{
-				"name" : [{"n":"José María", "a":"de Fuentes García-Romero de Tejada", "a_sort": "María de Fuentes García-Romero de Tejada"}],
-				"organization": "Universidad Carlos III de Madrid"
-			},
-			{
 				"name" : [{"n":"Jesús Esteban", "a":"Díaz Verdejo", "a_sort": "Díaz Verdejo"}],
 				"organization": "Universidad de Granada"
-			},
-			{
-				"name" : [{"n":"Josep Lluis", "a":"Ferrer Gomila", "a_sort": "Ferrer Gomila"}],
-				"organization": "Universitat de les Illes Balears"
-			},
-			{
-				"name" : [{"n":"Dario", "a":"Fiore", "a_sort": "Fiore"}],
-				"organization": "IMDEA Software Institute"
 			},
 			{
 				"name" : [{"n":"David", "a":"García Rosado", "a_sort": "García Rosado"}],
@@ -78,16 +62,16 @@
 				"organization": "Universidad Complutense de Madrid"
 			},
 			{
-				"name" : [{"n":"Iñaki", "a":"Garitano Garitano", "a_sort": "Garitano Garitano"}],
-				"organization": "Mondragon Unibertsitatea"
+				"name" : [{"n":"Joaquín", "a":"García-Alfaro", "a_sort": "García-Alfaro"}],
+				"organization": "Instituto Politécnico de París"
+			},
+			{
+				"name" : [{"n":"Manuel", "a":"Gil Pérez", "a_sort": "Gil Pérez"}],
+				"organization": "Universidad de Murcia"
 			},
 			{
 				"name" : [{"n":"Félix", "a":"Gómez Mármol", "a_sort": "Gómez Mármol"}],
 				"organization": "Universidad de Murcia"
-			},
-			{
-				"name" : [{"n":"Lorena", "a":"González Manzano", "a_sort": "González Manzano"}],
-				"organization": "Universidad Carlos III de Madrid"
 			},
 			{
 				"name" : [{"n":"María Isabel", "a":"González Vasco", "a_sort": "González Vasco"}],
@@ -102,16 +86,12 @@
 				"organization": "Consejo Superior de Investigaciones Científicas"
 			},
 			{
-				"name" : [{"n":"Jorge", "a":"López Hernández-Ardieta", "a_sort": "López Hernández-Ardieta"}],
-				"organization": "Banco Santander"
-			},
-			{
 				"name" : [{"n":"Javier", "a":"López Muñoz", "a_sort": "López Muñoz"}],
 				"organization": "Universidad de Málaga"
 			},
 			{
-				"name" : [{"n":"Rafael", "a":"Martínez Gasca", "a_sort": "Martínez Gasca"}],
-				"organization": "Universidad de Sevilla"
+				"name" : [{"n":"Agustín", "a":"Martín Muñoz", "a_sort": "Martín Muñoz"}],
+				"organization": "Consejo Superior de Investigaciones Científicas"
 			},
 			{
 				"name" : [{"n":"Gregorio", "a":"Martínez Pérez", "a_sort": "Martínez Pérez"}],
@@ -121,13 +101,13 @@
 				"name" : [{"n":"David", "a":"Megías Jiménez", "a_sort": "Megías Jiménez"}],
 				"organization": "Universitat Oberta de Cataluña"
 			},
+						{
+				"name" : [{"n":"Raúl", "a":"Orduña", "a_sort": "Orduña"}],
+				"organization": "Vicomtech"
+			},
 			{
 				"name" : [{"n":"Luis", "a":"Panizo Alonso", "a_sort": "Panizo Alonso"}],
 				"organization": "Universidad de León"
-			},
-			{
-				"name" : [{"n":"Fernando", "a":"Pérez González", "a_sort": "Pérez González"}],
-				"organization": "Universidad de Vigo"
 			},
 			{
 				"name" : [{"n":"Aljosa", "a":"Pasic", "a_sort": "Pasic"}],
@@ -138,8 +118,8 @@
 				"organization": "Universidad de Zaragoza"
 			},
 			{
-				"name" : [{"n":"Fernando", "a":"Román Muñoz", "a_sort": "Román Muñoz"}],
-				"organization": "Universidad Complutense de Madrid "
+				"name" : [{"n":"Margarita", "a":"Robles Carrillo", "a_sort": "Robles Carrillo"}],
+				"organization": "Universidad de Granada"
 			},
 			{
 				"name" : [{"n":"Luis Enrique", "a":"Sánchez Crespo", "a_sort": "Sánchez Crespo"}],
@@ -150,10 +130,6 @@
 				"organization": "Technical University of Denmark - DTU"
 			},
 			{
-				"name" : [{"n":"Miguel", "a":"Soriano Ibáñez", "a_sort": "Soriano Ibáñez"}],
-				"organization": "Universidad Politécnica de Cataluña"
-			},
-			{
 				"name" : [{"n":"Victor A.", "a":"Villagrá González", "a_sort": "Villagrá González"}],
 				"organization": "Universidad Politécnica de Madrid"
 			},
@@ -162,12 +138,12 @@
 				"organization": "Mondragon Unibertsitatea"
 			},
 			{
-				"name" : [{"n":"Lilian", "a":"Adkinson Orellana", "a_sort": "Adkinson Orellana"}],
-				"organization": "Gradiant"
+				"name" : [{"n":"Erkuden", "a":"Ríos Velasco", "a_sort": "Ríos Velasco"}],
+				"organization": "Tecnalia"
 			},
 			{
-				"name" : [{"n":"Juan", "a":"Hernández Serrano", "a_sort": "Hernández Serrano"}],
-				"organization": "Universitat Politécnica de Cataluña"
+				"name" : [{"n":"Cristina", "a":"Regueiro Senderos", "a_sort": "Regueiro Senderos"}],
+				"organization": "Tecnalia"
 			}
 		]
 	}
