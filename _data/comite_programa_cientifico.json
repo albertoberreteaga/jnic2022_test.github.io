@@ -16,7 +16,7 @@
 	{
 		"chair" : "Miembros",
 		"members":
-		
+		[
 			{
 				"name" : [{"n":"Cristina", "a":"Alcaraz Tello", "a_sort": "Alcaraz Tello"}],
 				"organization": "Universidad de Málaga"
