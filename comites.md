@@ -110,7 +110,7 @@ layout: page
 
 -->
 
-<!--
+
 {% assign members_investigacion = site.data.comite_programa_investigacion | sort: 'surname_sort' %}
 {% for member in members_investigacion %}
 
@@ -122,7 +122,7 @@ layout: page
 </div>
 
 {% endfor %}
--->
+
 
 
 
