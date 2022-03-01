@@ -59,7 +59,7 @@ layout: page
 {% endfor %}
 
 
-<!--
+
 </div>
 <div class="column" style="background-color: #F5F5F5;box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);">
 
@@ -94,7 +94,7 @@ layout: page
 </div>
 {% endfor %}
 
--->
+
 <!--
 
 {% assign members_investigacion = site.data.comite_programa_investigacion | sort: 'surname_sort' %}
@@ -110,7 +110,7 @@ layout: page
 
 {% endfor %}
 
-
+-->
 
 
 </div>
