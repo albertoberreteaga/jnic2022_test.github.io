@@ -73,7 +73,7 @@ layout: page
 </div>
 <div class="column" style="background-color: #F5F5F5;box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);">
 
-
+-->
 
 
 
@@ -92,7 +92,7 @@ layout: page
 </div>
 {% endfor %}
 
-
+<!--
 <h5 style="padding: 0.2rem;color:white; background-color: #e3041e; border-radius: 5px"><i class="fa fa-users mr-3"></i> <b>Comité de Transferencia Tecnológica</b></h5>
 {% assign chairs = site.data.comite_transferencia_tecnologica %}
 {% for chair in chairs %}
