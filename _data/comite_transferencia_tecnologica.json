@@ -28,6 +28,10 @@
 			{
 				"name" : [{"n":"Luis Enrique", "a":"Sánchez Crespo", "a_sort": "Sánchez Crespo"}],
 				"organization": "Universidad de Castilla – La Mancha"
+			},
+			{
+				"name" : [{"n":"Oscar", "a":"Lage Serrano", "a_sort": "Lage Serrano"}],
+				"organization": "TECNALIA"
 			}
 		]
 	}
