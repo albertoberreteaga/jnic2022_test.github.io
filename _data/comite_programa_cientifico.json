@@ -50,6 +50,10 @@
 				"organization": "Universidad de Granada"
 			},
 			{
+				"name" : [{"n":"Josep Lluis", "a":"Ferrer Gomila", "a_sort": "Ferrer Gomila"}],
+				"organization": "Universitat de les Illes Balears"
+			},
+			{
 				"name" : [{"n":"David", "a":"García Rosado", "a_sort": "García Rosado"}],
 				"organization": "Universidad de Castilla-La Mancha"
 			},
