@@ -94,6 +94,10 @@
 				"organization": "Universidad de Málaga"
 			},
 			{
+				"name" : [{"n":"Rafael", "a":"Martínez Gasca", "a_sort": "Martínez Gasca"}],
+				"organization": "Universidad de Sevilla"
+			},
+			{
 				"name" : [{"n":"Agustín", "a":"Martín Muñoz", "a_sort": "Martín Muñoz"}],
 				"organization": "Consejo Superior de Investigaciones Científicas"
 			},
