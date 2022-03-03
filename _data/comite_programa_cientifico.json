@@ -42,6 +42,10 @@
 				"organization": "Royal Holloway, University of London"
 			},
 			{
+				"name" : [{"n":"Pino", "a":"Caballero Gil", "a_sort": "Caballero Gil"}],
+				"organization": "Universidad de La Laguna"
+			},
+			{
 				"name" : [{"n":"Andrés", "a":"Caro Lindo", "a_sort": "Caro Lindo"}],
 				"organization": "Universidad de Extremadura"
 			},
