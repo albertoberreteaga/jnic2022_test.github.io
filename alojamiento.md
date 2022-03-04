@@ -43,7 +43,7 @@ Contacto/Dirección
     <br>&nbsp;&nbsp;&nbsp;&nbsp; Teléfono de reservas: (+34) 946 673 169
     
 __Parking:__ Parking en el propio hotel. Tarifa de 18,00 €/día.
-<br> __Otros servicios:__ AEl hotel Abba Euskalduna hotel se encuentra estratégicamente situado en el centro de la ciudad de Bilbao, en frente del estadio de San Mamés y a escasos metros del Palacio Euskalduna. Dispone de 82 modernas habitaciones y tiene a tan solo 100 metros la parada de tranvía que lleva hasta el centro de la ciudad. Acceso inalámbrico gratis.
+<br> __Otros servicios:__ El hotel Abba Euskalduna hotel se encuentra estratégicamente situado en el centro de la ciudad de Bilbao, en frente del estadio de San Mamés y a escasos metros del Palacio Euskalduna. Dispone de 82 modernas habitaciones y tiene a tan solo 100 metros la parada de tranvía que lleva hasta el centro de la ciudad. Acceso inalámbrico gratis.
 
 
 <div style="margin-bottom:50px;clear:both"></div>
@@ -92,11 +92,11 @@ Contacto/Dirección
 __Parking:__ En el propio hotel, garaje privado (cubierto) de más de 100 plazas y con acceso directo a la recepción del Hotel.
 <br>__Otros servicios__: El Hotel Abando se encuentra ubicado en el centro de Bilbao frente al Tribunal de Justicia, junto a los Jardines de Albia, y paralelo a la calle peatonal Ledesma (famosa por sus bares de pintxos). Próximo a la estación de tren de Abando (a 300 metros) y a la parada de metro de Abando (líneas 1 y 2) a 50 metros. Su inmejorable ubicación convierte al Hotel Abando en la mejor opción de alojamiento tanto para el turista de ocio, como para el visitante de negocio en Bilbao.
 
-
+-->
 <div style="margin-bottom:50px;clear:both"></div>
 
 <a data-fancybox="gallery-barcelo" href="{{site.url}}/images/hoteles/ilunion01.jpg"><img src="{{site.url}}/images/hoteles/ilunion01.jpg" style="margin-left:15px;width: 100%; border-radius: 25px; max-width: 400px; height: auto; float: right"></a>
--->
+
 
 ##### __ILUNION Bilbao ***__  
 
