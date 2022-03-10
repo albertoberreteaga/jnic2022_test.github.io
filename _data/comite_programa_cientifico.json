@@ -50,6 +50,10 @@
 				"organization": "Universidad de Extremadura"
 			},
 			{
+				"name" : [{"n":"Jordi", "a":"Castellà Roca", "a_sort": "Castellà Roca "}],
+				"organization": "Universitat Rovira i Virgili"
+			},
+			{
 				"name" : [{"n":"Jesús Esteban", "a":"Díaz Verdejo", "a_sort": "Díaz Verdejo"}],
 				"organization": "Universidad de Granada"
 			},
