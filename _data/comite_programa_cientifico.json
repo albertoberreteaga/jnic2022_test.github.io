@@ -98,6 +98,10 @@
 				"organization": "Consejo Superior de Investigaciones Científicas"
 			},
 			{
+				"name" : [{"n":"Jorge", "a":"López Hernández-Ardieta", "a_sort": "López Hernández-Ardieta"}],
+				"organization": "Verisure"
+			},
+			{
 				"name" : [{"n":"Javier", "a":"López Muñoz", "a_sort": "López Muñoz"}],
 				"organization": "Universidad de Málaga"
 			},
