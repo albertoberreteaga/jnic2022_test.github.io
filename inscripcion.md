@@ -4,7 +4,7 @@
 
 layout: page
 ---
-<h5 style="color:white; background-color: #550000;" class="text-center"><i class="far fa-clock mr-3"></i> <b> La inscripción a las jornadas se abrirá en breve. <br/> Estate atento a esta página web y al twitter. </b></h5>
+<h5 style="color:white; background-color: #550000;" class="text-center"><i class="far fa-clock mr-3"></i> <b> La inscripción a las jornadas se abrirá en Mayo. <br/> Estate atento a esta página web y al twitter. </b></h5>
 <br/>
 
 <!--
