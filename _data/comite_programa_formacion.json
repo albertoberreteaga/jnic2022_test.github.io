@@ -14,21 +14,25 @@
 		"members":
 		[
 			{
+				"name" : [{"n":"Isaac", "a":"Agudo Ruiz", "a_sort": "Agudo Ruiz"}],
+				"organization": "Universidad de Málaga"
+			},
+			{
+				"name" : [{"n":"Mar", "a":"Ávila Vegas", "a_sort": "Ávila Vegas"}],
+				"organization": "Universidad de Extremadura"
+			},
+			{
 				"name" : [{"n":"Noemí De", "a":"Castro García", "a_sort": "Castro García"}],
 				"organization": "Universidad de León"
 			},
 			{
-				"name" : [{"n":"Adriana", "a":"Suárez Corona", "a_sort": "Suárez Corona"}],
-				"organization": "Universidad de León"
+				"name" : [{"n":"David", "a":"García Rosado", "a_sort": "García Rosado"}],
+				"organization": "Universidad de Castilla - La Mancha"
 			},
 			{
-				"name" : [{"n":"Raquel", "a":"Poy Castro", "a_sort": "Poy Castro"}],
-				"organization": "Universidad de León"
-			},
-			{
-				"name" : [{"n":"Isaac", "a":"Agudo Ruiz", "a_sort": "Agudo Ruiz"}],
-				"organization": "Universidad de Málaga"
-			},
+				"name" : [{"n":"Iñaki", "a":"Garitano Garitano", "a_sort": "Garitano Garitano"}],
+				"organization": "Mondragon Unibertsitatea"
+			},	
 			{
 				"name" : [{"n":"Ana Isabel", "a":"González-Tablas Ferreres", "a_sort": "González-Tablas Ferreres"}],
 				"organization": "Universidad Carlos III de Madrid"
@@ -38,20 +42,24 @@
 				"organization": "Universidad Politécnica de Madrid"
 			},
 			{
+				"name" : [{"n":"Roberto", "a":"Magán Carrión", "a_sort": "Magán Carrión"}],
+				"organization": "Universidad de Granada"
+			},
+			{
+				"name" : [{"n":"Óscar", "a":"Mogollón Gutiérrez", "a_sort": "Mogollón Gutiérrez"}],
+				"organization": "Universidad de Extremadura"
+			},
+			{
 				"name" : [{"n":"Ana Lucila", "a":"Sandoval Orozco", "a_sort": "Sandoval Orozco"}],
 				"organization": "Universidad Complutense de Madrid"
 			},
 			{
-				"name" : [{"n":"María Isabel", "a":"González Vasco", "a_sort": "González Vasco"}],
-				"organization": "Universidad Rey Juan Carlos"
+				"name" : [{"n":"Adriana", "a":"Suárez Corona", "a_sort": "Suárez Corona"}],
+				"organization": "Universidad de León"
 			},
 			{
-				"name" : [{"n":"David", "a":"García Rosado", "a_sort": "García Rosado"}],
-				"organization": "Universidad de Castilla - La Mancha"
-			},
-			{
-				"name" : [{"n":"Sara", "a":"García Bécares", "a_sort": "García Bécares"}],
-				"organization": "INCIBE"
+				"name" : [{"n":"Ángel Jesús", "a":"Varela Vaca", "a_sort": "Varela Vaca"}],
+				"organization": "Universidad de Sevilla"
 			}
 		]
 	}
