@@ -49,9 +49,9 @@ links:
   - title: Envío de trabajos
     url: /trabajos
     external: false
-  # - title: CTF
-  #  url: /ctf
-  #  external: false
+  - title: CTF
+    url: /ctf
+    external: false
   - title: Programa
     url: /programa
     external: false
@@ -61,9 +61,9 @@ links:
   - title: Inscripción
     url: /inscripcion
     external: false
-  - title: Patrocinadores
-    url: /patrocinadores
-    external: false
+  #- title: Patrocinadores
+  # url: /patrocinadores
+  # external: false
   - title: Contacto
     url: /contacto
     external: false
