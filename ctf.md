@@ -67,7 +67,7 @@ Se facilitará la participación en grupos de **3 personas**. Los participantes 
  
  7. La clasificación de talento se realizará sumando las puntuaciones de cada reto superado. En caso de **empate** se resolverá según el orden temporal de superación de los restos que estará registrado en la plataforma de competición.
  
- 8.La entrega de premios será acordada con las empresas patrocinadoras. Más información sobre los premios en los próximos días.
+ 8. La entrega de premios será acordada con las empresas patrocinadoras. Más información sobre los premios en los próximos días.
  
  9. Se ofrecerán oportunidades laborales en las empresas colaboradoras, empresas punteras que ofrecen servicios tecnológicos, a los estudiantes o personas que hayan finalizado sus estudios con posterioridad al 1 enero de 2020 y que adquieran mayor puntuación en la superación de los retos. *Cualquier condicionante no contemplado en las bases de participación será considerada y evaluada por los organizadores.
 
@@ -115,7 +115,7 @@ Cualquier otra circunstancia dada, permitirá la participación del usuario/a pe
     En caso de haber problemas de stock, existencias o cualquier otra circunstancia que impidan la entrega de los premios establecidos, la organización se compromete a entregar un producto similar (en cuanto a características y precio) a los anteriormente expuestos.
 
 + Se ofrecerán oportunidades laborales en la empresa Viewnext, empresa puntera que ofrece servicios tecnológicos, a los estudiantes o personas que hayan finalizado sus estudios con posterioridad al 1 enero de 2019 y que adquieran mayor puntuación en la superación de los retos.
-*Cualquier condicionante no contemplado en las bases de participación será considerada y evaluada por los organizadores. -->
+*Cualquier condicionante no contemplado en las bases de participación será considerada y evaluada por los organizadores. 
 
 ## Inscripción
 
@@ -126,4 +126,4 @@ Puedes inscribirte en el siguiente [Formulario](https://docs.google.com/forms/d/
 En cumplimiento de lo previsto en la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, nos complace informarle acerca del tratamiento de sus datos de carácter personal (“Datos”). Los Datos que nos haya facilitado, que nos facilite ahora o que nos facilite en el futuro, con motivo de gestionar su participación en el CTF JNIC-VIEWNEXT, competición de detección de talento impulsada por el Comité Organizador de las JNIC2021, serán tratados conforme a lo previsto en la citada Ley. Le informamos que sus datos personales formarán parte de un fichero cuyo titular son los miembros del Comité Organizador de las JNIC2019 y cuya única finalidad es la de recabar datos de los participantes para el correcto desarrollo de la competición y su empleabilidad, y para informar de las acciones que se lleven a cabo al amparo de las Jornadas Nacionales de Investigación en Ciberseguridad
 Asimismo, mediante el clic en el checkbox «Acepto las condiciones generales de participación y la política de privacidad de cesión de datos personales» usted nos autoriza a enviarle información sobre el evento o eventos similares, por los medios electrónicos facilitados.
 Sus datos personales serán tratados con la máxima confidencialidad y con el deber de secreto requeridos. Los integrantes de la Organización del CTF JNIC-VIEWNEXT han adoptado las medidas técnicas y organizativas requeridas por la legislación vigente.
-Puede ejercitar sus derechos de acceso, rectificación, cancelación y oposición mediante comunicación escrita, adjuntando fotocopia del DNI o documento identificativo equivalente, ante Comité Organización del CTF JNIC-VIEWNEXT, Av. de la Universidad, S/N, 10003 Cáceres. Puede ponerse en contacto con nosotros en el correo electrónico [congreso.jnic2021@uclm.es](mailto:congreso.jnic2021@uclm.es)
+Puede ejercitar sus derechos de acceso, rectificación, cancelación y oposición mediante comunicación escrita, adjuntando fotocopia del DNI o documento identificativo equivalente, ante Comité Organización del CTF JNIC-VIEWNEXT, Av. de la Universidad, S/N, 10003 Cáceres. Puede ponerse en contacto con nosotros en el correo electrónico [congreso.jnic2021@uclm.es](mailto:congreso.jnic2021@uclm.es)-->
