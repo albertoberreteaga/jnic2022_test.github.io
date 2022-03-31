@@ -6,12 +6,14 @@
 layout: page
 ---
 ![CTF]({{site.url}}/Logos/CTF.jpg)
-
+<!--
 El **Capture The Flag JNIC-VIEWNEXT** es una competición virtual que pretende detectar y premiar a las nuevas promesas de la **#ciberseguridad** del ámbito nacional. Creado para complementar las **VI Jornadas Nacionales de Investigación en Ciberseguridad**, celebradas de manera online el **9 y 10 de junio de 2021**.
 Diseñado para llegar a cualquier persona que sienta interés sobre la ciberseguridad y pensado para identificar talento entre usuarios que quieran poner a prueba sus conocimientos, habilidades y destrezas en este ámbito trascendental para la tecnología.
-La competición se realizó durante **72 horas** de **forma virtual**, a través de la plataforma de formación del **Campus Virtual de la Universidad de Extremadura**. Comenzó el día 4 de junio, con el envío las credenciales a todos los participantes y tuvo lugar desde el **4 de junio a las 14:00h hasta el día 7 de junio a las 14:00h**, durando 72 horas en total.
+La competición se realizó durante **72 horas** de **forma virtual**, a través de la plataforma de formación del **Campus Virtual de la Universidad de Extremadura**. Comenzó el día 4 de junio, con el envío las credenciales a todos los participantes y tuvo lugar desde el **4 de junio a las 14:00h hasta el día 7 de junio a las 14:00h**, durando 72 horas en total.-->
 
-## Resultados
+El **Capture The Flag JNIC** es una competición virtual que pretende detectar y premiar a las nuevas promesas de la **#ciberseguridad** del ámbito nacional. Creado para complementar las VII Jornadas Nacionales de Investigación en Ciberseguridad, se celebrarán entre los días **27 y 29 de junio de 2022**. Diseñado para llegar a cualquier persona que sienta interés sobre la ciberseguridad y pensado para identificar talento entre usuarios que quieran poner a prueba sus conocimientos, habilidades y destrezas en este ámbito trascendental para la tecnología.
+
+<!--## Resultados
 
 La Cátedra Viewnext-UEx sobre “Seguridad y Auditoría de Sistemas Software” organizó coincidiendo con las JNIC-2021 una nueva edición de su CTF. Se trata de la tercera ocasión en que se organiza este tipo de eventos, tras las ediciones de 2018 en el marco de ForoCIBER y 2019, donde se integraron por primera vez con las JNIC.
 
@@ -31,13 +33,48 @@ Para terminar, además de felicitar a todos los participantes en nuestro CTF, qu
 + 2ª clasificada – Raquel Orozco _(42 Madrid)_ **Premiada con unos auriculares Plantronics Voyager**
 + 3º clasificado – Miguel Ángel Abad Gómez _(UNED)_ **Premiado con un Smart Watch Samsung Galaxy Watch Active**
 
-**¡Nos vemos en la edición de 2022!**
+**¡Nos vemos en la edición de 2022!** -->
 
 
 A continuación puede consultar cuales fueron las normas de participación:
 ## Participación
 
-Podrá participar cualquier persona que resida dentro de España y esté realizando estudios pre-universitarios, universitarios o **haya terminado sus estudios universitarios u otros oficiales, en los tres últimos años (a partir del año 2019 inclusive)**.
+Se facilitará la participación en grupos de **3 personas**. Los participantes de estos grupos, podrán ser cualquier persona que resida dentro de España. Además, para poder optar a premio, todos los miembros del grupo, deben estar realizando estudios pre-universitarios, universitarios o han terminado sus estudios universitarios u otros oficiales, en los dos últimos años (a partir del año 2020 inclusive). Cualquier otra circunstancia dada, permitirá la participación del grupo pero la no disposición a ser premiados/as en el caso de resultar equipo ganador.
+
+1. Los usuarios que quieran participar en el CTF **JNIC** deberán completar el formulario que está publicado en el apartado Inscripción de esta web. El plazo de inscripciones está abierto hasta las 14:00 horas del **22 de junio de 2022**.
+
+2. La competición será completamente virtual, celebrándose a través de una plataforma virtual.
+
+3. Tras el proceso de inscripción obtendrás credenciales de acceso a la plataforma de la competición. Las credenciales de acceso obtenidas son **intransferibles**. En caso de pérdida u olvido se pueden recuperar automáticamente a través de la propia plataforma donde se realiza la competición.
+
+4. La competición tendrá una duración de **72 horas**, teniendo lugar desde las **14:00 horas del día 24 de junio hasta las 14:00 horas del día 27 de junio de 2022**.
+
+5. Los retos tendrán distintos **niveles de dificultad** y abordarán diversas **disciplinas** de la ciberseguridad, entre ellas:
+
+    + **Ingeniería inversa**.
+    + **Exploiting**.
+    + **Análisis Forense**.
+    + **Hacking web**.
+    + **Criptografía y esteganografía**.
+ 
+ 6. La suma global de la puntuación de los retos será de 100 puntos repartidos en función de su dificultad, de la siguiente manera:
+    + **Reto 1: 10 puntos**.
+    + **Reto 2: 15 puntos**.
+    + **Reto 3: 20 puntos**.
+    + **Reto 4: 25 puntos**.
+    + **Reto 5: 30 puntos**.
+ 
+ 7. La clasificación de talento se realizará sumando las puntuaciones de cada reto superado. En caso de **empate** se resolverá según el orden temporal de superación de los restos que estará registrado en la plataforma de competición.
+ 
+ 8.La entrega de premios será acordada con las empresas patrocinadoras. Más información sobre los premios en los próximos días.
+ 
+ 9. Se ofrecerán oportunidades laborales en las empresas colaboradoras, empresas punteras que ofrecen servicios tecnológicos, a los estudiantes o personas que hayan finalizado sus estudios con posterioridad al 1 enero de 2020 y que adquieran mayor puntuación en la superación de los retos. *Cualquier condicionante no contemplado en las bases de participación será considerada y evaluada por los organizadores.
+
+
+
+
+
+<!--Podrá participar cualquier persona que resida dentro de España y esté realizando estudios pre-universitarios, universitarios o **haya terminado sus estudios universitarios u otros oficiales, en los tres últimos años (a partir del año 2019 inclusive)**.
 Cualquier otra circunstancia dada, permitirá la participación del usuario/a pero la no disposición a ser premiado/a en el caso de resultar ganador/a.
 
 1. Los usuarios que quieran participar en el CTF JNIC-Viewnext deberán completar el [formulario](https://docs.google.com/forms/d/e/1FAIpQLSdHMuJixKpwDxQapm4x_6xqFmociZ-Baz_IND5KxtxT_J59DQ/viewform) que está publicado en el apartado **Inscripción** de esta web. El plazo de inscripciones está abierto hasta las **14:00 horas del 3 de junio de 2021**.
@@ -71,7 +108,7 @@ Cualquier otra circunstancia dada, permitirá la participación del usuario/a pe
     En caso de haber problemas de stock, existencias o cualquier otra circunstancia que impidan la entrega de los premios establecidos, la organización se compromete a entregar un producto similar (en cuanto a características y precio) a los anteriormente expuestos.
 
 + Se ofrecerán oportunidades laborales en la empresa Viewnext, empresa puntera que ofrece servicios tecnológicos, a los estudiantes o personas que hayan finalizado sus estudios con posterioridad al 1 enero de 2019 y que adquieran mayor puntuación en la superación de los retos.
-*Cualquier condicionante no contemplado en las bases de participación será considerada y evaluada por los organizadores.
+*Cualquier condicionante no contemplado en las bases de participación será considerada y evaluada por los organizadores. -->
 
 ## Inscripción
 
