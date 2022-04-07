@@ -24,21 +24,37 @@ Podrá participar cualquier persona que no sea personal laboral de la Universida
 
 ## Procedimiento de presentación de propuestas
 A continuación se muestra un listado meramente indicativo, con carácter no exhaustivo, sobre posibles disciplinas de la ciberseguridad en la que orientar parte de los retos:
-    + **Ingeniería inversa**.
-    + **Exploiting**.
-    + **Análisis Forense**.
-    + **Hacking web**.
-    + **Criptografía y esteganografía**.
+   + **Ingeniería inversa**.
+   + **Exploiting**.
+   + **Análisis Forense**.
+   + **Hacking web**.
+   + **Criptografía y esteganografía**.
     
 ## Envío de propuestas
 
-Para el envío de la propuesta se deberá de presentar el modelo de documento adjunto en la sección **Call for flags** del portal web de JNIC 2022 y completar correctamente los campos requeridos.
-
-Una vez cumplimentado, se deberá rellenar el formulario?? dentro del plazo establecido.
-
+Para el envío de la propuesta se deberá de presentar el modelo de documento adjunto en la sección **Call for flags** del portal web de JNIC 2022 y completar correctamente los campos requeridos. Una vez cumplimentado, se deberá rellenar el formulario?? dentro del plazo establecido.
 Cada participante podrá enviar más de un reto.
 
 
+## Critereios para la evaluación de los retos
+Se valorarán los siguientes aspectos de la propuesta:
+
+ + **Documentación**:
+  Puntos asignados: de 0 a 50 puntos. Se establecen los siguiente sub-criterios de valoración:
+  <table>
+        <tr>
+        <td><strong>Puntuación</strong></td>
+        <td><strong>Índice de valoración</strong></td>
+        </tr>
+    <tr>
+     <td>0-40 puntos</td>
+     <td>La documentación tiene en cuenta aspectos particulares como:
+          + Aspecto 1.
+          + Aspecto 2.
+          + Aspecto 3
+       </td>
+    </tr>
+ </table>
 
 
 
