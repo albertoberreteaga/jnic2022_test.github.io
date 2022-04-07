@@ -44,20 +44,9 @@ A continuación, detallamos las actividades sociales de JNIC 2022, centrados en 
     <div class="col-xs-12 col-sm-4">
       <h4 style="text-align:center">Cena <br /> en Casco Viejo</h4>
       <h4></h4>
-      <img style="width:100%;height:auto" src="{{site.url}}/images/actividades/cascoviejo.jpg"/>
+      <img style="width:100%;height:auto" src="{{site.url}}/images/actividades/cascoviejo.jpeg"/>
       <p style="text-align:center">Cena en restaurante con menú tradicional.</p>
     </div>
   </div>
 </div>
- <!--
 
-<p align="center"><b><i>(Pulsa en la imagen para cargar la galería).</i></b></p>
-
-<div align="center" style="padding: 15px">
-<a data-fancybox="gallery-actividades" data-caption='1 - Visita al museo Guggenheim.' href="{{site.url}}/images/actividades/guggenheim.jpg"><img src="{{site.url}}/images/actividades/guggenheim.jpg" style="max-height: 600px;"></a>
-<a data-fancybox="gallery-actividades" data-caption='2 - Cena en el restaurante Bistró Guggenheim.' href="{{site.url}}/images/actividades/bistro.png"></a>
-<a data-fancybox="gallery-actividades" data-caption='3 - Navegando al mar.' href="{{site.url}}/images/actividades/boats.png"></a> -->
-<!-- <a data-fancybox="gallery-actividades" data-caption='2 - Cena "a la luz de las estrellas".' href="{{site.url}}/images/actividades/Cena estrellas.jpg"></a>
-<a data-fancybox="gallery-actividades" data-caption='5 - Visita Guiada "Cáceres Ciudad Monumental".' href="{{site.url}}/images/actividades/Visita Guiada Cáceres Ciudad Monumental.jpg"></a>
-<a data-fancybox="gallery-actividades" data-caption='6 - Cena de Gala – Castillo de la Arguijuela.' href="{{site.url}}/images/actividades/Cena de Gala - Castillo de la Arguijuela.jpg"></a>
-</div> -->
