@@ -36,7 +36,7 @@ Para el envío de la propuesta se deberá de presentar el modelo de documento ad
 Cada participante podrá enviar más de un reto.
 
 
-## Critereios para la evaluación de los retos
+## Criterios para la evaluación de los retos
 Se valorarán los siguientes aspectos de la propuesta:
 
  + **Documentación**:
