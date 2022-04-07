@@ -48,15 +48,30 @@ Se valorarán los siguientes aspectos de la propuesta:
         </tr>
     <tr>
      <td>0-40 puntos</td>
-     <td>La documentación tiene en cuenta aspectos particulares como:
-          + Aspecto 1.
-          + Aspecto 2.
-          + Aspecto 3
+     <td>La documentación tiene en cuenta aspectos particulares como: 
+        + Aspecto 1.
+        + Aspecto 2.
+        + Aspecto 3.
        </td>
     </tr>
  </table>
 
-
+ + **Originalidad**:
+  Puntos asignados: de 0 a 50 puntos. Se establecen los siguiente sub-criterios de valoración:
+  <table>
+        <tr>
+        <td><strong>Puntuación</strong></td>
+        <td><strong>Índice de valoración</strong></td>
+        </tr>
+    <tr>
+     <td>0-40 puntos</td>
+     <td>La documentación tiene en cuenta aspectos particulares como: 
+        + Aspecto 1.
+        + Aspecto 2.
+        + Aspecto 3.
+       </td>
+    </tr>
+ </table>
 
 
 
