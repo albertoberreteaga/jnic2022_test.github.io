@@ -79,7 +79,7 @@ Se facilitará la participación en grupos de **3 personas**. Los participantes 
 
 ## Inscripción
 
-Puedes inscribirte en el siguiente formuliario <!-- [Formulario](https://docs.google.com/forms/d/e/1FAIpQLSdHMuJixKpwDxQapm4x_6xqFmociZ-Baz_IND5KxtxT_J59DQ/viewform)-->
+Puedes inscribirte en el siguiente formulario <!-- [Formulario](https://docs.google.com/forms/d/e/1FAIpQLSdHMuJixKpwDxQapm4x_6xqFmociZ-Baz_IND5KxtxT_J59DQ/viewform)-->
 
 ## Política de Privacidad
 
