@@ -24,7 +24,24 @@ El objeto de las presentes bases es el de regular la participación de retadores
 ## Plazos
 El plazo para la presentación de solicitudes de retos para participar en **Call for flags 2022** finaliza el próximo día de mes de 2022, a las 23:59h UTC+0(1 o 2):00
 
+## Candidatos
+Podrá participar cualquier persona que no sea personal laboral de la Universidad de Extremadura.
 
+## Procedimiento de presentación de propuestas
+A continuación se muestra un listado meramente indicativo, con carácter no exhaustivo, sobre posibles disciplinas de la ciberseguridad en la que orientar parte de los retos:
+    + **Ingeniería inversa**.
+    + **Exploiting**.
+    + **Análisis Forense**.
+    + **Hacking web**.
+    + **Criptografía y esteganografía**.
+    
+## Envío de propuestas
+
+Para el envío de la propuesta se deberá de presentar el modelo de documento adjunto en la sección **Call for flags** del portal web de JNIC 2022 y completar correctamente los campos requeridos.
+
+Una vez cumplimentado, se deberá rellenar el formulario?? dentro del plazo establecido.
+
+Cada participante podrá enviar más de un reto.
 
 
 <!--## Resultados
@@ -49,7 +66,7 @@ Para terminar, además de felicitar a todos los participantes en nuestro CTF, qu
 
 **¡Nos vemos en la edición de 2022!** -->
 
-
+<!--
 A continuación puede consultar cuales fueron las normas de participación:
 ## Participación
 
@@ -86,7 +103,7 @@ Se facilitará la participación en grupos de **3 personas**. Los participantes 
 
 ## Inscripción
 
-Puedes inscribirte en el siguiente formuliario <!-- [Formulario](https://docs.google.com/forms/d/e/1FAIpQLSdHMuJixKpwDxQapm4x_6xqFmociZ-Baz_IND5KxtxT_J59DQ/viewform)-->
+Puedes inscribirte en el siguiente formuliario --> <!-- [Formulario](https://docs.google.com/forms/d/e/1FAIpQLSdHMuJixKpwDxQapm4x_6xqFmociZ-Baz_IND5KxtxT_J59DQ/viewform)-->
 
 ## Política de Privacidad
 
