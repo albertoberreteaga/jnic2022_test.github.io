@@ -38,20 +38,14 @@ A continuación, detallamos las actividades sociales de JNIC 2022, centrados en 
  <div class="row">
     <div class="col-xs-12 col-sm-4">
         <h4 style="text-align:center">Cena de gala<br />Restaurante San Mamés (*)</h4>
-      <img style="width:100%;height:auto" src="./assets/images/mirador-de-ulia.jpg"/>
-      <p style="text-align:center">Cena de gala en el restaurante <a href="https://www.miradordeulia.es/">Mirador de Ulía</a>, galardonado con una estrella Michelin.</p>
+      <img style="width:100%;height:auto" src="{{site.url}}/images/actividades/sanmames.jpg"/>
+      <p style="text-align:center">Cena de gala en el restaurante <a href="https://www.miradordeulia.es/">San Mamés</a>.</p>
     </div>
     <div class="col-xs-12 col-sm-4">
-      <h4 style="text-align:center">Cena <br /> en sidrería</h4>
+      <h4 style="text-align:center">Cena <br /> en Casco Viejo</h4>
       <h4></h4>
-      <img style="width:100%;height:auto" src="./assets/images/cena-en-sidreria.jpg"/>
-      <p style="text-align:center">Cena en <a href="https://es.wikipedia.org/wiki/Sidrer%C3%ADa">sidrería</a>, con menú tradicional y sidra natural de temporada.</p>
-    </div>
-    <div class="col-xs-12 col-sm-4">
-      <h4 style="text-align:center">Cena <br /> de pintxos</h4>
-        <h4></h4>
-      <img style="width:100%;height:auto" src="./assets/images/cena-de-pintxos.jpg"/>
-      <p style="text-align:center"><a href="./assets/pintxo_mapa.pdf">Cena de pintxos</a> por diferentes bares de la Parte Vieja de San Sebastián, con tickets recogidos en el registro.</p>
+      <img style="width:100%;height:auto" src="{{site.url}}/images/actividades/cascoviejo.jpg"/>
+      <p style="text-align:center">Cena en restaurante con menú tradicional.</p>
     </div>
   </div>
 </div>
