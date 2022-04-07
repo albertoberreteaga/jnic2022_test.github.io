@@ -22,13 +22,33 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
 
 
 A continuación, detallamos las actividades sociales de JNIC 2022, centrados en la cultura y gastronomía vasca.
+<div class="container">
+  <div class="row">
+    <div class="col-xs-12 col-sm-4">
+      <h4 style="text-align:center">Navegando Bilbao</h4>
+      <img style="width:100%;height:auto" src=""{{site.url}}/images/actividades/boats.png">
+      <p style="text-align:center"> Este paseo, por el corazón de la Villa, dura unos 60 minutos, visitando la zona centro de Bilbao, desde el puente del Ayuntamiento a la Ribera de Zorrotzaurre <a href="https://www.bilboats.com/navegando-bilbao/">Bilboats</a>.</p>
+    </div>
+    <div class="col-xs-12 col-sm-4">
+      <h4 style="text-align:center">Visita guiada por Bilbao</h4>
+      <img style="width:100%;height:auto" src="{{site.url}}/images/actividades/guggenheim.jpg"/>
+      <p style="text-align:center">Paseo por Bilbao con información sobre la historia y arquitectura de la villa</p>
+    </div>
+     <!--                             
+    <div class="col-xs-12 col-sm-4">
+      <h4 style="text-align:center">Paseo en catamarán</h4>
+      <img style="width:100%;height:auto" src="./assets/images/paseo-en-catamaran.jpg"/>
+      <p style="text-align:center">Paseo por la Bahía de la Concha en el catamarán <a href="http://www.ciudadsansebastian.com/">Ciudad de San Sebastián</a></p>
+    </div>-->
+  </div>
+<!--
 
 <p align="center"><b><i>(Pulsa en la imagen para cargar la galería).</i></b></p>
 
 <div align="center" style="padding: 15px">
 <a data-fancybox="gallery-actividades" data-caption='1 - Visita al museo Guggenheim.' href="{{site.url}}/images/actividades/guggenheim.jpg"><img src="{{site.url}}/images/actividades/guggenheim.jpg" style="max-height: 600px;"></a>
 <a data-fancybox="gallery-actividades" data-caption='2 - Cena en el restaurante Bistró Guggenheim.' href="{{site.url}}/images/actividades/bistro.png"></a>
-<a data-fancybox="gallery-actividades" data-caption='3 - Navegando al mar.' href="{{site.url}}/images/actividades/boats.png"></a>
+<a data-fancybox="gallery-actividades" data-caption='3 - Navegando al mar.' href="{{site.url}}/images/actividades/boats.png"></a> -->
 <!-- <a data-fancybox="gallery-actividades" data-caption='2 - Cena "a la luz de las estrellas".' href="{{site.url}}/images/actividades/Cena estrellas.jpg"></a>
 <a data-fancybox="gallery-actividades" data-caption='5 - Visita Guiada "Cáceres Ciudad Monumental".' href="{{site.url}}/images/actividades/Visita Guiada Cáceres Ciudad Monumental.jpg"></a>
 <a data-fancybox="gallery-actividades" data-caption='6 - Cena de Gala – Castillo de la Arguijuela.' href="{{site.url}}/images/actividades/Cena de Gala - Castillo de la Arguijuela.jpg"></a>
