@@ -14,11 +14,18 @@ La competición se realizó durante **72 horas** de **forma virtual**, a través
 
 <div class="text-center">
 <a id="inicio"></a>
-<a href="{{site.url}}/ctf"><img src="{{site.url}}/images/Icoflag.png" class="img-circle" 	width="40" height="40"><strong>Capture The Flag</strong></a> &nbsp;&nbsp;&nbsp;
-<a href="{{site.url}}/cff"><img src="{{site.url}}/images/Icospeaker.png" class="img-circle" 	width="40" height="40"><strong>Call for Flags</strong></a>&nbsp;&nbsp;&nbsp;
+<a href="{{site.url}}/ctf"><img src="{{site.url}}/images/Icoflag.png" class="img-circle" 	width="30" height="30"><strong>  Capture the Flag</strong></a> &nbsp;&nbsp;&nbsp;
+<a href="{{site.url}}/cff"><img src="{{site.url}}/images/Icospeaker.jpg" class="img-circle" 	width="30" height="30"><strong>  Call for Flags</strong></a>&nbsp;&nbsp;&nbsp;
 </div><br>
 
-El **Capture The Flag JNIC** es una competición virtual que pretende detectar y premiar a las nuevas promesas de la **#ciberseguridad** del ámbito nacional. Creado para complementar las VII Jornadas Nacionales de Investigación en Ciberseguridad, se celebrarán entre los días **27 y 29 de junio de 2022**. Diseñado para llegar a cualquier persona que sienta interés sobre la ciberseguridad y pensado para identificar talento entre usuarios que quieran poner a prueba sus conocimientos, habilidades y destrezas en este ámbito trascendental para la tecnología.
+## Objeto
+El objeto de las presentes bases es el de regular la participación de retadores, en la próxima edición del evento **Call for flags**, organizado por la Universidad de Extremadura.  Para poder participar, el interesado deberá cumplir con los requisitos establecidos en las presentes bases. Para poder participar deberá de enviar en tiempo y en forma su propuesta de reto siguiendo las instrucciones que vienen recogidas a continuación.
+
+## Plazos
+El plazo para la presentación de solicitudes de retos para participar en **Call for flags 2022** finaliza el próximo día de mes de 2022, a las 23:59h UTC+0(1 o 2):00
+
+
+
 
 <!--## Resultados
 
