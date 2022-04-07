@@ -38,13 +38,13 @@ A continuación, detallamos las actividades sociales de JNIC 2022, centrados en 
  <div class="row">
     <div class="col-xs-12 col-sm-4">
         <h4 style="text-align:center">Cena de gala<br />Restaurante San Mamés (*)</h4>
-      <img style="width:100%;height:auto" src="{{site.url}}/images/actividades/sanmames.jpg"/>
+      <img style="width:50%;height:auto" src="{{site.url}}/images/actividades/sanmames.jpg"/>
       <p style="text-align:center">Cena de gala en el restaurante <a href="https://www.miradordeulia.es/">San Mamés</a>.</p>
     </div>
     <div class="col-xs-12 col-sm-4">
       <h4 style="text-align:center">Cena <br /> en Casco Viejo</h4>
       <h4></h4>
-      <img style="width:100%;height:auto" src="{{site.url}}/images/actividades/cascoviejo.jpeg"/>
+      <img style="width:50%;height:auto" src="{{site.url}}/images/actividades/cascoviejo.jpeg"/>
       <p style="text-align:center">Cena en restaurante con menú tradicional.</p>
     </div>
   </div>
