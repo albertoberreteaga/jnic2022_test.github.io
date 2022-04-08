@@ -13,10 +13,10 @@ layout: page
 <a href="{{site.url}}/cff"><img src="{{site.url}}/images/Icospeaker.jpg" class="img-circle" 	width="30" height="30"><strong>  Call for Flags</strong></a>&nbsp;&nbsp;&nbsp;
 </div><br>
 
-## Objeto
+### Objeto
 El objeto de las presentes bases es el de regular la participación de retadores, en la próxima edición del evento **Call for flags**, organizado por la Universidad de Extremadura.  Para poder participar, el interesado deberá cumplir con los requisitos establecidos en las presentes bases. Para poder participar deberá de enviar en tiempo y en forma su propuesta de reto siguiendo las instrucciones que vienen recogidas a continuación.
 
-## Plazos
+# Plazos
 El plazo para la presentación de solicitudes de retos para participar en **Call for flags 2022** finaliza el próximo día de mes de 2022, a las 23:59h UTC+0(1 o 2):00
 
 ## Candidatos
