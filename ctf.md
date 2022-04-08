@@ -44,7 +44,7 @@ Para terminar, además de felicitar a todos los participantes en nuestro CTF, qu
 
 
 A continuación puede consultar cuales fueron las normas de participación:
-## Participación
+### Participación
 
 Se facilitará la participación en grupos de **3 personas**. Los participantes de estos grupos, podrán ser cualquier persona que resida dentro de España. Además, para poder optar a premio, todos los miembros del grupo, deben estar realizando estudios pre-universitarios, universitarios o han terminado sus estudios universitarios u otros oficiales, en los dos últimos años (a partir del año 2020 inclusive). Cualquier otra circunstancia dada, permitirá la participación del grupo pero la no disposición a ser premiados/as en el caso de resultar equipo ganador.
 
@@ -77,11 +77,11 @@ Se facilitará la participación en grupos de **3 personas**. Los participantes 
  
  9. Se ofrecerán oportunidades laborales en las empresas colaboradoras, empresas punteras que ofrecen servicios tecnológicos, a los estudiantes o personas que hayan finalizado sus estudios con posterioridad al 1 enero de 2020 y que adquieran mayor puntuación en la superación de los retos. *Cualquier condicionante no contemplado en las bases de participación será considerada y evaluada por los organizadores.
 
-## Inscripción
+### Inscripción
 
 Puedes inscribirte en el siguiente formulario <!-- [Formulario](https://docs.google.com/forms/d/e/1FAIpQLSdHMuJixKpwDxQapm4x_6xqFmociZ-Baz_IND5KxtxT_J59DQ/viewform)-->
 
-## Política de Privacidad
+### Política de Privacidad
 
 En cumplimiento de lo previsto en la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, nos complace informarle acerca del tratamiento de sus datos de carácter personal (“Datos”). Los Datos que nos haya facilitado, que nos facilite ahora o que nos facilite en el futuro, con motivo de gestionar su participación en el CTF JNIC2022, competición de detección de talento impulsada por el Comité Organizador de las JNIC2022, serán tratados conforme a lo previsto en la citada Ley. Le informamos que sus datos personales formarán parte de un fichero cuyo titular son los miembros del Comité Organizador de las JNIC2022 y cuya única finalidad es la de recabar datos de los participantes para el correcto desarrollo de la competición y su empleabilidad, y para informar de las acciones que se lleven a cabo al amparo de las Jornadas Nacionales de Investigación en Ciberseguridad Asimismo, mediante el clic en el checkbox «Acepto las condiciones generales de participación y la política de privacidad de cesión de datos personales» usted nos autoriza a enviarle información sobre el evento o eventos similares, por los medios electrónicos facilitados. Sus datos personales serán tratados con la máxima confidencialidad y con el deber de secreto requeridos. Los integrantes de la Organización del CTF JNIC 2022 han adoptado las medidas técnicas y organizativas requeridas por la legislación vigente. Puede ejercitar sus derechos de acceso, rectificación, cancelación y oposición mediante comunicación escrita, adjuntando fotocopia del DNI o documento identificativo equivalente, ante Comité Organización del CTF JNIC2022. Puede ponerse en contacto con nosotros en el correo electrónico: [jnic2022@tecnalia.com](mailto:jnic2022@tecnalia.com) 
 
