@@ -39,7 +39,7 @@ A continuación, detallamos las actividades sociales de JNIC 2022, centrados en 
     </td>
     <td style="background: #fff; width: 2%;">&nbsp;</td>
     <td style="background: #fff; width: 49%; text-align: center;">
-      <img src="{{site.url}}/images/actividades/cascoviejo.jepg"/>
+      <img src="{{site.url}}/images/actividades/cascoviejo.jpeg"/>
     </td>
    </tr>
    <tr style="vertical-align: top;">
@@ -52,9 +52,11 @@ A continuación, detallamos las actividades sociales de JNIC 2022, centrados en 
     </td>
    </tr>
  </table>
- 
- ### 28 Junio 2022
+</div>
 
+### 28 Junio 2022
+ 
+<div class="container">
  <table style="width: 100%; border: 0">
    <tr style="vertical-align: top;">
     <td style="width: 49%; text-align: center;">
@@ -80,7 +82,7 @@ A continuación, detallamos las actividades sociales de JNIC 2022, centrados en 
     </td>
     <td style="width: 2%;">&nbsp;</td>
     <td style="width: 49%; text-align: center;">
-      <p style="text-align:center">Cena de gala en el restaurante <a href="https://www.sanmamesjatetxea.com/es/">San Mamés</a>.</p>
+      <p style="text-align:center">Cena de gala en el <a href="https://www.sanmamesjatetxea.com/es/"> restaurante San Mamés</a>.</p>
     </td>
    </tr>
  </table>
