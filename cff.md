@@ -16,13 +16,13 @@ layout: page
 ### Objeto
 El objeto de las presentes bases es el de regular la participación de retadores, en la próxima edición del evento **Call for flags**, organizado por la Universidad de Extremadura.  Para poder participar, el interesado deberá cumplir con los requisitos establecidos en las presentes bases. Para poder participar deberá de enviar en tiempo y en forma su propuesta de reto siguiendo las instrucciones que vienen recogidas a continuación.
 
-# Plazos
+### Plazos
 El plazo para la presentación de solicitudes de retos para participar en **Call for flags 2022** finaliza el próximo día de mes de 2022, a las 23:59h UTC+0(1 o 2):00
 
-## Candidatos
+### Candidatos
 Podrá participar cualquier persona que no sea personal laboral de la Universidad de Extremadura.
 
-## Procedimiento de presentación de propuestas
+### Procedimiento de presentación de propuestas
 A continuación se muestra un listado meramente indicativo, con carácter no exhaustivo, sobre posibles disciplinas de la ciberseguridad en la que orientar parte de los retos:
    + **Ingeniería inversa**.
    + **Exploiting**.
@@ -30,13 +30,13 @@ A continuación se muestra un listado meramente indicativo, con carácter no exh
    + **Hacking web**.
    + **Criptografía y esteganografía**.
     
-## Envío de propuestas
+### Envío de propuestas
 
 Para el envío de la propuesta se deberá de presentar el modelo de documento adjunto en la sección **Call for flags** del portal web de JNIC 2022 y completar correctamente los campos requeridos. Una vez cumplimentado, se deberá rellenar el formulario?? dentro del plazo establecido.
 Cada participante podrá enviar más de un reto.
 
 
-## Criterios para la evaluación de los retos
+### Criterios para la evaluación de los retos
 Se valorarán los siguientes aspectos de la propuesta:
 
  + **Documentación**:
