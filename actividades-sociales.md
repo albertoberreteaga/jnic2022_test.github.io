@@ -50,17 +50,17 @@ A continuación, detallamos las actividades sociales de JNIC 2022, centrados en 
     </div>
   </div>
 -->
- <table style="width: 100%;">
+ <table style="width: 100%; border: 0">
    <tr>
-    <td style="width: 49%;">
+    <td style="width: 49%; text-align: center;">
        <h4 style="text-align:center">Navegando Bilbao</h4>
-      <img style="width:50%;height:auto" src="{{site.url}}/images/actividades/boats.png"/>
+      <img src="{{site.url}}/images/actividades/boats.png"/>
       <p style="text-align:center"> Este paseo, por el corazón de la Villa, dura unos 60 minutos, visitando la zona centro de Bilbao, desde el puente del Ayuntamiento a la Ribera de Zorrotzaurre <a href="https://www.bilboats.com/navegando-bilbao/">Bilboats</a>.</p>
     </td>
     <td style="width: 2%;">&nbsp;</td>
-    <td style="width: 49%;">
+    <td style="width: 49%; text-align: center;">
      <h4 style="text-align:center">Visita guiada por Bilbao</h4>
-      <img style="width:50%;height:auto" src="{{site.url}}/images/actividades/guggenheim.jpg"/>
+      <img src="{{site.url}}/images/actividades/guggenheim.jpg"/>
       <p style="text-align:center">Paseo por Bilbao con información sobre la historia y arquitectura de la villa</p>
     </td>
    <tr>
