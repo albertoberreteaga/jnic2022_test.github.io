@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults   mediante este [enlace](https://easychair.org/conferences/?conf=jnic2019).    
 
 
-layout: home
+layout: page
 ---
 <!--
 
