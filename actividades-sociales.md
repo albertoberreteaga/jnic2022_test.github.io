@@ -44,7 +44,7 @@ A continuación, detallamos las actividades sociales de JNIC 2022, centrados en 
    </tr>
    <tr style="vertical-align: top;">
     <td style="width: 49%; text-align: center;">
-      <p style="text-align:center"> Este paseo, por el corazón de la Villa, dura unos 60 minutos, visitando la zona centro de Bilbao, desde el puente del Ayuntamiento a la Ribera de Zorrotzaurre <a href="https://www.bilboats.com/navegando-bilbao/">Bilboats</a>.</p>
+      <p style="text-align:center"> Este paseo, por el corazón de la Villa, dura unos 60 minutos, visitando la zona centro de Bilbao, desde el puente del Ayuntamiento a la Ribera de Zorrotzaurre <a href="https://www.bilboats.com/navegando-bilbao/" target="_blank">Bilboats</a>.</p>
     </td>
     <td style="width: 2%;">&nbsp;</td>
     <td style="width: 49%; text-align: center;">
@@ -82,7 +82,7 @@ A continuación, detallamos las actividades sociales de JNIC 2022, centrados en 
     </td>
     <td style="width: 2%;">&nbsp;</td>
     <td style="width: 49%; text-align: center;">
-      <p style="text-align:center">Cena de gala en el <a href="https://www.sanmamesjatetxea.com/es/"> restaurante San Mamés</a>.</p>
+      <p style="text-align:center">Cena de gala en el <a href="https://www.sanmamesjatetxea.com/es/" target="_blank"> restaurante San Mamés</a>.</p>
     </td>
    </tr>
  </table>
