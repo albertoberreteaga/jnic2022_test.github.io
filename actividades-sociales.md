@@ -23,49 +23,22 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
 
 A continuación, detallamos las actividades sociales de JNIC 2022, centrados en la cultura y gastronomía vasca.
 <div class="container">
- <!--
-  <div class="row">
-    <div class="col-xs-6 col-sm-4">
-      <h4 style="text-align:center">Navegando Bilbao</h4>
-      <img style="width:50%;height:auto" src="{{site.url}}/images/actividades/boats.png"/>
-      <p style="text-align:center"> Este paseo, por el corazón de la Villa, dura unos 60 minutos, visitando la zona centro de Bilbao, desde el puente del Ayuntamiento a la Ribera de Zorrotzaurre <a href="https://www.bilboats.com/navegando-bilbao/">Bilboats</a>.</p>
-    </div>
-    <div class="col-xs-6 col-sm-4">
-      <h4 style="text-align:center">Visita guiada por Bilbao</h4>
-      <img style="width:50%;height:auto" src="{{site.url}}/images/actividades/guggenheim.jpg"/>
-      <p style="text-align:center">Paseo por Bilbao con información sobre la historia y arquitectura de la villa</p>
-    </div>
-   </div>
-  <div class="row">
-     <div class="col-xs-6 col-sm-4">
-      <h4 style="text-align:center">Cena <br /> en Casco Viejo</h4>
-      <h4></h4>
-      <img style="width:50%;height:auto" src="{{site.url}}/images/actividades/cascoviejo.jpeg"/>
-      <p style="text-align:center">Cena en restaurante con menú tradicional.</p>
-    </div>
-    <div class="col-xs-6 col-sm-4">
-        <h4 style="text-align:center">Cena de gala<br />Restaurante San Mamés</h4>
-      <img style="width:50%;height:auto" src="{{site.url}}/images/actividades/sanmames.jpg"/>
-      <p style="text-align:center">Cena de gala en el restaurante <a href="https://www.sanmamesjatetxea.com/es/">San Mamés</a>.</p>
-    </div>
-  </div>
--->
- <table style="width: 100%; border: 0">
+  <table style="width: 100%; border: 0">
    <tr style="vertical-align: top;">
     <td style="width: 49%; text-align: center;">
-     <h4 style="text-align:center">Navegando Bilbao</h4>
+     <h5 style="text-align:center">Navegando Bilbao</h5>
     </td>
     <td style="width: 2%;">&nbsp;</td>
     <td style="width: 49%; text-align: center;">
-     <h4 style="text-align:center">Visita guiada por Bilbao</h4>
+     <h5 style="text-align:center">Visita guiada por Bilbao</h5>
     </td>
   </tr>
   <tr style="vertical-align: top;">
-    <td style="width: 49%; text-align: center;">
+    <td style="background: #fff; width: 49%; text-align: center;">
       <img src="{{site.url}}/images/actividades/boats.png"/>
     </td>
-    <td style="width: 2%;">&nbsp;</td>
-    <td style="width: 49%; text-align: center;">
+    <td style="background: #fff; width: 2%;">&nbsp;</td>
+    <td style="background: #fff; width: 49%; text-align: center;">
       <img src="{{site.url}}/images/actividades/guggenheim.jpg"/>
     </td>
    </tr>
