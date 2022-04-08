@@ -35,11 +35,11 @@ A continuación, detallamos las actividades sociales de JNIC 2022, centrados en 
   </tr>
   <tr style="vertical-align: top;">
     <td style="background: #fff; width: 49%; text-align: center;">
-      <img src="{{site.url}}/images/actividades/boats.png"/>
+      <img src="{{site.url}}/images/actividades/bilboats.jpg"/>
     </td>
     <td style="background: #fff; width: 2%;">&nbsp;</td>
     <td style="background: #fff; width: 49%; text-align: center;">
-      <img src="{{site.url}}/images/actividades/cascoviejo.jpeg"/>
+      <img src="{{site.url}}/images/actividades/cascoviejo.jpg"/>
     </td>
    </tr>
    <tr style="vertical-align: top;">
@@ -69,7 +69,7 @@ A continuación, detallamos las actividades sociales de JNIC 2022, centrados en 
   </tr>
   <tr style="vertical-align: top;">
     <td style="background: #fff; width: 49%; text-align: center;">
-      <img src="{{site.url}}/images/actividades/guggenheim.jpg"/>
+      <img src="{{site.url}}/images/actividades/guiadabilbao.jpg"/>
     </td>
     <td style="background: #fff; width: 2%;">&nbsp;</td>
     <td style="background: #fff; width: 49%; text-align: center;">
