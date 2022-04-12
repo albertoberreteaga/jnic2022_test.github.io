@@ -48,7 +48,7 @@ A continuación, detallamos las actividades sociales de JNIC 2022, centrados en 
     </td>
     <td style="width: 2%;">&nbsp;</td>
     <td style="width: 49%; text-align: center;">
-      <p style="text-align:center"> Cena en un restaurante donde disfrutar de la comida típica vasca. Restaurante <a href="https://eltxokoberria.com/" target="_blank">Txoko Berria</a>.</p>
+      <p style="text-align:center"> Cena en un restaurante donde disfrutar de la comida típica vasca. Restaurante <a href="https://eltxokoberria.com/" target="_blank"> El Txoko Berria</a>.</p>
     </td>
    </tr>
  </table>
