@@ -13,7 +13,7 @@ layout: page
 <!-- Llamada a la participación en las <b>VII <span style="color:#e3041e">J</span>ornadas <span style="color:#e3041e">N</span>acionales de <span style="color:#e3041e">I</span>nvestigación en <span style="color:#e3041e">C</span>iberseguridad (<span style="color:#e3041e">JNIC</span>)</b> -->
 
 
-Las Jornadas, organizadas de forma conjunta con INCIBE, se centrarán fundamentalmente en tres áreas de trabajo:
+Las Jornadas, organizadas de forma conjunta con INCIBE, se centrarán fundamentalmente en dos áreas de trabajo:
 
 1 - __Investigación en ciberseguridad__. Se consideran los siguientes tipos de contribución:
 
@@ -23,14 +23,14 @@ Las Jornadas, organizadas de forma conjunta con INCIBE, se centrarán fundamenta
 
 2 - __Formación e innovación educativa en ciberseguridad__. En este caso, se espera un único tipo de contribución como artículo largo (máximo 8 páginas).
 
-3 - __Programa de Transferencia Tecnológica__ (certamen de retos científicos). Se proporcionará más información próximamente. 
+<!--3 - __Programa de Transferencia Tecnológica__ (certamen de retos científicos). Se proporcionará más información próximamente. -->
 
 <!-- [Más información](https://transferencia.jnic.es/edicion-2019-20). -->
 
 Aparte de esto, se considerarán resultados de __TFMs y Tesis Doctorales__ sobre ciberseguridad que deseen presentarse a la “Edición de Premios RENIC de Investigación en Ciberseguridad  2022” que se concederá durante las Jornadas. <a href="https://www.renic.es/es/convocados-los-premios-de-investigacion-en-ciberseguridad-2022" target="_blank"> Ver bases y fechas</a>.
 
 
-__Fecha límite__ de recepción de trabajos:  _15/04/2022 (para tanto a artículos como resúmenes extendidos)_. 
+__Fecha límite__ de recepción de trabajos:  _29/04/2022 (para tanto a artículos como resúmenes extendidos)_. 
 
 El envío de contribuciones se realizará a través de la plataforma EasyChair, mediante este <a href="https://easychair.org/my/conference?conf=jnic2022" target="_blank">enlace</a>. 
 
