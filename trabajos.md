@@ -43,6 +43,6 @@ Todas las contribuciones (que podrán ser en español o en inglés) seguirán el
 __Las versiones extendidas de los mejores artículos en investigación en ciberseguridad podrán enviarse a Special Issues de revistas indexadas en el JCR en posiciones relevantes. Los detalles se irán comunicando próximamente.__
 -->
 
-Las versiones extendidas de los mejores artículos podrán enviarse a Special Issues de revistas indexadas en el JCR en posiciones relevantes tales como Future Generations Computer Systems <a href="https://www.sciencedirect.com/journal/future-generation-computer-systems/about/call-for-papers#special-issue-on-cybersecurity-in-the-digital-world" target="_blank">(FGCS)</a> (Q1) y Wireless Networks (WINET) (Q2). 
+Las versiones extendidas de los mejores artículos podrán enviarse a Special Issues de revistas indexadas en el JCR en posiciones relevantes tales como Future Generations Computer Systems <a href="https://www.sciencedirect.com/journal/future-generation-computer-systems/about/call-for-papers#special-issue-on-cybersecurity-in-the-digital-world" target="_blank"> Future Generations Computer Systems </a> (FGCS) (Q1) y Wireless Networks (WINET) (Q2). 
 
 <!--[Applied Sciences MDPI](https://www.mdpi.com/journal/applsci/special_issues/Cybersecurity_Opportunities) (Q2) y [electronics MDPI](https://www.mdpi.com/journal/electronics/special_issues/Cybersecurity_defense) (Q2).__ -->
