@@ -3,7 +3,7 @@
 		"titulo":"Recepción de trabajos",
 		"contenido":"EXTENDIDO al 29/04/2022",
 		"fecha_ref":"1",
-		"activada": true
+		"activada": false
 	},
 	{
 		"titulo":"Notificación a los autores",
