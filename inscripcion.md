@@ -47,3 +47,4 @@ Es obligatorio que, al menos, un autor de cada contribución aceptada se inscrib
 
 	* __Factura:__ Si necesita factura del pago realizado, no olvide indicarlo al completar el formulario de inscripción.
 
+<center><b>¡Te esperamos!</b></center>
