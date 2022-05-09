@@ -23,9 +23,9 @@ layout: page
 Es obligatorio que, al menos, un autor de cada contribución aceptada se inscriba en las JNIC para que el trabajo sea incluido en las actas. 
 
 La cuota de inscripción da derecho a asistir a todas las conferencias, sesiones, actividades, cafés y comidas organizadas durante las Jornadas (para una persona). Los acompañantes que deseen asistir a los actos sociales organizados de forma complementaria, deberán hacer frente a los pagos indicados. 
-<br>
 
-#### Plazos y precios:
+### Plazos y precios
+### Participación
 
 * __Inscripción regular:__ 200 € hasta el <span style="color:red;">__06/06/2022__</span> (incluido) y 275 € a partir de esa fecha.
 
