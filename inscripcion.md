@@ -22,7 +22,7 @@ layout: page
 
 <p>Es obligatorio que, al menos, un autor de cada contribución aceptada se inscriba en las JNIC para que el trabajo sea incluido en las actas. </p>
 
-<p>La cuota de inscripción da derecho a asistir a todas las conferencias, sesiones, actividades, cafés y comidas organizadas durante las Jornadas (para una persona). Los acompañantes que deseen asistir a los actos sociales organizados de forma complementaria, deberán hacer frente a los pagos indicados. </p>
+<p>La cuota de inscripción da derecho a asistir a todas las conferencias, sesiones, actividades, cafés y comidas organizadas durante las Jornadas (para una persona). Los acompañantes que deseen asistir a los actos sociales organizados de forma complementaria, deberán hacer frente a los pagos indicados. 
 
 
 
@@ -35,6 +35,7 @@ layout: page
 * __Inscripción para estudiantes:__ 150 € hasta el <span style="color:red">__06/06/2022__</span> (incluido) y 200 € a partir de esa fecha (__se requerirá comprobación__).
 
 <!--* __Acompañante:__ según las actividades en las que se inscriba en el formulario.-->
+</p>
 
 <!--La cuota de inscripción da derecho a asistir a todas las conferencias, sesiones, actividades, cafés, comidas, cena de gala y la participación en aquellos actos sociales que se lleven a cabo durante las Jornadas (para una persona). -->
 
