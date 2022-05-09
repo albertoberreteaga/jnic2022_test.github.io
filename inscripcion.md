@@ -43,7 +43,7 @@ Es obligatorio que, al menos, un autor de cada contribución aceptada se inscrib
 
 * __Pago por transferencia bancaria__:
 
-	* __Justificante de pago:__ Una vez realizado el pago por transferencia bancaria, es necesario enviar lo antes posible una copia del justificante de pago a la dirección de correo electrónico a: jnic2022[@]tisasa.es 
+	* __Justificante de pago:__ Una vez realizado el pago por transferencia bancaria, es necesario enviar lo antes posible una copia del justificante de pago a la dirección de correo electrónico a: <span style="color:red;">__jnic2022[@]tisasa.es__</span>  
 
 	* __Factura:__ Si necesita factura del pago realizado, no olvide indicarlo al completar el formulario de inscripción.
 
