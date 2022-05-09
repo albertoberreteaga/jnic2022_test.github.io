@@ -25,7 +25,7 @@ Es obligatorio que, al menos, un autor de cada contribución aceptada se inscrib
 <p> La cuota de inscripción da derecho a asistir a todas las conferencias, sesiones, actividades, cafés y comidas organizadas durante las Jornadas (para una persona). Los acompañantes que deseen asistir a los actos sociales organizados de forma complementaria, deberán hacer frente a los pagos indicados. </p>
 
 
-### Plazos y precios
+#### Plazos y precios
 
 
 * __Inscripción regular:__ 200 € hasta el <span style="color:red;">__06/06/2022__</span> (incluido) y 275 € a partir de esa fecha.
@@ -33,7 +33,7 @@ Es obligatorio que, al menos, un autor de cada contribución aceptada se inscrib
 * __Inscripción para estudiantes:__ 150 € hasta el <span style="color:red">__06/06/2022__</span> (incluido) y 200 € a partir de esa fecha (__se requerirá comprobación__).
 
 * __Acompañante:__ según las actividades en las que se inscriba en el formulario.
-</p>
+
 
 <!--La cuota de inscripción da derecho a asistir a todas las conferencias, sesiones, actividades, cafés, comidas, cena de gala y la participación en aquellos actos sociales que se lleven a cabo durante las Jornadas (para una persona). -->
 
@@ -41,9 +41,9 @@ Es obligatorio que, al menos, un autor de cada contribución aceptada se inscrib
 
 * __<a href="https://tisa.teventos.com/jnic2022/es/mods/formulario-de-inscripcion" target="_blank">Formulario de Inscripción</a>__.
 
-* __Pago por transferencia bancaria__: (es imprescindible rellenar este <a data-fancybox data-type="iframe" data-src="https://eventos.unex.es/event_detail/35190/tickets.html" href="javascript:;">formulario</a>).
+* __Pago por transferencia bancaria__:
 
-		* __Justificante de pago:__ Una vez realizado el pago por transferencia bancaria, es necesario enviar lo antes posible una copia del justificante de pago a la dirección de correo electrónico <span style="color:#008cba">jnic2022[@]tisasa.es</span>
+	* __Justificante de pago:__ Una vez realizado el pago por transferencia bancaria, es necesario enviar lo antes posible una copia del justificante de pago a la dirección de correo electrónico a: jnic2022[@]tisasa.es 
 
-		* __Factura:__ Si necesita factura del pago realizado, no olvide indicarlo al completar el formulario de inscripción.
+	* __Factura:__ Si necesita factura del pago realizado, no olvide indicarlo al completar el formulario de inscripción.
 
