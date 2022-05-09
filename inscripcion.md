@@ -8,17 +8,9 @@ layout: page
 
 
 
- <p> Para inscribirte visita  <a href="https://tisa.teventos.com/jnic2022/es/mods/formulario-de-inscripcion" target="_blank">Formulario de Inscripción</a>.</p>
-<!-- Rellena el formulario que se encuentra al pulsar el botón <a href="https://eventos.uclm.es/event_detail/48324/tickets.html" target="_blank">INSCRIBIRSE</a> </p>
-<p>O puedes ir directamente al <a href="https://eventos.uclm.es/event_detail/48324/tickets.html" target="_blank">Formulario de Inscripción</a></p> -->
+ <p> Para inscribirte visita  <a href="https://tisa.teventos.com/jnic2022/es/mods/formulario-de-inscripcion" target="_blank">Formulario de inscripción</a>.</p>
 
-<!-- <p>Es obligatorio que, al menos, un autor de cada contribución aceptada se inscriba en las JNIC para que el trabajo sea incluido en las actas.</p>
 
- <p><b>La cuota de inscripción de esta edición de JNIC Live es gratuita al tratarse de un evento online.</b></p>
-
-<center><b>¡Te esperamos!</b></center> -->
-
-<!-- <center>Proximamente facilitaremos el formulario de inscrición</center> -->
 
 Es obligatorio que, al menos, un autor de cada contribución aceptada se inscriba en las JNIC para que el trabajo sea incluido en las actas. 
 
@@ -28,9 +20,9 @@ Es obligatorio que, al menos, un autor de cada contribución aceptada se inscrib
 #### Plazos y precios
 
 
-* __Inscripción regular:__ 200 € hasta el <span style="color:red;">__06/06/2022__</span> (incluido) y 275 € a partir de esa fecha.
+* __Inscripción regular:__ 200 € hasta el <span style="color:red;">__07/06/2022__</span> (incluido) y 275 € a partir de esa fecha.
 
-* __Inscripción para estudiantes:__ 150 € hasta el <span style="color:red">__06/06/2022__</span> (incluido) y 200 € a partir de esa fecha (__se requerirá comprobación__).
+* __Inscripción para estudiantes:__ 150 € hasta el <span style="color:red">__07/06/2022__</span> (incluido) y 200 € a partir de esa fecha (se requerirá comprobación).
 
 * __Acompañante:__ según las actividades en las que se inscriba en el formulario.
 
@@ -39,9 +31,9 @@ Es obligatorio que, al menos, un autor de cada contribución aceptada se inscrib
 
 #### Forma de pago y formulario de inscripción
 
-* __<a href="https://tisa.teventos.com/jnic2022/es/mods/formulario-de-inscripcion" target="_blank">Formulario de Inscripción</a>__.
+* __<a href="https://tisa.teventos.com/jnic2022/es/mods/formulario-de-inscripcion" target="_blank">Formulario de inscripción</a>__
 
-* __Pago por transferencia bancaria__:
+* __Pago por transferencia bancaria__
 
 	* __Justificante de pago:__ Una vez realizado el pago por transferencia bancaria, es necesario enviar lo antes posible una copia del justificante de pago a la dirección de correo electrónico a: <span style="color:red;">__jnic2022[@]tisasa.es__</span>  
 
