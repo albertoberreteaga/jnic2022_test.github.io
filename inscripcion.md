@@ -29,7 +29,7 @@ Es obligatorio que, al menos, un autor de cada contribución aceptada se inscrib
 
 <!--La cuota de inscripción da derecho a asistir a todas las conferencias, sesiones, actividades, cafés, comidas, cena de gala y la participación en aquellos actos sociales que se lleven a cabo durante las Jornadas (para una persona). -->
 
-#### Forma de pago y formulario de inscripción
+#### Inscripción y forma de pago.
 
 * __<a href="https://tisa.teventos.com/jnic2022/es/mods/formulario-de-inscripcion" target="_blank">Formulario de inscripción</a>__
 
