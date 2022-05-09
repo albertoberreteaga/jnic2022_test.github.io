@@ -6,9 +6,9 @@ layout: page
 ---
 <!-- <h5 style="color:white; background-color: #550000;" class="text-center"><i class="far fa-clock mr-3"></i> <b> La inscripción a las jornadas se abrirá en Mayo. <br/> Estate atento a esta página web y al twitter. </b></h5> -->
 
-<h5 style="color:white; background-color: #550000;" class="text-center"><i class="far fa-clock mr-3"></i> <b> <a href="https://tisa.teventos.com/jnic2022/es/mods/formulario-de-inscripcion" target="_blank">Formulario de inscripción</a>. </b></h5>
 
- <p> Para inscribirte visita  <a href="https://tisa.teventos.com/jnic2022/es/mods/formulario-de-inscripcion" target="_blank">Formulario de inscripción</a>.</p>
+
+ <p> Para inscribirte completa el siguiente <a href="https://tisa.teventos.com/jnic2022/es/mods/formulario-de-inscripcion" target="_blank">formulario de inscripción</a>.</p>
 
 
 
