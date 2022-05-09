@@ -27,8 +27,7 @@ layout: page
 
 
 
-#### __Plazos y precios__
-
+#### Plazos y precios:
 
 * __Inscripción regular:__ 200 € hasta el <span style="color:red;">__06/06/2022__</span> (incluido) y 275 € a partir de esa fecha.
 
@@ -39,7 +38,7 @@ layout: page
 
 <!--La cuota de inscripción da derecho a asistir a todas las conferencias, sesiones, actividades, cafés, comidas, cena de gala y la participación en aquellos actos sociales que se lleven a cabo durante las Jornadas (para una persona). -->
 
-#### __Forma de pago y formulario de inscripción__
+#### Forma de pago y formulario de inscripción:
 
 * __<a href="https://tisa.teventos.com/jnic2022/es/mods/formulario-de-inscripcion" target="_blank">Formulario de Inscripción</a>__.
 
