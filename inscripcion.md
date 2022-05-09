@@ -5,7 +5,7 @@
 layout: page
 ---
 <!-- <h5 style="color:white; background-color: #550000;" class="text-center"><i class="far fa-clock mr-3"></i> <b> La inscripción a las jornadas se abrirá en Mayo. <br/> Estate atento a esta página web y al twitter. </b></h5> -->
-<br/>
+
 
 
  <p>Para inscribirte visita  <a href="https://tisa.teventos.com/jnic2022/es/mods/formulario-de-inscripcion" target="_blank">Formulario de Inscripción</a>.
@@ -20,12 +20,10 @@ layout: page
 
 <!-- <center>Proximamente facilitaremos el formulario de inscrición</center> -->
 
-<p>Es obligatorio que, al menos, un autor de cada contribución aceptada se inscriba en las JNIC para que el trabajo sea incluido en las actas. </p>
+Es obligatorio que, al menos, un autor de cada contribución aceptada se inscriba en las JNIC para que el trabajo sea incluido en las actas. 
 
-<p>La cuota de inscripción da derecho a asistir a todas las conferencias, sesiones, actividades, cafés y comidas organizadas durante las Jornadas (para una persona). Los acompañantes que deseen asistir a los actos sociales organizados de forma complementaria, deberán hacer frente a los pagos indicados. 
-
-
-
+La cuota de inscripción da derecho a asistir a todas las conferencias, sesiones, actividades, cafés y comidas organizadas durante las Jornadas (para una persona). Los acompañantes que deseen asistir a los actos sociales organizados de forma complementaria, deberán hacer frente a los pagos indicados. 
+<br>
 
 #### Plazos y precios:
 
