@@ -22,7 +22,7 @@ Es obligatorio que, al menos, un autor de cada contribución aceptada se inscrib
 
 * __Inscripción regular:__ 200 € hasta el <span style="color:red;">__07/06/2022__</span> (incluido) y 275 € a partir de esa fecha.
 
-* __Inscripción para estudiantes:__ 150 € hasta el <span style="color:red">__07/06/2022__</span> (incluido) y 200 € a partir de esa fecha (se requerirá comprobación).
+* __Inscripción para estudiantes:__ 125 € hasta el <span style="color:red">__07/06/2022__</span> (incluido) y 200 € a partir de esa fecha (se requerirá comprobación).
 
 * __Acompañante:__ según las actividades en las que se inscriba en el formulario.
 
