@@ -14,7 +14,8 @@ layout: page
 
 Es obligatorio que, al menos, un autor de cada contribución aceptada se inscriba en las JNIC para que el trabajo sea incluido en las actas. 
 
-<p> La cuota de inscripción da derecho a asistir a todas las conferencias, sesiones, cafés, comidas y actividades sociales organizados durante las Jornadas (para una persona). Los acompañantes que deseen asistir a los actos sociales organizados de forma complementaria, deberán hacer frente a los pagos indicados. </p>
+<p> La cuota de inscripción da derecho a asistir a todas las conferencias, sesiones, cafés, comidas y actividades sociales organizados durante las Jornadas (para una persona). 
+Los acompañantes de las personas inscritas que deseen asistir a los actos sociales organizados de forma complementaria, se deberán inscribir en el mismo formulario y deberán hacer frente a los pagos indicados. </p>
 
 
 #### Plazos y precios
