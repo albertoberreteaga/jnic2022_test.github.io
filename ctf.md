@@ -6,8 +6,8 @@
 layout: page
 ---
 <div align="center" style="margin-bottom: 4rem">
-<img src="{{site.url}}/Logos/LogoCatedraUEx.png>
- </div>
+<a href="https://2022.jnic.es/ctf" ><img style="max-height: 100px; padding:25px;" src="{{site.url}}/Logos/LogoCatedraUEx.png"></a>
+</div>
  
 <!--
 <div class="text-center">
