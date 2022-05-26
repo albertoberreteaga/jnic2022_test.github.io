@@ -5,8 +5,10 @@
 
 layout: page
 ---
-
+<div align="center" style="margin-bottom: 4rem">
 ![CTF]({{site.url}}/Logos/LogoCatedraUEx.png)
+ </div>
+ 
 <!--
 <div class="text-center">
 <a id="inicio"></a>
