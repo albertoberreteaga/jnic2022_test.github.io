@@ -6,7 +6,7 @@
 layout: page
 ---
 <div align="center" style="margin-bottom: 4rem">
-![CTF]({{site.url}}/Logos/LogoCatedraUEx.png)
+<img src="{{site.url}}/LogoCatedraUEx.png)>
  </div>
  
 <!--
@@ -14,8 +14,9 @@ layout: page
 <a id="inicio"></a>
 <a href="{{site.url}}/ctf"><img src="{{site.url}}/images/Icoflag.png" class="img-circle" 	width="30" height="30"><strong>  Capture the Flag</strong></a> &nbsp;&nbsp;&nbsp;
 <a href="{{site.url}}/cff"><img src="{{site.url}}/images/Icospeaker.jpg" class="img-circle" 	width="30" height="30"><strong>  Call for Flags</strong></a>&nbsp;&nbsp;&nbsp;
-</div><br> -->
-
+</div> -->
+<br>
+ 
 El **Capture The Flag JNIC** es una competición virtual que pretende detectar y premiar a las nuevas promesas de la **#ciberseguridad** del ámbito nacional. Creado para complementar las VII Jornadas Nacionales de Investigación en Ciberseguridad, se celebrarán entre los días **27 y 29 de junio de 2022**. Diseñado para llegar a cualquier persona que sienta interés sobre la ciberseguridad y pensado para identificar talento entre usuarios que quieran poner a prueba sus conocimientos, habilidades y destrezas en este ámbito trascendental para la tecnología.
 
 <!--## Resultados
