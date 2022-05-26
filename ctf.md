@@ -5,20 +5,10 @@
 
 layout: page
 ---
-<!--
 <div align="center" style="margin-bottom: 4rem">
 <a href="https://2022.jnic.es/ctf" ><img style="max-height: 250px; padding:10px;" src="{{site.url}}/Logos/LogoCatedraUEx.png"></a>
-</div> -->
+</div> 
 
-<div class="container">
-  <table style="width: 100%; border: 0">
-   <tr style="vertical-align: top;">
-    <td style="background: #fff; width: 49%; text-align: center;">
-      <img src="{{site.url}}/Logos/LogoCatedraUEx.png"/>
-    </td>
-   </tr>
-  </table>
-</div>
  
 <!--
 <div class="text-center">
