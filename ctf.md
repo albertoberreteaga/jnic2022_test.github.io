@@ -6,7 +6,7 @@
 layout: page
 ---
 <div align="center" style="margin-bottom: 4rem">
-<img src="{{site.url}}/LogoCatedraUEx.png)>
+<img src="{{site.url}}/Logos/LogoCatedraUEx.png>
  </div>
  
 <!--
