@@ -53,7 +53,6 @@ Se facilitará la participación en grupos de **3 personas**. Los participantes 
 4. La competición tendrá una duración de **72 horas**, teniendo lugar desde las **14:00 horas del día 24 de junio hasta las 14:00 horas del día 27 de junio de 2022**.
 
 5. Los retos tendrán distintos **niveles de dificultad** y abordarán diversas **disciplinas** de la ciberseguridad, entre ellas:
-
     + **Ingeniería inversa**.
     + **Exploiting**.
     + **Análisis Forense**.
@@ -61,17 +60,15 @@ Se facilitará la participación en grupos de **3 personas**. Los participantes 
     + **Criptografía y esteganografía**.
     
  6. La suma global de la puntuación de los retos será de 100 puntos repartidos en función de su dificultad, de la siguiente manera:
- 
     + **Reto 1: 10 puntos**.
     + **Reto 2: 15 puntos**.
     + **Reto 3: 20 puntos**.
     + **Reto 4: 25 puntos**.
     + **Reto 5: 30 puntos**.
     
-  7. La clasificación de talento se realizará sumando las puntuaciones de cada reto superado. En caso de **empate** se resolverá según el orden temporal de superación de los restos que estará registrado en la plataforma de competición.
+7. La clasificación de talento se realizará sumando las puntuaciones de cada reto superado. En caso de **empate** se resolverá según el orden temporal de superación de los restos que estará registrado en la plataforma de competición.
  
  8. La entrega de premios será acordada con las empresas patrocinadoras. Se premiará con material tecnológico a los tres primeros clasificados:
- 
     + **1º PREMIO**: Ipad 2021 64GB (o similar)
     + **2º PREMIO**: Samsung Galaxy Watch4 (o similar) 
     + **3º PREMIO**: HUAWEI FreeBuds Pro (o similar) 
