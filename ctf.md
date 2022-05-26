@@ -8,15 +8,11 @@ layout: page
 <!--
 ![CTF]({{site.url}}/Logos/CTF.jpg)-->
 <!--
-El **Capture The Flag JNIC-VIEWNEXT** es una competición virtual que pretende detectar y premiar a las nuevas promesas de la **#ciberseguridad** del ámbito nacional. Creado para complementar las **VI Jornadas Nacionales de Investigación en Ciberseguridad**, celebradas de manera online el **9 y 10 de junio de 2021**.
-Diseñado para llegar a cualquier persona que sienta interés sobre la ciberseguridad y pensado para identificar talento entre usuarios que quieran poner a prueba sus conocimientos, habilidades y destrezas en este ámbito trascendental para la tecnología.
-La competición se realizó durante **72 horas** de **forma virtual**, a través de la plataforma de formación del **Campus Virtual de la Universidad de Extremadura**. Comenzó el día 4 de junio, con el envío las credenciales a todos los participantes y tuvo lugar desde el **4 de junio a las 14:00h hasta el día 7 de junio a las 14:00h**, durando 72 horas en total.-->
-
 <div class="text-center">
 <a id="inicio"></a>
 <a href="{{site.url}}/ctf"><img src="{{site.url}}/images/Icoflag.png" class="img-circle" 	width="30" height="30"><strong>  Capture the Flag</strong></a> &nbsp;&nbsp;&nbsp;
 <a href="{{site.url}}/cff"><img src="{{site.url}}/images/Icospeaker.jpg" class="img-circle" 	width="30" height="30"><strong>  Call for Flags</strong></a>&nbsp;&nbsp;&nbsp;
-</div><br>
+</div><br> -->
 
 El **Capture The Flag JNIC** es una competición virtual que pretende detectar y premiar a las nuevas promesas de la **#ciberseguridad** del ámbito nacional. Creado para complementar las VII Jornadas Nacionales de Investigación en Ciberseguridad, se celebrarán entre los días **27 y 29 de junio de 2022**. Diseñado para llegar a cualquier persona que sienta interés sobre la ciberseguridad y pensado para identificar talento entre usuarios que quieran poner a prueba sus conocimientos, habilidades y destrezas en este ámbito trascendental para la tecnología.
 
@@ -73,7 +69,11 @@ Se facilitará la participación en grupos de **3 personas**. Los participantes 
  
  7. La clasificación de talento se realizará sumando las puntuaciones de cada reto superado. En caso de **empate** se resolverá según el orden temporal de superación de los restos que estará registrado en la plataforma de competición.
  
- 8. La entrega de premios será acordada con las empresas patrocinadoras. Más información sobre los premios en los próximos días.
+ 8. La entrega de premios será acordada con las empresas patrocinadoras. 
+ + Se premiará con material tecnológico a los tres primeros clasificados:
+ ++  1º PREMIO: Ipad 2021 64GB (o similar)
+ ++  2º PREMIO: Samsung Galaxy Watch4 (o similar) 
+ ++	 3º PREMIO: HUAWEI FreeBuds Pro
  
  9. Se ofrecerán oportunidades laborales en las empresas colaboradoras, empresas punteras que ofrecen servicios tecnológicos, a los estudiantes o personas que hayan finalizado sus estudios con posterioridad al 1 enero de 2020 y que adquieran mayor puntuación en la superación de los retos. *Cualquier condicionante no contemplado en las bases de participación será considerada y evaluada por los organizadores.
 
