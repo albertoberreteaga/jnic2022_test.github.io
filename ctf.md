@@ -5,8 +5,8 @@
 
 layout: page
 ---
-<!--
-![CTF]({{site.url}}/Logos/CTF.jpg)-->
+
+![CTF]({{site.url}}/Logos/LogoCatedraUEx.png)
 <!--
 <div class="text-center">
 <a id="inicio"></a>
