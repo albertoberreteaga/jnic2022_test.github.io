@@ -18,8 +18,8 @@ layout: page
     </td>
    </tr>
    <tr style="vertical-align: top;">
-    <td style="width: 49%; text-align: center;">
-      <p style="text-align:justify"> El **Capture The Flag JNIC** es una competición virtual que pretende detectar y premiar a las nuevas promesas de la **#ciberseguridad** del ámbito nacional. Creado para complementar las VII Jornadas Nacionales de Investigación en Ciberseguridad, se celebrarán entre los días **27 y 29 de junio de 2022**. Diseñado para llegar a cualquier persona que sienta interés sobre la ciberseguridad y pensado para identificar talento entre usuarios que quieran poner a prueba sus conocimientos, habilidades y destrezas en este ámbito trascendental para la tecnología. </p>
+    <td style="background: #fff; style="width: 49%; text-align: center;">
+     <p style="text-align:justify"> El **Capture The Flag JNIC** es una competición virtual que pretende detectar y premiar a las nuevas promesas de la **#ciberseguridad** del ámbito nacional. Creado para complementar las VII Jornadas Nacionales de Investigación en Ciberseguridad, se celebrarán entre los días **27 y 29 de junio de 2022**. Diseñado para llegar a cualquier persona que sienta interés sobre la ciberseguridad y pensado para identificar talento entre usuarios que quieran poner a prueba sus conocimientos, habilidades y destrezas en este ámbito trascendental para la tecnología. </p>
     </td>
     </tr>
  </table>
