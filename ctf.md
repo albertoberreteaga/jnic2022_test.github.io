@@ -59,7 +59,7 @@ Se facilitará la participación en grupos de **3 personas**. Los participantes 
     + **Análisis Forense**.
     + **Hacking web**.
     + **Criptografía y esteganografía**.
- 
+    
  6. La suma global de la puntuación de los retos será de 100 puntos repartidos en función de su dificultad, de la siguiente manera:
  
     + **Reto 1: 10 puntos**.
@@ -67,15 +67,15 @@ Se facilitará la participación en grupos de **3 personas**. Los participantes 
     + **Reto 3: 20 puntos**.
     + **Reto 4: 25 puntos**.
     + **Reto 5: 30 puntos**.
- 
- 7. La clasificación de talento se realizará sumando las puntuaciones de cada reto superado. En caso de **empate** se resolverá según el orden temporal de superación de los restos que estará registrado en la plataforma de competición.
+    
+  7. La clasificación de talento se realizará sumando las puntuaciones de cada reto superado. En caso de **empate** se resolverá según el orden temporal de superación de los restos que estará registrado en la plataforma de competición.
  
  8. La entrega de premios será acordada con las empresas patrocinadoras. Se premiará con material tecnológico a los tres primeros clasificados:
  
     + **1º PREMIO**: Ipad 2021 64GB (o similar)
     + **2º PREMIO**: Samsung Galaxy Watch4 (o similar) 
     + **3º PREMIO**: HUAWEI FreeBuds Pro (o similar) 
- 
+    
  9. Se ofrecerán oportunidades laborales en las empresas colaboradoras, empresas punteras que ofrecen servicios tecnológicos, a los estudiantes o personas que hayan finalizado sus estudios con posterioridad al 1 enero de 2020 y que adquieran mayor puntuación en la superación de los retos. *Cualquier condicionante no contemplado en las bases de participación será considerada y evaluada por los organizadores.
 
 ### Inscripción
