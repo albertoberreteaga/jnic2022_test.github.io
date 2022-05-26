@@ -5,8 +5,24 @@
 
 layout: page
 ---
+<!--
 <div align="center" style="margin-bottom: 4rem">
 <a href="https://2022.jnic.es/ctf" ><img style="max-height: 250px; padding:10px;" src="{{site.url}}/Logos/LogoCatedraUEx.png"></a>
+</div> -->
+
+<div class="container">
+  <table style="width: 100%; border: 0">
+   <tr style="vertical-align: top;">
+    <td style="background: #fff; width: 49%; text-align: center;">
+      <img src="{{site.url}}/Logos/LogoCatedraUEx.png"/>
+    </td>
+   </tr>
+   <tr style="vertical-align: top;">
+    <td style="width: 49%; text-align: center;">
+      <p style="text-align:justify"> El **Capture The Flag JNIC** es una competición virtual que pretende detectar y premiar a las nuevas promesas de la **#ciberseguridad** del ámbito nacional. Creado para complementar las VII Jornadas Nacionales de Investigación en Ciberseguridad, se celebrarán entre los días **27 y 29 de junio de 2022**. Diseñado para llegar a cualquier persona que sienta interés sobre la ciberseguridad y pensado para identificar talento entre usuarios que quieran poner a prueba sus conocimientos, habilidades y destrezas en este ámbito trascendental para la tecnología. </p>
+    </td>
+    </tr>
+ </table>
 </div>
  
 <!--
@@ -15,9 +31,9 @@ layout: page
 <a href="{{site.url}}/ctf"><img src="{{site.url}}/images/Icoflag.png" class="img-circle" 	width="30" height="30"><strong>  Capture the Flag</strong></a> &nbsp;&nbsp;&nbsp;
 <a href="{{site.url}}/cff"><img src="{{site.url}}/images/Icospeaker.jpg" class="img-circle" 	width="30" height="30"><strong>  Call for Flags</strong></a>&nbsp;&nbsp;&nbsp;
 </div> -->
-
+<!--
 El **Capture The Flag JNIC** es una competición virtual que pretende detectar y premiar a las nuevas promesas de la **#ciberseguridad** del ámbito nacional. Creado para complementar las VII Jornadas Nacionales de Investigación en Ciberseguridad, se celebrarán entre los días **27 y 29 de junio de 2022**. Diseñado para llegar a cualquier persona que sienta interés sobre la ciberseguridad y pensado para identificar talento entre usuarios que quieran poner a prueba sus conocimientos, habilidades y destrezas en este ámbito trascendental para la tecnología.
-
+-->
 <!--## Resultados
 
 La Cátedra Viewnext-UEx sobre “Seguridad y Auditoría de Sistemas Software” organizó coincidiendo con las JNIC-2021 una nueva edición de su CTF. Se trata de la tercera ocasión en que se organiza este tipo de eventos, tras las ediciones de 2018 en el marco de ForoCIBER y 2019, donde se integraron por primera vez con las JNIC.
