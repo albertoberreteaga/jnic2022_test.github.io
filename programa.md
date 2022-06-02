@@ -24,7 +24,7 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
 <!-- <center><a href="https://app.sli.do/event/ed1p6not" target="_slido"><img src="{{site.url}}/images/slido.jpg" width="300"></a></center> -->
 <!-- <center><a href="https://sli.do/" target="_slido"><img src="{{site.url}}/images/slido.jpg" width="300"></a></center> -->
 
-<!--  <h4>Miércoles 9 de Junio</h4>
+<h4>Lunes 27 de Junio</h4>
 <table class="table" style="width:100%">
   <tbody valign="top">
     <tr>
@@ -34,16 +34,16 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
     <tr>
       <td>9:30</td>
       <td colspan="2">
-        <b>Inauguración oficial de las JNIC 2021 Live</b>
+        <b>Inauguración oficial de las JNIC 2022</b>
         <ul>
-          <li>Sr. D. Julian Garde López-Brea. Rector de la Universidad de Castilla-La Mancha</li>
-          <li>Sr. D. Ricardo Cuevas Campos. Director General de Universidades, JCCM</li>
-          <li>Sra. Dña. Rosa Díaz Moles. Directora General del Instituto Nacional de Ciberseguridad </li>
-          <li>Sr. D. Eduardo Fernández-Medina Patón. Presidente del Comité Organizador</li>
-          <li>Sra. Dña. Cristina Alcaraz Tello. Presidenta del Comité de Programa Científico</li>
-        </ul> -->
+          <li>Sr. D. Jesus Valero. Director General de TECNALIA</li>
+          <li>Representación Gobierno Vasco: Confirmar</li>
+          <li>Sra.Ainara Basurko, Diputada, Departamento de Promoción Económica, DIPUTACIÓN FORAL DE BIZKAIA</li>
+          <li>Oihane Aguirregoitia, Concejala, Departamento de Atención y Participación Ciudadana e Internacionalización, AYUNTAMIENTO DE BILBAO. Presidenta de BILBOTIK.</li>
+          <li>Representación INCIBE: Confirmar</li>
+        </ul>
 <!-- <center><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_YjcyZGE2ZjItY2RlMS00NjE3LTkwNTQtY2U0YzNkOGU3Mzc2%40thread.v2/0?context=%7b%22Tid%22%3a%22c42cbae6-61f4-498c-9107-6a8cf5f01e56%22%2c%22Oid%22%3a%22e50f4dc5-ce19-4820-b889-be7b8b123727%22%7d" target="_teams"><img src="{{site.url}}/images/LogoTeams.png">Conecta</a></center> -->
-<!-- <center><a href="https://teams.microsoft.com/" target="_teams"><img src="{{site.url}}/images/LogoTeams.png">Conecta</a></center>
+<!-- <center><a href="https://teams.microsoft.com/" target="_teams"><img src="{{site.url}}/images/LogoTeams.png">Conecta</a></center> -->
       </td>
     </tr>
     <tr>
