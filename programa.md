@@ -117,7 +117,7 @@ layout: page
         <br> 
       </tr>
     <tr>
-      <td><b>12:45 - 13:45</b></td>
+      <td><b>12:45</b></td>
       <td>
         <b>Sesión II: Formación e Innovación Educativa</b>
         <br><b> Presidente:</b>  Jose Carlos Sancho (Universidad de Extremadura)
