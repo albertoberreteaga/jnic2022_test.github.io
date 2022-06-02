@@ -32,7 +32,7 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
       <th colspan="2">Sesión</th>
     </tr>
     <tr>
-      <td>9:30</td>
+      <td>9:15</td>
       <td colspan="2">
         <b>Inauguración oficial de las JNIC 2022</b>
         <ul>
@@ -42,19 +42,16 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
           <li>Oihane Aguirregoitia, Concejala, Departamento de Atención y Participación Ciudadana e Internacionalización, AYUNTAMIENTO DE BILBAO. Presidenta de BILBOTIK.</li>
           <li>Representación INCIBE: Confirmar</li>
         </ul>
-<!-- <center><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_YjcyZGE2ZjItY2RlMS00NjE3LTkwNTQtY2U0YzNkOGU3Mzc2%40thread.v2/0?context=%7b%22Tid%22%3a%22c42cbae6-61f4-498c-9107-6a8cf5f01e56%22%2c%22Oid%22%3a%22e50f4dc5-ce19-4820-b889-be7b8b123727%22%7d" target="_teams"><img src="{{site.url}}/images/LogoTeams.png">Conecta</a></center> -->
-<!-- <center><a href="https://teams.microsoft.com/" target="_teams"><img src="{{site.url}}/images/LogoTeams.png">Conecta</a></center> -->
       </td>
     </tr>
     <tr>
       <td>10:00</td>
       <td colspan="2">
-        <a href="http://2021.jnic.es/conferenciaa"><b>Conferencia invitada: </b><i>Computación Cuántica: La Re-evolución</i></a>
+        <b>Conferencia invitada: </b><i>Valentina Casola --  Dipartimento di Ingegneria Elettrica e Tecnologie dell'Informazione, University of Naples Federico</i></a>
+       <!-- <a href="http://2021.jnic.es/conferenciaa"><b>Conferencia invitada: </b><i>Computación Cuántica: La Re-evolución</i></a> -->
         <br>
-        Ramsés Gallego
-        <br> -->
-<!-- <center><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTJkMWNkYzYtOTMzOC00NWM0LWFhYjctOTFjZmVlNjE3YTBl%40thread.v2/0?context=%7b%22Tid%22%3a%22c42cbae6-61f4-498c-9107-6a8cf5f01e56%22%2c%22Oid%22%3a%22e50f4dc5-ce19-4820-b889-be7b8b123727%22%7d" target="_teams"><img src="{{site.url}}/images/LogoTeams.png">Conecta</a></center> -->
-<!-- <center><a href="https://teams.microsoft.com/" target="_teams"><img src="{{site.url}}/images/LogoTeams.png">Conecta</a></center>
+        Valentina Casola
+        <br>
       </td>
     </tr>
     <tr>
