@@ -114,10 +114,9 @@ layout: page
           </FONT>
         </ul>
         </td>
-        <a href="#A1"><b>Sesión de Investigación A1:</b> Detección de Intrusos y Gestión Anomalías</a>
+        <!-- <a href="#A1"><b>Sesión de Investigación A1:</b> Detección de Intrusos y Gestión Anomalías</a> -->
         <br> 
-      </td>
-        </tr>
+      </tr>
     <tr>
       <td><b>12:45 - 13:45</b></td>
       <td>
