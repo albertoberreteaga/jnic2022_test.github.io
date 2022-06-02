@@ -64,29 +64,29 @@ layout: page
         <br>
         <ul>
          <FONT SIZE=2><li> Evaluation of Supervised Learning Models Using TCP Traffic to Detect Botnets
-          <br> <i>Felipe Castaño, Javier Velasco Mata, Roberto Andrés Vasco Carofilis, Eduardo Fidalgo, Luis Fernández y George Azzopardi</i> </br></li>
+          <br> <i>Felipe Castaño, Javier Velasco Mata, Roberto Andrés Vasco Carofilis, Eduardo Fidalgo, Luis Fernández y George Azzopardi</i><br></li>
            <li>Extracting Composition and Social Engineering Features to Measure Spam Address Credibility
-          <br> <i>Felipe Castaño, Francisco Jáñez-Martino, Pablo Blanco-Medina, Alexandra Bonnici, Santiago Gonzalez y Eduardo Fidalgo Fernandez</i> </br></li>
+          <br> <i>Felipe Castaño, Francisco Jáñez-Martino, Pablo Blanco-Medina, Alexandra Bonnici, Santiago Gonzalez y Eduardo Fidalgo Fernandez</i> <br></li>
           <li>A review of Towards a data collection methodology for Responsible Artificial Intelligence in health: A prospective and qualitative study in pregnancy
-          <br> <i>Andreea M. Oprescu, Gloria Miró-Amarante, Lutgardo García-Díaz, Victoria Rey, Ángel Chimenea-Toscano y Mcarmen Romero-Ternero</i> </br></li>
+          <br> <i>Andreea M. Oprescu, Gloria Miró-Amarante, Lutgardo García-Díaz, Victoria Rey, Ángel Chimenea-Toscano y Mcarmen Romero-Ternero</i> <br></li>
           <li>Intelligent detection and recovery from cyberattacks for small and medium-sized enterprises
-          <br> <i>Carmen María Alba</i> </br></li>
+          <br> <i>Carmen María Alba</i> <br></li>
           <li>Dataset creation and feature extraction for the detection of fraudulent websites
-          <br> <i>Juan J. Delgado, Manuel Sánchez-Paniagua, Javier Velasco-Mata, Eduardo Fidalgo Fernandez, Juan Prieto Carballal y George Azzopardi</i> </br></li>
+          <br> <i>Juan J. Delgado, Manuel Sánchez-Paniagua, Javier Velasco-Mata, Eduardo Fidalgo Fernandez, Juan Prieto Carballal y George Azzopardi</i> <br></li>
           <li>Auto-encoder framework for extractive text summarization
-          <br> <i>Daniel Diaz, Akanksha Joshi, Javier Velasco-Mata, Juan José Delgado Sotes, Antonio Sepulveda y Guru Swaroop Bennabhaktula</i> </br></li>
+          <br> <i>Daniel Diaz, Akanksha Joshi, Javier Velasco-Mata, Juan José Delgado Sotes, Antonio Sepulveda y Guru Swaroop Bennabhaktula</i> <br></li>
           <li>Review of Breaking Trivium Stream Cipher Implemented in ASIC Using Experimental Attacks and DFA
-          <br> <i>Francisco Eugenio Potestad-Ordóñez, Erica Tena-Sánchez, Carlos Fernández-García, Virginia Zuñiga-González, José Miguel Mora-Gutiérrez, Carmen Baena-Oliva, Pilar Parra-Fernández, Antonio José Acosta-Jiménez y Carlos Jesús Jiménez-Fernández</i> </br></li>
+          <br> <i>Francisco Eugenio Potestad-Ordóñez, Erica Tena-Sánchez, Carlos Fernández-García, Virginia Zuñiga-González, José Miguel Mora-Gutiérrez, Carmen Baena-Oliva, Pilar Parra-Fernández, Antonio José Acosta-Jiménez y Carlos Jesús Jiménez-Fernández</i> <br></li>
           <li>A summary of “Defending Industry 4.0: An enhanced authentication scheme for IoT devices"
-          <br> <i>Nasour Bagheri, Saru Kumari, Carmen Camara y Pedro Peris-Lopez</i> </br></li>
+          <br> <i>Nasour Bagheri, Saru Kumari, Carmen Camara y Pedro Peris-Lopez</i> <br></li>
           <li>A Review of Noise-based Cyberattacks Generating Fake P300 Waves in Brain-Computer Interfaces
-          <br> <i>Enrique Tomás Martínez Beltrán, Mario Quiles Pérez, Sergio López Bernal, Alberto Huertas Celdrán y Gregorio Martínez Pérez</i> </br></li>
+          <br> <i>Enrique Tomás Martínez Beltrán, Mario Quiles Pérez, Sergio López Bernal, Alberto Huertas Celdrán y Gregorio Martínez Pérez</i> <br></li>
           <li>A Review of "Evaluation of the Executional Power in Windows using Return Oriented Programming"
-          <br> <i>Daniel Uroz y Ricardo J. Rodríguez</i> </br></li>
+          <br> <i>Daniel Uroz y Ricardo J. Rodríguez</i> <br></li>
           <li>Classifying suspicious Pastebin content using Machine Learning
-          <br> <i>Daniel Diaz, Francisco Janez-Martino, Javier Velasco-Mata, Eduardo Fidalgo Fernandez, Oscar Garcia y Enrique Alegre</i> </br></li>
+          <br> <i>Daniel Diaz, Francisco Janez-Martino, Javier Velasco-Mata, Eduardo Fidalgo Fernandez, Oscar Garcia y Enrique Alegre</i> <br></li>
           <li>A Review of Neuronal Jamming Cyberattack Over Invasive BCIs Affecting the Resolution of Tasks Requiring Visual Capabilities
-          <br> <i>Sergio López Bernal, Alberto Huertas Celdrán y Gregorio Martínez Pérez</i> </br></li></FONT>
+          <br> <i>Sergio López Bernal, Alberto Huertas Celdrán y Gregorio Martínez Pérez</i> <br></li></FONT>
         </ul>
         <br>
       </td>
