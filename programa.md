@@ -133,59 +133,77 @@ layout: page
         </td>
     </tr>
     <tr>
+      <td><b>13:45</b></td>
       <td colspan="2"><center><b>Comida</b></center></td>
     </tr>
     <tr>
-      <td>16:30</td>
+     <td><b>15:15</b></td>
+      <td>
+        <b>Sesión III: Vulnerabilidades y ciber amenazas</b>
+        <br><b> Presidente: </b> TBC
+        <br>
+        <ul>
+         <FONT SIZE=2><li>FCTNLP: An architecture to fight cyberterrorism with natural language processing.
+          <br> <i>Andrés Zapata, Daniel Díaz-López, Javier Pastor-Galindo y Félix Gómez Mármol</i><br></li>
+          <li>Estrategias de inmunización selectiva para la mitigación del movimiento lateral.
+          <br> <i>David Herranz Oliveros, Iván Marsá Maestre y José Manuel Giménez Guzmán</i><br></li>
+          <li>Revisión sistemática de técnicas de aprendizaje automático para la detección de Amenazas Persistentes Avanzadas (APT) utilizando flujos de red en formato NetFlow.
+          <br> <i>Christian Vega Gonzáleáz, Adrián Campazas Vega, Ignacio Samuel Crespo Martínez, Ángel Manuel Guerrero Higueras y Vicente Matellán Olivera</i><br></li>
+          <li>Sistema de conciencia cibersituacional y gestión dinámica de riesgos basado en ontologías.
+          <br> <i>Carmen Sanchez-Zas, Victor A. Villagrá, Mario Vega-Barbas, Xavier Larriva-Novo, Jose Ignacio Moreno y Julio Berrocal</i><br></li>
+          <li>Model-Based Analysis of Race Condition Vulnerabilities in Source Code.
+          <br> <i>Razvan Raducu, Ricardo J. Rodríguez y Pedro Alvarez</i><br></li>
+          <li>FATR: a Framework for Automated Analysis of Threat Reports.
+          <br> <i>Juan Caballero, Gibran Gómez, Srdjan Matic, Gustavo Sánchez, Silvia Sebastián y Arturo Villacañas</i><br></li>
+          </FONT>
+        </ul>
+        </td>
+        <!-- <a href="#A1"><b>Sesión de Investigación A1:</b> Detección de Intrusos y Gestión Anomalías</a> -->
+        <br> 
+      </tr>
+   <tr>
+      <td><b>16:30</b></td>
       <td colspan="2">
-        <b>Sesión de Transferencia Tecnológica</b>
-        <br>
-        <br>
-        Presidente de Sesión: Guillermo Calvo Flores (Instituto Nacional de Ciberseguridad)
-        <br>
-        <br>
-        <p>Aplicación de control de acceso y técnicas de Blockchain para el control de datos genéticos <br>
-        <em>Isabel Román, Germán Madinabeitia, Rafael Estepa, Jesús Diaz-Verdejo, Antonio Estepa, José Luis González-Sánchez, Felipe Lemus Prieto</em></p>
-        <br> -->
-
-      </td>
+        <b>Café. <i> Sesión Poster día 1: Investigación ya publicada </i> </b> 
+       </td>
     </tr>
     <tr>
-      <td>17:15</td>
+      <td>17:00</td>
       <td colspan="2">
-        <a href="http://2021.jnic.es/conferenciab"><b>Conferencia invitada: </b><i>Cybersecurity Operations and Research from Lawrence Berkeley National Lab, United States Department of Energy</i></a>
+        <b>Mesa Redonda:</b><i> La Investigación Aplicada: Cómo recorrer el camino desde la Investigación a la Transferencia Tecnológica.</i>
         <br>
-        Soledad Antelada Toledano
-        <br> -->
-
-      </td>
-    </tr>
-    <tr>
-      <td>18:00</td>
-      <td colspan="2">
-        <b>Mesa Redonda: </b><i>Colaboración en I+D+i nacional de Ciberseguridad: Grupo Interplataformas y Sector empresarial innovador </i>
-        <br>
-        <br>
-        Modera: Javier Larrañeta. Tecnalia, Secretario General de PESI
-        <br>
+        <b>Moderador</b>: Ana Ayerbe (TECNALIA-BRTA y WOMEN4CYBER)
         <br>
         Participantes:
         <ul>
-          <li>Sr. D. Juan Díez González. Responsable de Apoyo a la I+D+i en ciberseguridad, INCIBE </li>
-          <li>Sr. D. Lucio González Jiménez. SGS, Vicepresidente AEI Ciberseguridad</li>
-          <li>Sr. D. Juan Pulpillo. Legal-itc/CCI, Representante PESI</li>
-          <li>Sr. Dr. Cecilio Angulo Bahon. UPC, Representante PLANETIC</li>
-          <li>Sra. Dña. Dª María Penilla. ZIUR, Centro de Ciberseguridad Industrial de Gipuzkoa</li>
+          <li>Sr. </li>
+          <li>Sr. </li>
+          <li>Sr. </li>
+          <li>Sr. </li>
+          <li>Sra. </li>
         </ul>
         <br>
-        Organiza:<a href="http://www.pesi-seguridadindustrial.org/es"><img src="/Logos/pesi.png"></a>
+       <br>
+        Con la participación de: <a href="https://www.women4cyberspain.es/"><img src="/Logos/Women4Cyber.png"></a>
+        <br> 
+       <!-- Organiza:<a href="http://www.pesi-seguridadindustrial.org/es"><img src="/Logos/pesi.png"></a>
         <br> -->
-<!-- <center><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWNmNWE4ZDEtMjA5NS00OTA0LTlmYTctMzM4NmQ5ZWEzYmE3%40thread.v2/0?context=%7b%22Tid%22%3a%22c42cbae6-61f4-498c-9107-6a8cf5f01e56%22%2c%22Oid%22%3a%22e50f4dc5-ce19-4820-b889-be7b8b123727%22%7d" target="_teams"><img src="{{site.url}}/images/LogoTeams.png">Conecta</a></center> -->
-<!-- <center><a href="https://teams.microsoft.com/" target="_teams"><img src="{{site.url}}/images/LogoTeams.png">Conecta</a></center>
       </td>
     </tr>
+   <tr>
+      <td><b>19:00</b></td>
+      <td colspan="2">
+        <b>Navegando Bilbao</b> 
+       </td>
+    </tr>
+    <tr>
+      <td><b>21:00</b></td>
+      <td colspan="2">
+        <b>Cena en el Restaurante El Txoko Berria</b> 
+       </td>
+    </tr>
   </tbody>
-</table> -->
+</table>
 
 <!-- <center><a href="https://app.sli.do/event/ed1p6not" target="_slido"><img src="{{site.url}}/images/slido.jpg" width="300"></a></center> -->
 <!-- <center><a href="https://sli.do/" target="_slido"><img src="{{site.url}}/images/slido.jpg" width="300"></a></center> -->
