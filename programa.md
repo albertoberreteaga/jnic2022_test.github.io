@@ -29,6 +29,10 @@ layout: page
       <th>Hora</th>
       <th colspan="2">Sesión</th>
     </tr>
+       <tr>
+      <th>8:15</th>
+      <th colspan="2">Registro y recogida de documentación.</th>
+    </tr>
     <tr>
       <td>9:15</td>
       <td colspan="2">
@@ -45,20 +49,27 @@ layout: page
     <tr>
       <td>10:00</td>
       <td colspan="2">
-        <b>Conferencia invitada: </b><i>Valentina Casola --  Dipartimento di Ingegneria Elettrica e Tecnologie dell'Informazione, University of Naples Federico</i></a>
+        <b>Conferencia invitada: </b>
        <!-- <a href="http://2021.jnic.es/conferenciaa"><b>Conferencia invitada: </b><i>Computación Cuántica: La Re-evolución</i></a> -->
         <br>
-        Valentina Casola
+        <i>Valentina Casola --  Dipartimento di Ingegneria Elettrica e Tecnologie dell'Informazione, University of Naples Federico</i>
         <br>
       </td>
     </tr>
      <tr>
       <td>11:00</td>
       <td colspan="2">
-        <b>Descanso para cafe</b> <i> Posters (día 27/06/20222)</i>
+        <b>Café</b> <i> Poster día 1: Investigación ya publicada </i>
        <!-- <a href="http://2021.jnic.es/conferenciaa"><b>Conferencia invitada: </b><i>Computación Cuántica: La Re-evolución</i></a> -->
         <br>
-        Valentina Casola
+        <ul>
+         <FONT SIZE=2><li> Evaluation of Supervised Learning Models Using TCP Traffic to Detect Botnets
+          <br> ><i>Felipe Castaño, Javier Velasco Mata, Roberto Andrés Vasco Carofilis, Eduardo Fidalgo, Luis Fernández y George Azzopardi</i> </br></li>
+          <li>Representación Gobierno Vasco: Confirmar</li>
+          <li>Sra. Dña. Ainara Basurko, Diputada, Departamento de Promoción Económica, DIPUTACIÓN FORAL DE BIZKAIA</li>
+          <li> Sra. Dña. Oihane Aguirregoitia, Concejala, Departamento de Atención y Participación Ciudadana e Internacionalización, AYUNTAMIENTO DE BILBAO. Presidenta de BILBOTIK.</li>
+          <li>Representación INCIBE: Confirmar</li></FONT>
+        </ul>
         <br>
       </td>
     </tr>
