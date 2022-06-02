@@ -93,7 +93,7 @@ layout: page
      <td><b>11:30</b></td>
       <td>
         <b>Sesión I: Seguridad web e Internet </b>
-        <b> Presidente: </b> TBC
+        <br><b> Presidente: </b> TBC
         <br>
         <ul>
          <FONT SIZE=2><li> Extracción de variables para caracterización multi-clase de la severidad de IPs
@@ -120,7 +120,7 @@ layout: page
       <td><b>12:45 - 13:45</b></td>
       <td>
         <b>Sesión II: Formación e Innovación Educativa</b>
-        <b> Presidente:</b>  Jose Carlos Sancho (Universidad de Extremadura)
+        <br><b> Presidente:</b>  Jose Carlos Sancho (Universidad de Extremadura)
         <br>
         <ul>
          <FONT SIZE=2><li>DIANA: Un asesor virtual inteligente para la transformación digital segura
