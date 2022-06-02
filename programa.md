@@ -117,30 +117,25 @@ layout: page
         <a href="#A1"><b>Sesión de Investigación A1:</b> Detección de Intrusos y Gestión Anomalías</a>
         <br> 
       </td>
-     
-   </tr>
+        </tr>
     <tr>
       <td>12:30</td>
       <td>
         <a href="#A2"><b>Sesión de Investigación A2:</b> Detección de Intrusos y Gestión Anomalías</a>
         <br>
       </td>
-      <td>
-        <a href="#B2"><b>Sesión de Investigación B2:</b> Gobierno y Gestión de Riesgos </a>
-        <br>  -->
-
-      </td>
-    </tr>
+      </tr>
+<!--
     <tr>
       <td>14:00</td>
       <td>
         <a href="#A3"><b>Sesión de Investigación A3:</b> Ciberataques e Inteligencia de Amenazas</a>
         <br> -->
-
+<!--
       </td>
       <td>
         <a href="#B3"><b>Sesión de Investigación B3:</b> Tecnologías Emergentes y Entrenamiento</a>
-        <br>  -->
+        <br>  
       </td>
     </tr>
     <tr>
