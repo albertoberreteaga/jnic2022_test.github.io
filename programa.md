@@ -16,9 +16,6 @@ layout: page
 ### __Programa JNIC 2022__
 
  <br>
- <br>
-<h5 style="color:white; background-color: #550000;" class="text-center"><i class="far fa-clock mr-3"></i> <b> <i> El programa está en proceso de definición. Esta página se irá actualizando con más información.</i></b></h5>
-
 <!-- <center><a href="https://app.sli.do/event/ed1p6not" target="_slido"><img src="{{site.url}}/images/slido.jpg" width="300"></a></center> -->
 <!-- <center><a href="https://sli.do/" target="_slido"><img src="{{site.url}}/images/slido.jpg" width="300"></a></center> -->
 
