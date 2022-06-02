@@ -93,19 +93,19 @@ layout: page
         <br><b> Presidente: </b> TBC
         <br>
         <ul>
-         <FONT SIZE=2><li> Extracción de variables para caracterización multi-clase de la severidad de IPs
+         <FONT SIZE=2><li> Extracción de variables para caracterización multi-clase de la severidad de IPs.
           <br> <i>David Escudero García, Noemí DeCastro-García y Miguel V. Carriegos</i><br></li>
-          <li>Ataques a servidores web: estudio experimental de la capacidad de detección de algunos SIDS gratuitos
+          <li>Ataques a servidores web: estudio experimental de la capacidad de detección de algunos SIDS gratuitos.
           <br> <i>Javier Muñoz, Felipe Bueno, Rafael Estepa, Antonio Estepa Alonso y Jesús E. Diaz-Verdejo</i><br></li>
-          <li>Hunting@home: Plug and Play setup for intrusion detection in home networks
+          <li>Hunting@home: Plug and Play setup for intrusion detection in home networks.
           <br> <i>Lorena Mehavilla, José García y Alvaro Alesanco</i><br></li>
-          <li>A Security and Trust Framework for Decentralized 5G Marketplaces
+          <li>A Security and Trust Framework for Decentralized 5G Marketplaces.
           <br> <i>José María Jorquera Valero, Manuel Gil Pérez and Gregorio Martínez Pérez</i><br></li>
-          <li>Designing a platform for discovering TOR onion services
+          <li>Designing a platform for discovering TOR onion services.
           <br> <i>Javier Pastor-Galindo, Roberto Sáez Ruiz, Jorge Maestre Vidal, Marco Antonio Sotelo Monge, Félix Gómez Mármol y Gregorio Martínez Pérez</i><br></li>
           <li>Generación sintética de tráfico de red con Deep Learning: botnet Neris como caso de estudio.
           <br> <i>Francisco Álvarez-Terribas, Roberto Magán-Carrión, Gabriel Maciá-Fernández y Antonio M. Mora García</i><br></li>
-          <li>Análisis estadístico del tráfico DoH para la detección del uso malicioso de túneles
+          <li>Análisis estadístico del tráfico DoH para la detección del uso malicioso de túneles.
           <br> <i>Marta Moure-Garrido, Celeste Campo y Carlos Garcia-Rubio</i><br></li>
           </FONT>
         </ul>
@@ -120,13 +120,14 @@ layout: page
         <br><b> Presidente:</b>  Jose Carlos Sancho (Universidad de Extremadura)
         <br>
         <ul>
-         <FONT SIZE=2><li>DIANA: Un asesor virtual inteligente para la transformación digital segura
+         <FONT SIZE=2><li>DIANA: Un asesor virtual inteligente para la transformación digital segura.
           <br> <i>Marta Fuentes-García y Felipe Mirón</i><br></li>
-          <li>Capacidades avanzadas de simulación y evaluación en Cyber Ranges con elementos de gamificación
+          <li>Capacidades avanzadas de simulación y evaluación en Cyber Ranges con elementos de gamificación.
           <br> <i>Pantaleone Nespoli, José Antonio Pastor Valera, Mariano Albajadejo González, José Antonio Ruipérez Valiente y Félix Gómez Mármol</i><br></li>
-          <li>Ejercicio de cyber-range avanzado en una subestación eléctrica
+          <li>Ejercicio de cyber-range avanzado en una subestación eléctrica.
           <br> <i>Cristina Regueiro, Angel López, Xabier Yurrebaso, Elixabete Ostolaza, Florian Gautier, Julien Calvas y Bernard Roussely</i><br></li>
-          <li>Herramienta de generación de tráfico realista basado en comportamiento de usuario para entornos Cyber Range
+          <li>Herramienta de generación de tráfico realista basado en comportamiento de usuario para entornos Cyber Range.
+           <br><i>Mario Sanz-Rodrigo, Manuel Álvarez-Campana, Sonia Solera-Cotanilla, Diego Rivera-Pinto y Xavier Larriva-Novo</i><br></li>
           </FONT>
         </ul>
         </td>
