@@ -36,8 +36,8 @@ layout: page
         <ul>
          <li><small>Sr. D. Jesus Valero. Director General de TECNALIA</small></li>
           <li>Representación Gobierno Vasco: Confirmar</li>
-          <li>Sra.Ainara Basurko, Diputada, Departamento de Promoción Económica, DIPUTACIÓN FORAL DE BIZKAIA</li>
-          <li>Oihane Aguirregoitia, Concejala, Departamento de Atención y Participación Ciudadana e Internacionalización, AYUNTAMIENTO DE BILBAO. Presidenta de BILBOTIK.</li>
+          <li>Sra. Dña. Ainara Basurko, Diputada, Departamento de Promoción Económica, DIPUTACIÓN FORAL DE BIZKAIA</li>
+          <li> Sra. Dña. Oihane Aguirregoitia, Concejala, Departamento de Atención y Participación Ciudadana e Internacionalización, AYUNTAMIENTO DE BILBAO. Presidenta de BILBOTIK.</li>
           <li>Representación INCIBE: Confirmar</li>
         </ul>
       </td>
