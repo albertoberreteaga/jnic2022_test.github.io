@@ -29,12 +29,12 @@ layout: page
       <th>Hora</th>
       <th colspan="2">Sesión</th>
     </tr>
-       <tr>
-      <th>8:15</th>
+    <tr>
+       <th><b>8:15</b></th>
       <th colspan="2">Registro y recogida de documentación.</th>
     </tr>
     <tr>
-      <td>9:15 - 10:00</td>
+      <td><b>9:15</b></td>
       <td colspan="2">
         <b>Inauguración oficial de las JNIC 2022</b>
         <ul>
@@ -47,7 +47,7 @@ layout: page
       </td>
     </tr>
     <tr>
-      <td>10:00 - 11:00</td>
+     <td><b>10:00</b></td>
       <td colspan="2">
         <b>Conferencia invitada: </b>
        <!-- <a href="http://2021.jnic.es/conferenciaa"><b>Conferencia invitada: </b><i>Computación Cuántica: La Re-evolución</i></a> -->
@@ -57,10 +57,9 @@ layout: page
       </td>
     </tr>
      <tr>
-      <td>11:00 - 11:30</td>
+      <td><b>11:00</b></td>
       <td colspan="2">
         <b>Café.  <i> Sesión Poster día 1: Investigación ya publicada </i> </b>
-       <!-- <a href="http://2021.jnic.es/conferenciaa"><b>Conferencia invitada: </b><i>Computación Cuántica: La Re-evolución</i></a> -->
         <br>
         <ul>
          <FONT SIZE=2><li> Evaluation of Supervised Learning Models Using TCP Traffic to Detect Botnets
@@ -91,7 +90,7 @@ layout: page
         </td>
     </tr>
     <tr>
-     <td><b>11:30 - 12:45</b></td>
+     <td><b>11:30</b></td>
       <td>
         <b>Sesión I: Seguridad web e Internet </b>
         <b> Presidente: </b> TBC
