@@ -34,7 +34,7 @@ layout: page
       <th colspan="2">Registro y recogida de documentación.</th>
     </tr>
     <tr>
-      <td>9:15</td>
+      <td>9:15 - 10:00</td>
       <td colspan="2">
         <b>Inauguración oficial de las JNIC 2022</b>
         <ul>
@@ -47,7 +47,7 @@ layout: page
       </td>
     </tr>
     <tr>
-      <td>10:00</td>
+      <td>10:00 - 11:00</td>
       <td colspan="2">
         <b>Conferencia invitada: </b>
        <!-- <a href="http://2021.jnic.es/conferenciaa"><b>Conferencia invitada: </b><i>Computación Cuántica: La Re-evolución</i></a> -->
@@ -57,7 +57,7 @@ layout: page
       </td>
     </tr>
      <tr>
-      <td>11:00</td>
+      <td>11:00 - 11:30</td>
       <td colspan="2">
         <b>Café.  <i> Sesión Poster día 1: Investigación ya publicada </i> </b>
        <!-- <a href="http://2021.jnic.es/conferenciaa"><b>Conferencia invitada: </b><i>Computación Cuántica: La Re-evolución</i></a> -->
@@ -91,9 +91,9 @@ layout: page
         </td>
     </tr>
     <tr>
-     <td><b>11:30 </b></td>
+     <td><b>11:30 - 12:45</b></td>
       <td>
-        <b>Sesión de Investigación A1: Seguridad web e Internet </b>
+        <b>Sesión I: Seguridad web e Internet </b>
         <b> Presidente: </b> TBC
         <br>
         <ul>
@@ -119,28 +119,25 @@ layout: page
       </td>
         </tr>
     <tr>
-      <td>12:30</td>
+      <td><b>12:45 - 13:45</b></td>
       <td>
-        <a href="#A2"><b>Sesión de Investigación A2:</b> Detección de Intrusos y Gestión Anomalías</a>
+        <b>Sesión II: Formación e Innovación Educativa</b>
+        <b> Presidente:</b>  Jose Carlos Sancho (Universidad de Extremadura)
         <br>
-      </td>
-      </tr>
-<!--
-    <tr>
-      <td>14:00</td>
-      <td>
-        <a href="#A3"><b>Sesión de Investigación A3:</b> Ciberataques e Inteligencia de Amenazas</a>
-        <br> -->
-<!--
-      </td>
-      <td>
-        <a href="#B3"><b>Sesión de Investigación B3:</b> Tecnologías Emergentes y Entrenamiento</a>
-        <br>  
-      </td>
+        <ul>
+         <FONT SIZE=2><li>DIANA: Un asesor virtual inteligente para la transformación digital segura
+          <br> <i>Marta Fuentes-García y Felipe Mirón</i><br></li>
+          <li>Capacidades avanzadas de simulación y evaluación en Cyber Ranges con elementos de gamificación
+          <br> <i>Pantaleone Nespoli, José Antonio Pastor Valera, Mariano Albajadejo González, José Antonio Ruipérez Valiente y Félix Gómez Mármol</i><br></li>
+          <li>Ejercicio de cyber-range avanzado en una subestación eléctrica
+          <br> <i>Cristina Regueiro, Angel López, Xabier Yurrebaso, Elixabete Ostolaza, Florian Gautier, Julien Calvas y Bernard Roussely</i><br></li>
+          <li>Herramienta de generación de tráfico realista basado en comportamiento de usuario para entornos Cyber Range
+          </FONT>
+        </ul>
+        </td>
     </tr>
-    <tr>
       <td>&nbsp;</td>
-      <td colspan="2"><center><b>Descanso para comer</b></center></td>
+      <td colspan="2"><center><b>Comida</b></center></td>
     </tr>
     <tr>
       <td>16:30</td>
