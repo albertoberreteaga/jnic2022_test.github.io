@@ -55,7 +55,7 @@ layout: page
      <tr>
       <td><b>11:00</b></td>
       <td colspan="2">
-        <b>Café.  <i> Sesión Poster día 1: Investigación ya publicada </i> </b>
+        <b>Café.  <i> Sesión Poster día 1: Investigación ya publicada I </i> </b>
         <br>
         <ul>
          <FONT SIZE=2><li> Evaluation of Supervised Learning Models Using TCP Traffic to Detect Botnets
@@ -163,7 +163,7 @@ layout: page
    <tr>
       <td><b>16:30</b></td>
       <td colspan="2">
-        <b>Café. <i> Sesión Poster día 1: Investigación ya publicada </i> </b> 
+        <b>Café. <i> Sesión Poster día 1: Investigación ya publicada I </i> </b> 
        </td>
     </tr>
     <tr>
