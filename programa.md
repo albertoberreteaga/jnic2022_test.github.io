@@ -135,7 +135,6 @@ layout: page
         </td>
     </tr>
     <tr>
-      <td>&nbsp;</td>
       <td colspan="2"><center><b>Comida</b></center></td>
     </tr>
     <tr>
