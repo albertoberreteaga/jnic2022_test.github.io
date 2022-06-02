@@ -88,22 +88,37 @@ layout: page
           <li>A Review of Neuronal Jamming Cyberattack Over Invasive BCIs Affecting the Resolution of Tasks Requiring Visual Capabilities
           <br> <i>Sergio López Bernal, Alberto Huertas Celdrán y Gregorio Martínez Pérez</i> <br></li></FONT>
         </ul>
-        <br>
-      </td>
+        </td>
     </tr>
     <tr>
-      <td>11:00</td>
+     <td><b>11:30 </b></td>
       <td>
+        <b>Sesión de Investigación A1: Seguridad web e Internet </b>
+        <b> Presidente: </b> TBC
+        <br>
+        <ul>
+         <FONT SIZE=2><li> Extracción de variables para caracterización multi-clase de la severidad de IPs
+          <br> <i>David Escudero García, Noemí DeCastro-García y Miguel V. Carriegos</i><br></li>
+          <li>Ataques a servidores web: estudio experimental de la capacidad de detección de algunos SIDS gratuitos
+          <br> <i>Javier Muñoz, Felipe Bueno, Rafael Estepa, Antonio Estepa Alonso y Jesús E. Diaz-Verdejo</i><br></li>
+          <li>Hunting@home: Plug and Play setup for intrusion detection in home networks
+          <br> <i>Lorena Mehavilla, José García y Alvaro Alesanco</i><br></li>
+          <li>A Security and Trust Framework for Decentralized 5G Marketplaces
+          <br> <i>José María Jorquera Valero, Manuel Gil Pérez and Gregorio Martínez Pérez</i><br></li>
+          <li>Designing a platform for discovering TOR onion services
+          <br> <i>Javier Pastor-Galindo, Roberto Sáez Ruiz, Jorge Maestre Vidal, Marco Antonio Sotelo Monge, Félix Gómez Mármol y Gregorio Martínez Pérez</i><br></li>
+          <li>Generación sintética de tráfico de red con Deep Learning: botnet Neris como caso de estudio.
+          <br> <i>Francisco Álvarez-Terribas, Roberto Magán-Carrión, Gabriel Maciá-Fernández y Antonio M. Mora García</i><br></li>
+          <li>Análisis estadístico del tráfico DoH para la detección del uso malicioso de túneles
+          <br> <i>Marta Moure-Garrido, Celeste Campo y Carlos Garcia-Rubio</i><br></li>
+          </FONT>
+        </ul>
+        </td>
         <a href="#A1"><b>Sesión de Investigación A1:</b> Detección de Intrusos y Gestión Anomalías</a>
         <br> 
       </td>
-      <td>
-        <a href="#B1"><b>Sesión de Investigación B1:</b> IA y Ciberseguridad</a>
-        <br> -->
-<!-- <center><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjRjMzViODktZjM1Mi00NmNiLWE0NWMtNTM4MjM5NTViMDVk%40thread.v2/0?context=%7b%22Tid%22%3a%22c42cbae6-61f4-498c-9107-6a8cf5f01e56%22%2c%22Oid%22%3a%22e50f4dc5-ce19-4820-b889-be7b8b123727%22%7d" target="_teams"><img src="{{site.url}}/images/LogoTeams.png">Conecta</a></center> -->
-<!--  <center><a href="https://teams.microsoft.com/" target="_teams"><img src="{{site.url}}/images/LogoTeams.png">Conecta</a></center>
-      </td>
-    </tr>
+     
+   </tr>
     <tr>
       <td>12:30</td>
       <td>
