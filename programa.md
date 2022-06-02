@@ -64,7 +64,7 @@ layout: page
         <br>
         <ul>
          <FONT SIZE=2><li> Evaluation of Supervised Learning Models Using TCP Traffic to Detect Botnets
-          <br> ><i>Felipe Castaño, Javier Velasco Mata, Roberto Andrés Vasco Carofilis, Eduardo Fidalgo, Luis Fernández y George Azzopardi</i> </br></li>
+          <br> <i>Felipe Castaño, Javier Velasco Mata, Roberto Andrés Vasco Carofilis, Eduardo Fidalgo, Luis Fernández y George Azzopardi</i> </br></li>
           <li>Representación Gobierno Vasco: Confirmar</li>
           <li>Sra. Dña. Ainara Basurko, Diputada, Departamento de Promoción Económica, DIPUTACIÓN FORAL DE BIZKAIA</li>
           <li> Sra. Dña. Oihane Aguirregoitia, Concejala, Departamento de Atención y Participación Ciudadana e Internacionalización, AYUNTAMIENTO DE BILBAO. Presidenta de BILBOTIK.</li>
