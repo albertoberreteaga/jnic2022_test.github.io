@@ -167,7 +167,7 @@ layout: page
        </td>
     </tr>
     <tr>
-      <td>17:00</td>
+     <td><b>17:00</b></td>
       <td colspan="2">
         <b>Mesa Redonda:</b><i> La Investigación Aplicada: Cómo recorrer el camino desde la Investigación a la Transferencia Tecnológica.</i>
         <br>
