@@ -27,7 +27,7 @@ layout: page
       <th colspan="2">Sesión</th>
     </tr>
     <tr>
-    <td><b>9:30</b></td>
+      <td><b>9:30</b></td>
       <td colspan="2">
         <b>Conferencia por determinar</b>
         </td>
@@ -111,7 +111,7 @@ layout: page
           </FONT>
         </ul>
         </td>
-        </tr>
+       </tr>
     <tr>
       <td><b>13:30</b></td>
       <td colspan="2"><b>Clausura de las jornadas</b></center>
