@@ -12,55 +12,54 @@ layout: page
 <!--<a href="{{site.url}}/track-transferencia" class=""><img src="{{site.url}}/images/IcoTrackTX.jpg" class="img-circle" 	width="40" height="40"><strong>Track de Transferencia</strong></a> -->
 </div><br>
 
-### __Programa JNIC 2022__
+### __Programa JNIC 2022 - Preliminar__
 
 <div class="text-center">
 <a href="{{site.url}}/programa"><img src="{{site.url}}/images/ico27.PNG" class="img-circle" 	width="20" height="20"><strong>&nbsp;27 Junio</strong></a> &nbsp;&nbsp;&nbsp;
 <a href="{{site.url}}/programa28"><img src="{{site.url}}/images/ico28.PNG" class="img-circle" 	width="20" height="20"><strong>&nbsp;28 Junio</strong></a>&nbsp;&nbsp;&nbsp;
 <a href="{{site.url}}/programa29"><img src="{{site.url}}/images/ico29.PNG" class="img-circle" 	width="20" height="20"><strong>&nbsp;29 Junio</strong></a>&nbsp;&nbsp;&nbsp;
 </div>
-
- <!-- <center><a href="https://app.sli.do/event/ed1p6not" target="_slido"><img src="{{site.url}}/images/slido.jpg" width="300"></a></center> -->
-<!-- <center><a href="https://sli.do/" target="_slido"><img src="{{site.url}}/images/slido.jpg" width="300"></a></center> -->
-
-<h4>Miércoles 29 de Junio</h4>
+<h5>Miércoles 29 de Junio</h5>
 <table class="table" style="width:100%">
   <tbody valign="top">
     <tr>
       <th>Hora</th>
       <th colspan="2">Sesión</th>
     </tr>
-    <tr>
-       <th><b>8:15</b></th>
-      <th colspan="2">Registro y recogida de documentación.</th>
+    <td><b>9:30</b></td>
+      <td colspan="2">
+        <b>Conferencia por determinar</b>
+        </td>
     </tr>
     <tr>
-      <td><b>9:15</b></td>
-      <td colspan="2">
-        <b>Inauguración oficial de las JNIC 2022</b>
+     <td><b>10:30</b></td>
+      <td>
+        <b>Sesión VI: Mecanismos de protección del usuario </b>
+        <br><b> Presidente: </b> TBC
+        <br>
         <ul>
-         <FONT SIZE=2><li>Sr. D. Jesus Valero. Director General de TECNALIA</li>
-          <li>Representación Gobierno Vasco: Confirmar</li>
-          <li>Sra. Dña. Ainara Basurko, Diputada, Departamento de Promoción Económica, DIPUTACIÓN FORAL DE BIZKAIA</li>
-          <li> Sra. Dña. Oihane Aguirregoitia, Concejala, Departamento de Atención y Participación Ciudadana e Internacionalización, AYUNTAMIENTO DE BILBAO. Presidenta de BILBOTIK.</li>
-          <li>Representación INCIBE: Confirmar</li></FONT>
+         <FONT SIZE=2><li>Automatizando RGPD 2016/679 mediante Procesos de Negocio: El caso del Artículo 32.
+          <br> <i>Angel Jesus Varela Vaca, Rafael M. Gasca, Maria Teresa Gómez López y Yolanda Morales Zamora</i><br></li>
+          <li>SignAir - Intelligent biometric system by means of in-air signature.
+          <br> <i>Iñigo Turrientes, Chiara Lunerti, Daniel Urda y Raúl Orduna</i><br></li>
+          <li>EEG Data for User Authentication with Multi–Class and One–Class Classifiers.
+          <br> <i>Luis Hernández-Álvarez, Stefano Caputo, Lorenzo Mucchi y Luis Hernández Encinas</i><br></li>
+          <li>Análisis de Problemas de Seguridad y Privacidad en Wearables Usados por Menores.
+          <br> <i>Sonia Solera-Cotanilla, Jaime Fúster, Jaime Pérez, Rafael Palacios, Mario Vega-Barbas, Manuel Álvarez-Campana y Gregorio López</i><br></li>
+          <li>OpenUEBA – A systematic approach to learn behavioural patterns.
+          <br> <i>Albert Calvo, Nil Ortiz, Jordi Guijarro y Shuaib Siddiqu</i><br></li>
+          <li>Evaluando la Seguridad y Privacidad de los Asistentes Personales Inteligentes: ¡Ojo con el Juguete!.
+          <br> <i>Cayetano Valero, Jaime Pérez, Sonia Solera-Cotanilla, Mario Vega-Barbas, Guillermo Suárez, Gregorio López y Manuel Álvarez-Campana</i><br></li>
+          <li>Conditional Generative Adversarial Network for keystroke presentation attack.
+          <br> <i>Idoia Eizaguirre Peral, Lander Segurola Gil y  Francesco Zola</i><br></li>
+          </FONT>
         </ul>
-      </td>
-    </tr>
-    <tr>
-     <td><b>10:00</b></td>
-      <td colspan="2">
-        <b>Conferencia invitada: </b>
-       <!-- <a href="http://2021.jnic.es/conferenciaa"><b>Conferencia invitada: </b><i>Computación Cuántica: La Re-evolución</i></a> -->
-        <br>
-        <i>Valentina Casola --  Dipartimento di Ingegneria Elettrica e Tecnologie dell'Informazione, University of Naples Federico</i>
-        <br>
-      </td>
-    </tr>
+        </td>
+      </tr>
      <tr>
       <td><b>11:00</b></td>
       <td colspan="2">
-        <b>Café.  <i> Sesión Poster día 1: Investigación ya publicada I </i> </b>
+        <b>Café.  <i> Sesión Poster día 3</i> </b>
         <br>
         <ul>
          <FONT SIZE=2><li> Evaluation of Supervised Learning Models Using TCP Traffic to Detect Botnets
