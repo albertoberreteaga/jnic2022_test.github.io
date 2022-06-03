@@ -114,7 +114,7 @@ layout: page
        </tr>
     <tr>
       <td><b>13:30</b></td>
-      <td colspan="2"><b>Clausura de las jornadas</b></center>
+      <td colspan="2"><b>Clausura de las jornadas</b>
       <ul>
          <FONT SIZE=2><li>Sr. D. Joseba Laka. Director Unidad DIGITAL de TECNALIA</li>
           <li>Sra. Lorena  González. Universidad Carlos III de Madrid. Presidenta del Comité de Programa Científico</li>
