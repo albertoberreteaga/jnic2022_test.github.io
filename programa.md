@@ -108,9 +108,7 @@ layout: page
           <br> <i>Marta Moure-Garrido, Celeste Campo y Carlos Garcia-Rubio</i></li>
           </FONT>
         </ul>
-        </td>
-        <!-- <a href="#A1"><b>Sesión de Investigación A1:</b> Detección de Intrusos y Gestión Anomalías</a> -->
-        <br> 
+        </td>       
       </tr>
     <tr>
       <td><b>12:45</b></td>
@@ -156,9 +154,7 @@ layout: page
           <br> <i>Juan Caballero, Gibran Gómez, Srdjan Matic, Gustavo Sánchez, Silvia Sebastián y Arturo Villacañas</i></li>
           </FONT>
         </ul>
-        </td>
-        <!-- <a href="#A1"><b>Sesión de Investigación A1:</b> Detección de Intrusos y Gestión Anomalías</a> -->
-        <br> 
+        </td>        
       </tr>
    <tr>
       <td><b>16:30</b></td>
