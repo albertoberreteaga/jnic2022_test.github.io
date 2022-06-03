@@ -15,7 +15,8 @@ layout: page
 ### __Programa JNIC 2022 - Provisional__
 
 <div class="text-center">
-<a href="{{site.url}}/programa"><img src="{{site.url}}/images/ico27.PNG" class="img-circle" 	width="20" height="20"><strong>&nbsp;27 Junio</strong></a> &nbsp;&nbsp;&nbsp;
+<a href="{{site.url}}/programa26"><img src="{{site.url}}/images/ico26.PNG" class="img-circle" 	width="20" height="20"><strong>&nbsp;26 Junio</strong></a> &nbsp;&nbsp;&nbsp;
+  <a href="{{site.url}}/programa"><img src="{{site.url}}/images/ico27.PNG" class="img-circle" 	width="20" height="20"><strong>&nbsp;27 Junio</strong></a> &nbsp;&nbsp;&nbsp;
 <a href="{{site.url}}/programa28"><img src="{{site.url}}/images/ico28.PNG" class="img-circle" 	width="20" height="20"><strong>&nbsp;28 Junio</strong></a>&nbsp;&nbsp;&nbsp;
 <a href="{{site.url}}/programa29"><img src="{{site.url}}/images/ico29.PNG" class="img-circle" 	width="20" height="20"><strong>&nbsp;29 Junio</strong></a>&nbsp;&nbsp;&nbsp;
 </div>
