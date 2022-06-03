@@ -172,11 +172,11 @@ layout: page
         <b>Premios RENIC 2022</b>
         <br>
          <ul>
-          <FONT SIZE=2><li> <b> Mejor Tesis Doctoral: <i> “Towards Decentralized And Scalable Architectures For Access Control Systems For IIoT Scenarios”</i></b> <br>           <i>Dr. Sr. Santiago Figueroa Lorenzo</i><br></li></li>
+          <FONT SIZE=2><li> <b> Mejor Tesis Doctoral: <i> “Towards Decentralized And Scalable Architectures For Access Control Systems For IIoT Scenarios”</i></b> <br>           <i>Dr. Sr. Santiago Figueroa Lorenzo</i><br></li>
           <li> <b> Mejor TFM: <i> “Extracción y Análisis de Artefactos de Memoria de la Aplicación Telegram Desktop”</i></b> <br> 
-           <i>Sr. Pedro Fernández Álvarez</i><br></li></li></FONT>
+           <i>Sr. Pedro Fernández Álvarez</i><br></li></FONT>
         </ul>
-          </td>
+       </td>
      </tr>
    <tr>
       <td><b>19:30</b></td>
