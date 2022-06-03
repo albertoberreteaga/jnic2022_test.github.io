@@ -176,10 +176,8 @@ layout: page
           <li> <b> Mejor TFM: <i> “Extracción y Análisis de Artefactos de Memoria de la Aplicación Telegram Desktop”</i></b> <br> 
            <i>Sr. Pedro Fernández Álvarez</i><br></li></li></FONT>
         </ul>
-        <br>
-        </td>
+          </td>
      </tr>
-   <tr>
    <tr>
       <td><b>19:30</b></td>
       <td colspan="2">
