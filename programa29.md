@@ -12,7 +12,7 @@ layout: page
 <!--<a href="{{site.url}}/track-transferencia" class=""><img src="{{site.url}}/images/IcoTrackTX.jpg" class="img-circle" 	width="40" height="40"><strong>Track de Transferencia</strong></a> -->
 </div><br>
 
-### __Programa JNIC 2022 - Preliminar__
+### __Programa JNIC 2022 - Provisional__
 
 <div class="text-center">
 <a href="{{site.url}}/programa"><img src="{{site.url}}/images/ico27.PNG" class="img-circle" 	width="20" height="20"><strong>&nbsp;27 Junio</strong></a> &nbsp;&nbsp;&nbsp;
