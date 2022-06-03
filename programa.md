@@ -167,7 +167,7 @@ layout: page
       <td colspan="2">
         <b>Mesa Redonda:</b><i> La Investigación Aplicada: Cómo recorrer el camino desde la Investigación a la Transferencia Tecnológica.</i>
         <br>
-        <b>Moderador</b>: Ana Ayerbe (TECNALIA-BRTA y WOMEN4CYBER)
+        <b>Moderador</b>: Sra. Ana Ayerbe. TECNALIA-BRTA y WOMEN4CYBER
         <br>
        <b>Participantes</b>: TBC
         <br>
