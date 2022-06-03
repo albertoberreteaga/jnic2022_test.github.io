@@ -103,30 +103,29 @@ layout: page
     <tr>
      <td><b>12:00</b></td>
       <td>
-        <b>Sesión I: Seguridad web e Internet </b>
+        <b>Sesión V: Seguridad IoT, IIoT, ICS </b>
         <br><b> Presidente: </b> TBC
         <br>
         <ul>
-         <FONT SIZE=2><li> Extracción de variables para caracterización multi-clase de la severidad de IPs.
-          <br> <i>David Escudero García, Noemí DeCastro-García y Miguel V. Carriegos</i><br></li>
-          <li>Ataques a servidores web: estudio experimental de la capacidad de detección de algunos SIDS gratuitos.
-          <br> <i>Javier Muñoz, Felipe Bueno, Rafael Estepa, Antonio Estepa Alonso y Jesús E. Diaz-Verdejo</i><br></li>
-          <li>Hunting@home: Plug and Play setup for intrusion detection in home networks.
-          <br> <i>Lorena Mehavilla, José García y Alvaro Alesanco</i><br></li>
-          <li>A Security and Trust Framework for Decentralized 5G Marketplaces.
-          <br> <i>José María Jorquera Valero, Manuel Gil Pérez and Gregorio Martínez Pérez</i><br></li>
-          <li>Designing a platform for discovering TOR onion services.
-          <br> <i>Javier Pastor-Galindo, Roberto Sáez Ruiz, Jorge Maestre Vidal, Marco Antonio Sotelo Monge, Félix Gómez Mármol y Gregorio Martínez Pérez</i><br></li>
-          <li>Generación sintética de tráfico de red con Deep Learning: botnet Neris como caso de estudio.
-          <br> <i>Francisco Álvarez-Terribas, Roberto Magán-Carrión, Gabriel Maciá-Fernández y Antonio M. Mora García</i><br></li>
-          <li>Análisis estadístico del tráfico DoH para la detección del uso malicioso de túneles.
-          <br> <i>Marta Moure-Garrido, Celeste Campo y Carlos Garcia-Rubio</i><br></li>
+         <FONT SIZE=2><li> Hacia la creación de reglas CEP no supervisadas para la detección en tiempo real de ataques en entornos IoT.
+          <br> <i>José Roldán-Gómez, Jesús Martínez del Rincón, Juan Boubeta-Puig y José Luis Martínez</i><br></li>
+          <li>MECInOT: Emulador de escenarios de Industrial Internet of Things y Multi-Access Edge Computing para su análisis de seguridad.
+          <br> <i>Sergio Ruiz Villafranca, José Roldán Gómez, José Luis Martínez Martínez y José Miguel Villalón Millán</i><br></li>
+          <li>An Industrial Control System physical-digital framework applied to connected Wastewater Treatment Process for identifying cyber threats.
+          <br> <i>Alvaro Garcia, Cristian Velasco y Enrique Rodriguez</i><br></li>
+          <li>Metodología y herramientas para análisis y evaluación de seguridad frente a ataques de radiofrecuencia en vehículos.
+          <br> <i>Roberto Gesteira Miñarro, Juan Blázquez Sánchez, Gregorio López López, Rafael Palacios Hielscher, Miguel Ángel Blázquez Puras, Enrique Zapico Alonso y José María Cancer Aboitiz</i><br></li>
+          <li>Implicaciones de seguridad en MAS Desplegados en Infraestructuras de Carga basadas en OCPP.
+          <br> <i>Cristina Alcaraz, Alberto Garcia and Javier Lopez</i><br></li>
+          <li>Aleatorización de direcciones IP para mitigar ataques de reconocimiento de forma proactiva en sistemas de control industrial.
+          <br> <i>Xabier Etxezarreta, Iñaki Garitano, Mikel Iturbe y Urko Zurutuza</i><br></li>
+          <li>An ML and Behavior Fingerprinting-based Framework for Cyberattack Detection in IoT Crowdsensing Platforms.
+          <br> <i>Pedro Miguel Sanchez Sanchez, Alberto Huertas Celdran, Gerome Bovet, Gregorio Martinez Perez y Burkhard Stiller</i><br></li>
           </FONT>
         </ul>
         </td>
         <!-- <a href="#A1"><b>Sesión de Investigación A1:</b> Detección de Intrusos y Gestión Anomalías</a> -->
-        <br> 
-      </tr>
+        </tr>
     <tr>
       <td><b>13:30</b></td>
       <td colspan="2"><center><b>Comida</b></center></td>
