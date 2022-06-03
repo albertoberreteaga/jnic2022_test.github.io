@@ -26,6 +26,7 @@ layout: page
       <th>Hora</th>
       <th colspan="2">Sesión</th>
     </tr>
+    <tr>
     <td><b>9:30</b></td>
       <td colspan="2">
         <b>Conferencia por determinar</b>
@@ -57,7 +58,7 @@ layout: page
         </td>
       </tr>
      <tr>
-      <td><b>11:00</b></td>
+      <td><b>11:45</b></td>
       <td colspan="2">
         <b>Café.  <i> Sesión Poster día 3</i> </b>
         <br>
@@ -89,117 +90,41 @@ layout: page
         </td>
     </tr>
     <tr>
-     <td><b>11:30</b></td>
+     <td><b>12:15</b></td>
       <td>
-        <b>Sesión I: Seguridad web e Internet </b>
+        <b>Sesión VII: Seguridad web e Internet </b>
         <br><b> Presidente: </b> TBC
         <br>
         <ul>
-         <FONT SIZE=2><li> Extracción de variables para caracterización multi-clase de la severidad de IPs.
-          <br> <i>David Escudero García, Noemí DeCastro-García y Miguel V. Carriegos</i><br></li>
-          <li>Ataques a servidores web: estudio experimental de la capacidad de detección de algunos SIDS gratuitos.
-          <br> <i>Javier Muñoz, Felipe Bueno, Rafael Estepa, Antonio Estepa Alonso y Jesús E. Diaz-Verdejo</i><br></li>
-          <li>Hunting@home: Plug and Play setup for intrusion detection in home networks.
-          <br> <i>Lorena Mehavilla, José García y Alvaro Alesanco</i><br></li>
-          <li>A Security and Trust Framework for Decentralized 5G Marketplaces.
-          <br> <i>José María Jorquera Valero, Manuel Gil Pérez and Gregorio Martínez Pérez</i><br></li>
-          <li>Designing a platform for discovering TOR onion services.
-          <br> <i>Javier Pastor-Galindo, Roberto Sáez Ruiz, Jorge Maestre Vidal, Marco Antonio Sotelo Monge, Félix Gómez Mármol y Gregorio Martínez Pérez</i><br></li>
-          <li>Generación sintética de tráfico de red con Deep Learning: botnet Neris como caso de estudio.
-          <br> <i>Francisco Álvarez-Terribas, Roberto Magán-Carrión, Gabriel Maciá-Fernández y Antonio M. Mora García</i><br></li>
-          <li>Análisis estadístico del tráfico DoH para la detección del uso malicioso de túneles.
-          <br> <i>Marta Moure-Garrido, Celeste Campo y Carlos Garcia-Rubio</i></li>
+         <FONT SIZE=2><li>Análisis estadístico seguro para ensayos clínicos.
+          <br> <i>Alicia Quirós, Diego Simón and Adriana Suárez Corona</i><br></li>
+          <li>QuantumSolver: Librería para el desarrollo cuántico.
+          <br> <i>José Daniel Escánez-Expósito, Pino Caballero-Gil y Francisco Martín-Fernández</i><br></li>
+          <li>Privacidad y seguridad en Federated Learning: Combinando ambas mediante SCALE-MAMBA.
+          <br> <i>Idoia Gamiz Ugarte, Cristina Regueiro Senderos, Oscar Lage Serrano y Eduardo Jacob Taquet</i><br></li>
+          <li>Estudio comparativo de rendimiento de frameworks de criptografía homomórfica.
+          <br> <i>Iñaki Seco Aguirre, Cristina Regueiro, Mª Carmen Palacios, Maite Álvarez Piernavieja y Eduardo Jacob</i><br></li>
+          <li>Experiments on modeling and verification of post-quantum protocols using Maude.
+          <br> <i>Víctor García y Santiago Escobar</i><br></li>
+          <li>About the FrodoKEM lattice-based algorithm.
+          <br> <i>Miguel Ángel González de la Torre, Luis Hernández Encinas y Araceli Queiruga Dios</i></li>
           </FONT>
         </ul>
         </td>
-        <!-- <a href="#A1"><b>Sesión de Investigación A1:</b> Detección de Intrusos y Gestión Anomalías</a> -->
-        <br> 
-      </tr>
+        </tr>
     <tr>
-      <td><b>12:45</b></td>
-      <td>
-        <b>Sesión II: Formación e Innovación Educativa</b>
-        <br><b> Presidente:</b>  Jose Carlos Sancho (Universidad de Extremadura)
-        <br>
-        <ul>
-         <FONT SIZE=2><li>DIANA: Un asesor virtual inteligente para la transformación digital segura.
-          <br> <i>Marta Fuentes-García y Felipe Mirón</i><br></li>
-          <li>Capacidades avanzadas de simulación y evaluación en Cyber Ranges con elementos de gamificación.
-          <br> <i>Pantaleone Nespoli, José Antonio Pastor Valera, Mariano Albajadejo González, José Antonio Ruipérez Valiente y Félix Gómez Mármol</i><br></li>
-          <li>Ejercicio de cyber-range avanzado en una subestación eléctrica.
-          <br> <i>Cristina Regueiro, Angel López, Xabier Yurrebaso, Elixabete Ostolaza, Florian Gautier, Julien Calvas y Bernard Roussely</i><br></li>
-          <li>Herramienta de generación de tráfico realista basado en comportamiento de usuario para entornos Cyber Range.
-           <br><i>Mario Sanz-Rodrigo, Manuel Álvarez-Campana, Sonia Solera-Cotanilla, Diego Rivera-Pinto y Xavier Larriva-Novo</i><br></li>
-          </FONT>
-        </ul>
-        </td>
+      <td><b>13:30</b></td>
+      <td colspan="2"><b>Clausura de las jornadas</b></center>
+      <ul>
+         <FONT SIZE=2><li>Sr. D. Joseba Laka. Director Unidad DIGITAL de TECNALIA</li>
+          <li>Sra. Lorena  González. Universidad Carlos III de Madrid. Presidenta del Comité de Programa Científico</li>
+          <li>Sr. José María de Fuentes. Universidad Carlos III de Madrid. Presidenta del Comité de Programa Científico</li>
+          <li>Representación INCIBE: Confirmar</li></FONT>
+        </ul> </td>
     </tr>
     <tr>
-      <td><b>13:45</b></td>
-      <td colspan="2"><center><b>Comida</b></center></td>
+      <td><b>14:00</b></td>
+      <td colspan="2"><b>Cocktail de despedida</b></td>
     </tr>
-    <tr>
-     <td><b>15:15</b></td>
-      <td>
-        <b>Sesión III: Vulnerabilidades y ciber amenazas</b>
-        <br><b> Presidente: </b> TBC
-        <br>
-        <ul>
-         <FONT SIZE=2><li>FCTNLP: An architecture to fight cyberterrorism with natural language processing.
-          <br> <i>Andrés Zapata, Daniel Díaz-López, Javier Pastor-Galindo y Félix Gómez Mármol</i><br></li>
-          <li>Estrategias de inmunización selectiva para la mitigación del movimiento lateral.
-          <br> <i>David Herranz Oliveros, Iván Marsá Maestre y José Manuel Giménez Guzmán</i><br></li>
-          <li>Revisión sistemática de técnicas de aprendizaje automático para la detección de Amenazas Persistentes Avanzadas (APT) utilizando flujos de red en formato NetFlow.
-          <br> <i>Christian Vega Gonzáleáz, Adrián Campazas Vega, Ignacio Samuel Crespo Martínez, Ángel Manuel Guerrero Higueras y Vicente Matellán Olivera</i><br></li>
-          <li>Sistema de conciencia cibersituacional y gestión dinámica de riesgos basado en ontologías.
-          <br> <i>Carmen Sanchez-Zas, Victor A. Villagrá, Mario Vega-Barbas, Xavier Larriva-Novo, Jose Ignacio Moreno y Julio Berrocal</i><br></li>
-          <li>Model-Based Analysis of Race Condition Vulnerabilities in Source Code.
-          <br> <i>Razvan Raducu, Ricardo J. Rodríguez y Pedro Alvarez</i><br></li>
-          <li>FATR: a Framework for Automated Analysis of Threat Reports.
-          <br> <i>Juan Caballero, Gibran Gómez, Srdjan Matic, Gustavo Sánchez, Silvia Sebastián y Arturo Villacañas</i><br></li>
-          </FONT>
-        </ul>
-        </td>
-        <!-- <a href="#A1"><b>Sesión de Investigación A1:</b> Detección de Intrusos y Gestión Anomalías</a> -->
-        <br> 
-      </tr>
-   <tr>
-      <td><b>16:30</b></td>
-      <td colspan="2">
-        <b>Café. <i> Sesión Poster día 1: Investigación ya publicada I </i> </b> 
-       </td>
-    </tr>
-    <tr>
-     <td><b>17:00</b></td>
-      <td colspan="2">
-        <b>Mesa Redonda:</b><i> La Investigación Aplicada: Cómo recorrer el camino desde la Investigación a la Transferencia Tecnológica.</i>
-        <br>
-        <b>Moderador</b>: Ana Ayerbe (TECNALIA-BRTA y WOMEN4CYBER)
-        <br>
-       <b>Participantes</b>:
-        <ul>
-          <FONT SIZE=2><li>Sra. Iratxe Martin. Responsable de Infraestructuras del Basque Cybersecurity Center (BCSC)  </li>
-          <li>Sra. Garbiñe Manterola.  Knowledge Transfer Manager del Basque Research & Technology Alliance (BRTA)</li>
-          <li>Sra. Eva Ferreira. Rectora de la UPV/EHU</li>
-          <li>Sra. Lola Rebollo. Gerente del área de Apoyo a la Empresa, Industria, Emprendimiento e I+D+i (INCIBE)</li> </FONT>
-        </ul>
-         Organizada por: <a href="https://www.women4cyberspain.es/" target="_blank"><img style="max-height: 100px; padding:25px;" src="/Logos/Women4Cyber.png"></a> <a href="https://www.basquecybersecurity.eus/es/" target="_blank"><img style="max-height: 100px; padding:25px;" src="/images/patrocinadores/BCSC.png"></a>
-        <br> 
-       <!-- Organiza:<a href="http://www.pesi-seguridadindustrial.org/es"><img src="/Logos/pesi.png"></a>
-        <br> -->
-      </td>
-    </tr>
-   <tr>
-      <td><b>19:00</b></td>
-      <td colspan="2">
-        <b>Navegando Bilbao</b> 
-       </td>
-    </tr>
-    <tr>
-      <td><b>21:00</b></td>
-      <td colspan="2">
-        <b>Cena en el Restaurante El Txoko Berria</b> 
-       </td>
-    </tr>
-  </tbody>
+</tbody>
 </table>
