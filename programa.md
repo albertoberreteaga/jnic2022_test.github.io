@@ -13,7 +13,6 @@ layout: page
 </div><br>
 
 ### __Programa JNIC 2022__
-<br>
 <div class="text-center">
 <a href="{{site.url}}/programa"><img src="{{site.url}}/images/ico27.PNG" class="img-circle" 	width="30" height="30"><strong>27 Junio</strong></a> &nbsp;&nbsp;&nbsp;
 <a href="{{site.url}}/programa28"><img src="{{site.url}}/images/ico28.PNG" class="img-circle" 	width="30" height="30"><strong>28 Junio</strong></a>&nbsp;&nbsp;&nbsp;
