@@ -14,7 +14,7 @@ layout: page
 
 ### __Programa JNIC 2022__
 
-<<div class="text-center">
+<div class="text-center">
 <a href="{{site.url}}/programa"><img src="{{site.url}}/images/ico27.PNG" class="img-circle" 	width="20" height="20"><strong>&nbsp;27 Junio</strong></a> &nbsp;&nbsp;&nbsp;
 <a href="{{site.url}}/programa28"><img src="{{site.url}}/images/ico28.PNG" class="img-circle" 	width="20" height="20"><strong>&nbsp;28 Junio</strong></a>&nbsp;&nbsp;&nbsp;
 <a href="{{site.url}}/programa29"><img src="{{site.url}}/images/ico29.PNG" class="img-circle" 	width="20" height="20"><strong>&nbsp;29 Junio</strong></a>&nbsp;&nbsp;&nbsp;
@@ -31,36 +31,47 @@ layout: page
       <th colspan="2">Sesión</th>
     </tr>
     <tr>
-       <th><b>8:15</b></th>
+       <th><b>8:45</b></th>
       <th colspan="2">Registro y recogida de documentación.</th>
     </tr>
     <tr>
-      <td><b>9:15</b></td>
-      <td colspan="2">
-        <b>Inauguración oficial de las JNIC 2022</b>
-        <ul>
-         <FONT SIZE=2><li>Sr. D. Jesus Valero. Director General de TECNALIA</li>
-          <li>Representación Gobierno Vasco: Confirmar</li>
-          <li>Sra. Dña. Ainara Basurko, Diputada, Departamento de Promoción Económica, DIPUTACIÓN FORAL DE BIZKAIA</li>
-          <li> Sra. Dña. Oihane Aguirregoitia, Concejala, Departamento de Atención y Participación Ciudadana e Internacionalización, AYUNTAMIENTO DE BILBAO. Presidenta de BILBOTIK.</li>
-          <li>Representación INCIBE: Confirmar</li></FONT>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-     <td><b>10:00</b></td>
+     <td><b>9:00</b></td>
       <td colspan="2">
         <b>Conferencia invitada: </b>
        <!-- <a href="http://2021.jnic.es/conferenciaa"><b>Conferencia invitada: </b><i>Computación Cuántica: La Re-evolución</i></a> -->
         <br>
-        <i>Valentina Casola --  Dipartimento di Ingegneria Elettrica e Tecnologie dell'Informazione, University of Naples Federico</i>
+        <i>Carlos H Gañan -- Delft University</i>
         <br>
       </td>
     </tr>
+   <tr>
+     <td><b>11:00</b></td>
+      <td>
+        <b>Sesión IV: Vulnerabilidades y ciber amenazas </b>
+        <br><b> Presidente: </b> TBC
+        <br>
+        <ul>
+         <FONT SIZE=2><li> A Review of Kubernetes Security Vulnerabilities, Attacks and Practices.
+          <br> <i>Santiago Figueroa Lorenzo y Saioa Arrizabalaga</i><br></li>
+          <li>Plataforma Europea para adquisición de Consciencia de Situación del Ciberespacio.
+          <br> <i>Jorge Maestre Vidal, Marco Antonio Sotelo Monge, Francisco Antonio Rodriguez Lopez, Monica Mateos Calle, Daniel Tornero Sánchez, Juan Manuel Estevez Tapiador, Víctor Abraham Villagrá Gonzalez, Rebeca Gomez Henche y Israel Perez Llopis</i><br></li>
+          <li>Privacidad contextual en entornos Edge.
+          <br> <i>Manuel Ruiz Ruiz, Rubén Ríos del Pozo, Rodrigo Román Castro y Javier López Muñoz</i><br></li>
+          <li>ChaosXploit: A Security Chaos Engineering framework based on Attack Trees.
+          <br> <i>Sara Palacios, Daniel Díaz-López and Pantaleone Nespoli</i><br></li>
+          <li>Simulador de APTs realistas basado en el marco de MITRE ATT&CK.
+          <br> <i>Xavier Larriva-Novo, Victor Villagra, Oscar Jover, Mario Sanz Rodrigo, Carmen Sánchez-Zas y Manuel Alvarez-Campana</i><br></li>
+          <li>Estudio de modelado de periféricos para habilitar emulaciones de firmware embebido.
+          <br> <i>Xabier Gandiaga, Urko Zurutuza y Iñaki Garitano</i><br></li>          
+          </FONT>
+        </ul>
+        </td>
+        <!-- <a href="#A1"><b>Sesión de Investigación A1:</b> Detección de Intrusos y Gestión Anomalías</a> -->
+        </tr>
      <tr>
       <td><b>11:00</b></td>
       <td colspan="2">
-        <b>Café.  <i> Sesión Poster día 1: Investigación ya publicada I </i> </b>
+        <b>Café.  <i> Sesión Poster día 2: Investigación ya publicada II </i> </b>
         <br>
         <ul>
          <FONT SIZE=2><li> Evaluation of Supervised Learning Models Using TCP Traffic to Detect Botnets
