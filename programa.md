@@ -133,7 +133,7 @@ layout: page
     </tr>
     <tr>
       <td><b>13:45</b></td>
-      <td colspan="2"><center><b>Comida</b></center></td>
+      <td colspan="2"><b>Comida</b></td>
     </tr>
     <tr>
      <td><b>15:15</b></td>
