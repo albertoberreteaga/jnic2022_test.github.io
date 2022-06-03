@@ -7,14 +7,15 @@ layout: page
 
 <div class="text-center">
 <a id="inicio"></a>
-<a href="{{site.url}}/programa"><img src="{{site.url}}/images/IcoPrograma.jpg" class="img-circle" 	width="40" height="40"><strong>Programa</strong></a> &nbsp;&nbsp;&nbsp;
-<a href="{{site.url}}/actividades-sociales"><img src="{{site.url}}/images/IcoActividades.jpg" class="img-circle" 	width="40" height="40"><strong>Actividades sociales</strong></a>&nbsp;&nbsp;&nbsp;
-<a href="{{site.url}}/premios"><img src="{{site.url}}/images/IcoPremios.jpg" class="img-circle" 	width="40" height="40"><strong>Premios</strong></a>&nbsp;&nbsp;&nbsp;
+<a href="{{site.url}}/programa"><img src="{{site.url}}/images/ico27.png" class="img-circle" 	width="40" height="40"><strong>27 Junio</strong></a> &nbsp;&nbsp;&nbsp;
+<a href="{{site.url}}/actividades-sociales"><img src="{{site.url}}/images/ico28.png" class="img-circle" 	width="40" height="40"><strong>28 Junio</strong></a>&nbsp;&nbsp;&nbsp;
+<a href="{{site.url}}/premios"><img src="{{site.url}}/images/ico29.png" class="img-circle" 	width="40" height="40"><strong>29 Junio</strong></a>&nbsp;&nbsp;&nbsp;
 <!-- <a href="{{site.url}}/track-transferencia" class=""><img src="{{site.url}}/images/IcoTrackTX.jpg" class="img-circle" 	width="40" height="40"><strong>Track de Transferencia</strong></a> -->
 </div><br>
 
 ### __Programa JNIC 2022__
-
+<a href="{{site.url}}/programa"><img src="{{site.url}}/images/IcoPrograma.jpg" class="img-circle" 	width="40" height="40"><strong>Programa</strong></a> &nbsp;&nbsp;&nbsp;
+<a href="{{site.url}}/actividades-sociales"><img src="{{site.url}}/images/IcoActividades.jpg" class="img-circle" 	width="40" height="40"><strong>Actividades sociales</strong></a>&nbsp;&nbsp;&nbsp;
  <!-- <center><a href="https://app.sli.do/event/ed1p6not" target="_slido"><img src="{{site.url}}/images/slido.jpg" width="300"></a></center> -->
 <!-- <center><a href="https://sli.do/" target="_slido"><img src="{{site.url}}/images/slido.jpg" width="300"></a></center> -->
 
