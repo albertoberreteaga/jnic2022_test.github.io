@@ -32,7 +32,7 @@ A continuación, detallamos las actividades sociales de JNIC 2022, centrados en 
    </tr>
   <tr style="vertical-align: top;">
     <td style="background: #fff; width: 49%; text-align: center;">
-      <img src="{{site.url}}/images/actividades/bienvenida.jpg"/>
+      <img src="{{site.url}}/images/actividades/bienvenida.jpg"/ width="200" height="200">
     </td>
        </tr>
    <tr style="vertical-align: top;">
