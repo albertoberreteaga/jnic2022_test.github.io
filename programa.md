@@ -18,8 +18,6 @@ layout: page
 <a href="{{site.url}}/actividades-sociales"><img src="{{site.url}}/images/ico28.png" class="img-circle" 	width="40" height="40"><strong>28 Junio</strong></a>&nbsp;&nbsp;&nbsp;
 <a href="{{site.url}}/premios"><img src="{{site.url}}/images/ico29.png" class="img-circle" 	width="40" height="40"><strong>29 Junio</strong></a>&nbsp;&nbsp;&nbsp;
 
-<a href="{{site.url}}/programa"><img src="{{site.url}}/images/IcoPrograma.jpg" class="img-circle" 	width="40" height="40"><strong>Programa</strong></a> &nbsp;&nbsp;&nbsp;
-<a href="{{site.url}}/actividades-sociales"><img src="{{site.url}}/images/IcoActividades.jpg" class="img-circle" 	width="40" height="40"><strong>Actividades sociales</strong></a>&nbsp;&nbsp;&nbsp;
  <!-- <center><a href="https://app.sli.do/event/ed1p6not" target="_slido"><img src="{{site.url}}/images/slido.jpg" width="300"></a></center> -->
 <!-- <center><a href="https://sli.do/" target="_slido"><img src="{{site.url}}/images/slido.jpg" width="300"></a></center> -->
 
