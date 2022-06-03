@@ -23,7 +23,7 @@ layout: page
  <!-- <center><a href="https://app.sli.do/event/ed1p6not" target="_slido"><img src="{{site.url}}/images/slido.jpg" width="300"></a></center> -->
 <!-- <center><a href="https://sli.do/" target="_slido"><img src="{{site.url}}/images/slido.jpg" width="300"></a></center> -->
 
-<h4>Martes 28 de Junio</h4>
+<h5>Martes 28 de Junio</h5>
 <table class="table" style="width:100%">
   <tbody valign="top">
     <tr>
@@ -45,7 +45,7 @@ layout: page
       </td>
     </tr>
    <tr>
-     <td><b>11:00</b></td>
+     <td><b>10:00</b></td>
       <td>
         <b>Sesión IV: Vulnerabilidades y ciber amenazas </b>
         <br><b> Presidente: </b> TBC
@@ -69,40 +69,39 @@ layout: page
         <!-- <a href="#A1"><b>Sesión de Investigación A1:</b> Detección de Intrusos y Gestión Anomalías</a> -->
         </tr>
      <tr>
-      <td><b>11:00</b></td>
+      <td><b>11:30</b></td>
       <td colspan="2">
         <b>Café.  <i> Sesión Poster día 2: Investigación ya publicada II </i> </b>
         <br>
         <ul>
-         <FONT SIZE=2><li> Evaluation of Supervised Learning Models Using TCP Traffic to Detect Botnets
-          <br> <i>Felipe Castaño, Javier Velasco Mata, Roberto Andrés Vasco Carofilis, Eduardo Fidalgo, Luis Fernández y George Azzopardi</i><br></li>
-           <li>Extracting Composition and Social Engineering Features to Measure Spam Address Credibility
-          <br> <i>Felipe Castaño, Francisco Jáñez-Martino, Pablo Blanco-Medina, Alexandra Bonnici, Santiago Gonzalez y Eduardo Fidalgo Fernandez</i> <br></li>
-          <li>A review of Towards a data collection methodology for Responsible Artificial Intelligence in health: A prospective and qualitative study in pregnancy
-          <br> <i>Andreea M. Oprescu, Gloria Miró-Amarante, Lutgardo García-Díaz, Victoria Rey, Ángel Chimenea-Toscano y Mcarmen Romero-Ternero</i> <br></li>
-          <li>Intelligent detection and recovery from cyberattacks for small and medium-sized enterprises
-          <br> <i>Carmen María Alba</i> <br></li>
-          <li>Dataset creation and feature extraction for the detection of fraudulent websites
-          <br> <i>Juan J. Delgado, Manuel Sánchez-Paniagua, Javier Velasco-Mata, Eduardo Fidalgo Fernandez, Juan Prieto Carballal y George Azzopardi</i> <br></li>
-          <li>Auto-encoder framework for extractive text summarization
-          <br> <i>Daniel Diaz, Akanksha Joshi, Javier Velasco-Mata, Juan José Delgado Sotes, Antonio Sepulveda y Guru Swaroop Bennabhaktula</i> <br></li>
-          <li>Review of Breaking Trivium Stream Cipher Implemented in ASIC Using Experimental Attacks and DFA
-          <br> <i>Francisco Eugenio Potestad-Ordóñez, Erica Tena-Sánchez, Carlos Fernández-García, Virginia Zuñiga-González, José Miguel Mora-Gutiérrez, Carmen Baena-Oliva, Pilar Parra-Fernández, Antonio José Acosta-Jiménez y Carlos Jesús Jiménez-Fernández</i> <br></li>
-          <li>A summary of “Defending Industry 4.0: An enhanced authentication scheme for IoT devices"
-          <br> <i>Nasour Bagheri, Saru Kumari, Carmen Camara y Pedro Peris-Lopez</i> <br></li>
-          <li>A Review of Noise-based Cyberattacks Generating Fake P300 Waves in Brain-Computer Interfaces
-          <br> <i>Enrique Tomás Martínez Beltrán, Mario Quiles Pérez, Sergio López Bernal, Alberto Huertas Celdrán y Gregorio Martínez Pérez</i> <br></li>
-          <li>A Review of "Evaluation of the Executional Power in Windows using Return Oriented Programming"
-          <br> <i>Daniel Uroz y Ricardo J. Rodríguez</i> <br></li>
-          <li>Classifying suspicious Pastebin content using Machine Learning
-          <br> <i>Daniel Diaz, Francisco Janez-Martino, Javier Velasco-Mata, Eduardo Fidalgo Fernandez, Oscar Garcia y Enrique Alegre</i> <br></li>
-          <li>A Review of Neuronal Jamming Cyberattack Over Invasive BCIs Affecting the Resolution of Tasks Requiring Visual Capabilities
-          <br> <i>Sergio López Bernal, Alberto Huertas Celdrán y Gregorio Martínez Pérez</i> <br></li></FONT>
+         <FONT SIZE=2><li>Extended abstract: Hardware-Software Contracts for Secure Speculation.
+          <br> <i>Marco Guarnieri, Boris Köpf, Jan Reineke and Pepe Vila</i><br></li>
+           <li>A Review of Federated Learning for Malware Detection in IoT Devices.
+          <br> <i>Valerian Rey, Pedro Miguel Sanchez, Alberto Huertas, Gérome Bovet, Gregorio Martínez Pérez y Burkhard Stiller</i> <br></li>
+          <li>An Optimizing Protocol Transformation for Constructor Finite Variant Theories in Maude-NPA.
+          <br> <i>Damian Aparicio Sanchez, Santiago Escobar, Julia Sapiña y Raul Gutierrez</i> <br></li>
+          <li>Review of Gate-Level Hardware Countermeasure Comparison Against Power Analysis Attacks.
+          <br> <i>Erica Tena-Sánchez, Francisco Eugenio Potestad Ordóñez, Virginia Zúñiga-González, Carlos Fernández-García, Jose Miguel Mora-Gutiérrez, Carlos J. Jiménez-Fernández y Antonio Acosta</i> <br></li>
+          <li>Semantic Attention Keypoint Filtering for Darknet Content Classification.
+          <br> <i>Aitor Del Río, Eduardo Fidalgo Fernandez, Pablo Blanco Medina, Deisy Chaves, Alejandro Prieto Castro y Enrique Alegre</i> <br></li>
+          <li>Image hashing based on frequency dominant neighborhood structure.
+          <br> <i>Rubel Biswas, Aitor Del Río, Roberto A Vasco Carofilis, Guru Swaroop Bennabhaktula, Verónica De Mata y Enrique Alegre</i> <br></li>
+          <li>Hardware dedicado para la optimización temporal del algoritmo NTRU.
+          <br> <i>Eros Camacho-Ruiz, Macarena C. Martínez-Rodríguez, Santiago Sánchez-Solano y Piedad Brox</i> <br></li>
+          <li>Diseño y evaluación de las prestaciones de funciones físicas no clonables basadas en osciladores en anillo sobre FPGAs.
+          <br> <i>Macarena C. Martínez-Rodríguez, Eros Camacho Ruiz, Santiago Sánchez Solano y Piedad Brox</i> <br></li>
+          <li>Optimal botnet detection on network data.
+          <br> <i>Daniel Diaz, Javier Velasco-Mata, Aitor Del Rio y Eduardo Fidalgo Fernandez</i> <br></li>
+          <li>A review of: Optimal Feature Configuration for Dynamic Malware Detection.
+          <br> <i>David Escudero García y Noemí DeCastro-García</i> <br></li>
+          <li>Zephyrus: An information hiding mechanism leveraging Ethereum data fields.
+          <br> <i>Mar Gimenez-Aguilar, Jose M. de Fuentes, Lorena González-Manzano y Carmen Camara</i> <br></li>
+          </FONT>
         </ul>
         </td>
     </tr>
     <tr>
-     <td><b>11:30</b></td>
+     <td><b>12:00</b></td>
       <td>
         <b>Sesión I: Seguridad web e Internet </b>
         <br><b> Presidente: </b> TBC
@@ -129,30 +128,11 @@ layout: page
         <br> 
       </tr>
     <tr>
-      <td><b>12:45</b></td>
-      <td>
-        <b>Sesión II: Formación e Innovación Educativa</b>
-        <br><b> Presidente:</b>  Jose Carlos Sancho (Universidad de Extremadura)
-        <br>
-        <ul>
-         <FONT SIZE=2><li>DIANA: Un asesor virtual inteligente para la transformación digital segura.
-          <br> <i>Marta Fuentes-García y Felipe Mirón</i><br></li>
-          <li>Capacidades avanzadas de simulación y evaluación en Cyber Ranges con elementos de gamificación.
-          <br> <i>Pantaleone Nespoli, José Antonio Pastor Valera, Mariano Albajadejo González, José Antonio Ruipérez Valiente y Félix Gómez Mármol</i><br></li>
-          <li>Ejercicio de cyber-range avanzado en una subestación eléctrica.
-          <br> <i>Cristina Regueiro, Angel López, Xabier Yurrebaso, Elixabete Ostolaza, Florian Gautier, Julien Calvas y Bernard Roussely</i><br></li>
-          <li>Herramienta de generación de tráfico realista basado en comportamiento de usuario para entornos Cyber Range.
-           <br><i>Mario Sanz-Rodrigo, Manuel Álvarez-Campana, Sonia Solera-Cotanilla, Diego Rivera-Pinto y Xavier Larriva-Novo</i><br></li>
-          </FONT>
-        </ul>
-        </td>
-    </tr>
-    <tr>
-      <td><b>13:45</b></td>
+      <td><b>13:30</b></td>
       <td colspan="2"><center><b>Comida</b></center></td>
     </tr>
     <tr>
-     <td><b>15:15</b></td>
+     <td><b>15:00</b></td>
       <td>
         <b>Sesión III: Vulnerabilidades y ciber amenazas</b>
         <br><b> Presidente: </b> TBC
