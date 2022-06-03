@@ -183,7 +183,7 @@ layout: page
         </ul>
         <br>
        <br>
-        Con la participación de: <a href="https://www.women4cyberspain.es/"><img src="/Logos/Women4Cyber.png"></a>
+        Organizada por: <a href="https://www.women4cyberspain.es/" target="_blank"><img src="/Logos/Women4Cyber.png"></a> <a href="https://www.basquecybersecurity.eus/es/" target="_blank"><img src="/images/patrocinadores/BCSC.png"></a>
         <br> 
        <!-- Organiza:<a href="http://www.pesi-seguridadindustrial.org/es"><img src="/Logos/pesi.png"></a>
         <br> -->
