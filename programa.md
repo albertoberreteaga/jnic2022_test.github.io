@@ -28,7 +28,7 @@ layout: page
     <tr>
       <td><b>19:30</b></td>
       <td colspan="2">
-        <b>Evento de bienvenoda. <a href="http://happyriver.es/" target="_blank">Happy Rivers</a>.</b> 
+        <b>Evento de bienvenida. <a href="http://happyriver.es/" target="_blank">Happy Rivers</a>.</b> 
        </td>
     </tr>
   </tbody>
