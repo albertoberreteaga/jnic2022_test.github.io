@@ -57,7 +57,7 @@ layout: page
           <li>Simulador de APTs realistas basado en el marco de MITRE ATT&CK.
           <br> <i>Xavier Larriva-Novo, Victor Villagra, Oscar Jover, Mario Sanz Rodrigo, Carmen Sánchez-Zas y Manuel Alvarez-Campana</i><br></li>
           <li>Estudio de modelado de periféricos para habilitar emulaciones de firmware embebido.
-          <br> <i>Xabier Gandiaga, Urko Zurutuza y Iñaki Garitano</i><br></li>          
+          <br> <i>Xabier Gandiaga, Urko Zurutuza y Iñaki Garitano</i></li>          
           </FONT>
         </ul>
         </td>
@@ -90,7 +90,7 @@ layout: page
           <li>A review of: Optimal Feature Configuration for Dynamic Malware Detection.
           <br> <i>David Escudero García y Noemí DeCastro-García</i> <br></li>
           <li>Zephyrus: An information hiding mechanism leveraging Ethereum data fields.
-          <br> <i>Mar Gimenez-Aguilar, Jose M. de Fuentes, Lorena González-Manzano y Carmen Camara</i> <br></li>
+          <br> <i>Mar Gimenez-Aguilar, Jose M. de Fuentes, Lorena González-Manzano y Carmen Camara</i></li>
           </FONT>
         </ul>
         </td>
@@ -115,7 +115,7 @@ layout: page
           <li>Aleatorización de direcciones IP para mitigar ataques de reconocimiento de forma proactiva en sistemas de control industrial.
           <br> <i>Xabier Etxezarreta, Iñaki Garitano, Mikel Iturbe y Urko Zurutuza</i><br></li>
           <li>An ML and Behavior Fingerprinting-based Framework for Cyberattack Detection in IoT Crowdsensing Platforms.
-          <br> <i>Pedro Miguel Sanchez Sanchez, Alberto Huertas Celdran, Gerome Bovet, Gregorio Martinez Perez y Burkhard Stiller</i><br></li>
+          <br> <i>Pedro Miguel Sanchez Sanchez, Alberto Huertas Celdran, Gerome Bovet, Gregorio Martinez Perez y Burkhard Stiller</i></li>
           </FONT>
         </ul>
         </td>
@@ -132,7 +132,7 @@ layout: page
         <br>
         <b>Moderador</b>:Sra. Nerea Martiartu, Lantik.
         <br>
-       <b>Participantes</b>:
+       <b>Participantes</b>: TBC
         <br>
         <!-- <ul>
           <FONT SIZE=2><li>Sr. Oscar Lage. Responsable de CyberSeguridas, TECNALIA.</li>
@@ -170,7 +170,7 @@ layout: page
          <ul>
           <FONT SIZE=2><li> <b> Mejor Tesis Doctoral: <i> “Towards Decentralized And Scalable Architectures For Access Control Systems For IIoT Scenarios”</i></b> <br>           <i>Dr. Sr. Santiago Figueroa Lorenzo</i><br></li>
           <li> <b> Mejor TFM: <i> “Extracción y Análisis de Artefactos de Memoria de la Aplicación Telegram Desktop”</i></b> <br> 
-           <i>Sr. Pedro Fernández Álvarez</i><br></li></FONT>
+           <i>Sr. Pedro Fernández Álvarez</i></li></FONT>
         </ul>
        </td>
      </tr>
