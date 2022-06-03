@@ -81,7 +81,7 @@ layout: page
           <li>Classifying suspicious Pastebin content using Machine Learning
           <br> <i>Daniel Diaz, Francisco Janez-Martino, Javier Velasco-Mata, Eduardo Fidalgo Fernandez, Oscar Garcia y Enrique Alegre</i> <br></li>
           <li>A Review of Neuronal Jamming Cyberattack Over Invasive BCIs Affecting the Resolution of Tasks Requiring Visual Capabilities
-          <br> <i>Sergio López Bernal, Alberto Huertas Celdrán y Gregorio Martínez Pérez</i> <br></li></FONT>
+          <br> <i>Sergio López Bernal, Alberto Huertas Celdrán y Gregorio Martínez Pérez</i></li></FONT>
         </ul>
         </td>
     </tr>
@@ -105,7 +105,7 @@ layout: page
           <li>Generación sintética de tráfico de red con Deep Learning: botnet Neris como caso de estudio.
           <br> <i>Francisco Álvarez-Terribas, Roberto Magán-Carrión, Gabriel Maciá-Fernández y Antonio M. Mora García</i><br></li>
           <li>Análisis estadístico del tráfico DoH para la detección del uso malicioso de túneles.
-          <br> <i>Marta Moure-Garrido, Celeste Campo y Carlos Garcia-Rubio</i><br></li>
+          <br> <i>Marta Moure-Garrido, Celeste Campo y Carlos Garcia-Rubio</i></li>
           </FONT>
         </ul>
         </td>
@@ -126,7 +126,7 @@ layout: page
           <li>Ejercicio de cyber-range avanzado en una subestación eléctrica.
           <br> <i>Cristina Regueiro, Angel López, Xabier Yurrebaso, Elixabete Ostolaza, Florian Gautier, Julien Calvas y Bernard Roussely</i><br></li>
           <li>Herramienta de generación de tráfico realista basado en comportamiento de usuario para entornos Cyber Range.
-           <br><i>Mario Sanz-Rodrigo, Manuel Álvarez-Campana, Sonia Solera-Cotanilla, Diego Rivera-Pinto y Xavier Larriva-Novo</i><br></li>
+           <br><i>Mario Sanz-Rodrigo, Manuel Álvarez-Campana, Sonia Solera-Cotanilla, Diego Rivera-Pinto y Xavier Larriva-Novo</i></li>
           </FONT>
         </ul>
         </td>
@@ -153,7 +153,7 @@ layout: page
           <li>Model-Based Analysis of Race Condition Vulnerabilities in Source Code.
           <br> <i>Razvan Raducu, Ricardo J. Rodríguez y Pedro Alvarez</i><br></li>
           <li>FATR: a Framework for Automated Analysis of Threat Reports.
-          <br> <i>Juan Caballero, Gibran Gómez, Srdjan Matic, Gustavo Sánchez, Silvia Sebastián y Arturo Villacañas</i><br></li>
+          <br> <i>Juan Caballero, Gibran Gómez, Srdjan Matic, Gustavo Sánchez, Silvia Sebastián y Arturo Villacañas</i></li>
           </FONT>
         </ul>
         </td>
