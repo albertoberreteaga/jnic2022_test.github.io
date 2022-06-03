@@ -61,8 +61,7 @@ layout: page
           </FONT>
         </ul>
         </td>
-        <!-- <a href="#A1"><b>Sesión de Investigación A1:</b> Detección de Intrusos y Gestión Anomalías</a> -->
-        </tr>
+       </tr>
      <tr>
       <td><b>11:30</b></td>
       <td colspan="2">
@@ -119,7 +118,6 @@ layout: page
           </FONT>
         </ul>
         </td>
-        <!-- <a href="#A1"><b>Sesión de Investigación A1:</b> Detección de Intrusos y Gestión Anomalías</a> -->
         </tr>
     <tr>
       <td><b>13:30</b></td>
@@ -142,9 +140,7 @@ layout: page
           <li>Sr. Gerard Vidal, Enigmedia. </li> </FONT>
         </ul> -->
          Organizada por: <a href="https://lantik.bizkaia.eus/es/inicio" target="_blank"><img style="max-height: 100px; padding:25px;" src="/images/patrocinadores/DFB-lantik.png"></a>
-        <br> 
-       <!-- Organiza:<a href="http://www.pesi-seguridadindustrial.org/es"><img src="/Logos/pesi.png"></a>
-        <br> -->
+        <br>
       </td>
     </tr>
     <tr>
