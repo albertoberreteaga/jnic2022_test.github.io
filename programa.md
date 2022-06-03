@@ -18,6 +18,22 @@ layout: page
 <a href="{{site.url}}/programa28"><img src="{{site.url}}/images/ico28.PNG" class="img-circle" 	width="20" height="20"><strong>&nbsp;28 Junio</strong></a>&nbsp;&nbsp;&nbsp;
 <a href="{{site.url}}/programa29"><img src="{{site.url}}/images/ico29.PNG" class="img-circle" 	width="20" height="20"><strong>&nbsp;29 Junio</strong></a>&nbsp;&nbsp;&nbsp;
 </div>
+<h5>Domingo 26 de Junio</h5>
+<table class="table" style="width:100%">
+  <tbody valign="top">
+    <tr>
+      <th>Hora</th>
+      <th colspan="2">Sesión</th>
+    </tr>
+    <tr>
+      <td><b>19:30</b></td>
+      <td colspan="2">
+        <b>Evento de bienvenoda. <a href="http://happyriver.es/" target="_blank">Happy Rivers</a>.</b> 
+       </td>
+    </tr>
+  </tbody>
+</table>
+
 <h5>Lunes 27 de Junio</h5>
 <table class="table" style="width:100%">
   <tbody valign="top">
