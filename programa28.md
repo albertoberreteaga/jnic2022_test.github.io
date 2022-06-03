@@ -134,7 +134,7 @@ layout: page
         <br>
        <b>Participantes</b>:
         <br>
-        <!--><ul>
+        <!-- <ul>
           <FONT SIZE=2><li>Sr. Oscar Lage. Responsable de CyberSeguridas, TECNALIA.</li>
           <li>Iberdrola / Kutxabank. </li>
           <li>Sr. Eduardo Jacob, UPV/EHU.</li>
