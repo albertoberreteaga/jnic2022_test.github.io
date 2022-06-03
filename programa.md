@@ -13,7 +13,7 @@ layout: page
 </div><br>
 
 ### __Programa JNIC 2022__
-
+<br>
 <a href="{{site.url}}/programa"><img src="{{site.url}}/images/ico27.PNG" class="img-circle" 	width="30" height="30"><strong>27 Junio</strong></a> &nbsp;&nbsp;&nbsp;
 <a href="{{site.url}}/programa28"><img src="{{site.url}}/images/ico28.PNG" class="img-circle" 	width="30" height="30"><strong>28 Junio</strong></a>&nbsp;&nbsp;&nbsp;
 <a href="{{site.url}}/programa29"><img src="{{site.url}}/images/ico29.PNG" class="img-circle" 	width="30" height="30"><strong>29 Junio</strong></a>&nbsp;&nbsp;&nbsp;
@@ -21,7 +21,7 @@ layout: page
  <!-- <center><a href="https://app.sli.do/event/ed1p6not" target="_slido"><img src="{{site.url}}/images/slido.jpg" width="300"></a></center> -->
 <!-- <center><a href="https://sli.do/" target="_slido"><img src="{{site.url}}/images/slido.jpg" width="300"></a></center> -->
 
-<h4>Lunes 27 de Junio</h4>
+<h5>Lunes 27 de Junio</h5>
 <table class="table" style="width:100%">
   <tbody valign="top">
     <tr>
