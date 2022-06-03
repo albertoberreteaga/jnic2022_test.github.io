@@ -133,13 +133,14 @@ layout: page
         <b>Moderador</b>:Sra. Nerea Martiartu, Lantik.
         <br>
        <b>Participantes</b>:
-        <ul>
+        <br>
+        <!--><ul>
           <FONT SIZE=2><li>Sr. Oscar Lage. Responsable de CyberSeguridas, TECNALIA.</li>
           <li>Iberdrola / Kutxabank. </li>
           <li>Sr. Eduardo Jacob, UPV/EHU.</li>
           <li>Sr. Iñaki Pinto, Sener.</li>
           <li>Sr. Gerard Vidal, Enigmedia. </li> </FONT>
-        </ul>
+        </ul> -->
          Organizada por: <a href="https://lantik.bizkaia.eus/es/inicio" target="_blank"><img style="max-height: 100px; padding:25px;" src="/images/patrocinadores/DFB-lantik.png"></a>
         <br> 
        <!-- Organiza:<a href="http://www.pesi-seguridadindustrial.org/es"><img src="/Logos/pesi.png"></a>
