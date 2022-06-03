@@ -37,7 +37,7 @@ A continuación, detallamos las actividades sociales de JNIC 2022, centrados en 
        </tr>
    <tr style="vertical-align: top;">
     <td style="width: 49%; text-align: center;">
-      <p style="text-align:center"> Evento de bienvenida donde nos reencontraremos y charlaremos tranquilamente con un pequeño lunch. <a href="https://yimbysota.com/sala-smith/" target="_blank">Evento bienvenida</a>.</p>
+      <p style="text-align:center"> Evento de bienvenida donde nos reencontraremos y charlaremos tranquilamente con un pequeño picoteo. <a href="http://happyriver.es/" target="_blank">Evento bienvenida</a>.</p>
     </td>
     </tr>
  </table>
