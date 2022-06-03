@@ -173,17 +173,14 @@ layout: page
         <br>
         <b>Moderador</b>: Ana Ayerbe (TECNALIA-BRTA y WOMEN4CYBER)
         <br>
-        Participantes:
+       <b>Participantes</b>:
         <ul>
-          <li>Sr. </li>
-          <li>Sr. </li>
-          <li>Sr. </li>
-          <li>Sr. </li>
-          <li>Sra. </li>
+          <FONT SIZE=2><li>Sra. Iratxe Martin. Responsable de Infraestructuras del Basque Cybersecurity Center (BCSC)  </li>
+          <li>Sra. Garbiñe Manterola.  Knowledge Transfer Manager del Basque Research & Technology Alliance (BRTA)</li>
+          <li>Sra. Eva Ferreira. Rectora de la UPV/EHU</li>
+          <li>Sra. Lola Rebollo. Gerente del área de Apoyo a la Empresa, Industria, Emprendimiento e I+D+i (INCIBE)</li> </FONT>
         </ul>
-        <br>
-       <br>
-        Organizada por: <a href="https://www.women4cyberspain.es/" target="_blank"><img style="max-height: 70px; padding:25px;" src="/Logos/Women4Cyber.png"></a> <a href="https://www.basquecybersecurity.eus/es/" target="_blank"><img style="max-height: 70px; padding:25px;" src="/images/patrocinadores/BCSC.png"></a>
+         Organizada por: <a href="https://www.women4cyberspain.es/" target="_blank"><img style="max-height: 100px; padding:25px;" src="/Logos/Women4Cyber.png"></a> <a href="https://www.basquecybersecurity.eus/es/" target="_blank"><img style="max-height: 100px; padding:25px;" src="/images/patrocinadores/BCSC.png"></a>
         <br> 
        <!-- Organiza:<a href="http://www.pesi-seguridadindustrial.org/es"><img src="/Logos/pesi.png"></a>
         <br> -->
