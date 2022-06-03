@@ -183,7 +183,7 @@ layout: page
         </ul>
         <br>
        <br>
-        Organizada por: <a href="https://www.women4cyberspain.es/" target="_blank"><img src="/Logos/Women4Cyber.png"></a> <a href="https://www.basquecybersecurity.eus/es/" target="_blank"><img src="/images/patrocinadores/BCSC.png"></a>
+        Organizada por: <a href="https://www.women4cyberspain.es/" target="_blank"><img style="max-height: 70px; padding:25px;" src="/Logos/Women4Cyber.png"></a> <a href="https://www.basquecybersecurity.eus/es/" target="_blank"><img style="max-height: 70px; padding:25px;" src="/images/patrocinadores/BCSC.png"></a>
         <br> 
        <!-- Organiza:<a href="http://www.pesi-seguridadindustrial.org/es"><img src="/Logos/pesi.png"></a>
         <br> -->
