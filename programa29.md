@@ -115,13 +115,15 @@ layout: page
        </tr>
     <tr>
       <td><b>13:30</b></td>
-      <td colspan="2"><b>Clausura de las jornadas</b>
-      <ul>
+      <td colspan="2"><b>Clausura oficial de JNIC 2022</b>
+      <!-- <ul>
          <FONT SIZE=2><li>Sr. D. Joseba Laka. Director Unidad DIGITAL de TECNALIA</li>
+          <li>Representación DFB: Confirmar</li> 
           <li>Sra. Lorena  González. Universidad Carlos III de Madrid. Presidenta del Comité de Programa Científico</li>
           <li>Sr. José María de Fuentes. Universidad Carlos III de Madrid. Presidenta del Comité de Programa Científico</li>
           <li>Representación INCIBE: Confirmar</li></FONT>
-        </ul> </td>
+        </ul> -->
+       </td>
     </tr>
     <tr>
       <td><b>14:00</b></td>
