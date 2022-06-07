@@ -74,13 +74,13 @@ layout: page
           <br> <i>Daniel Diaz, Akanksha Joshi, Javier Velasco-Mata, Juan José Delgado Sotes, Antonio Sepulveda y Guru Swaroop Bennabhaktula</i> <br></li>
           <li>Review of Breaking Trivium Stream Cipher Implemented in ASIC Using Experimental Attacks and DFA
           <br> <i>Francisco Eugenio Potestad-Ordóñez, Erica Tena-Sánchez, Carlos Fernández-García, Virginia Zuñiga-González, José Miguel Mora-Gutiérrez, Carmen Baena-Oliva, Pilar Parra-Fernández, Antonio José Acosta-Jiménez y Carlos Jesús Jiménez-Fernández</i> <br></li>
-          <li>A summary of “Defending Industry 4.0: An enhanced authentication scheme for IoT devices"
-          <br> <i>Nasour Bagheri, Saru Kumari, Carmen Camara y Pedro Peris-Lopez</i> <br></li>
           <li>A Review of Noise-based Cyberattacks Generating Fake P300 Waves in Brain-Computer Interfaces
           <br> <i>Enrique Tomás Martínez Beltrán, Mario Quiles Pérez, Sergio López Bernal, Alberto Huertas Celdrán y Gregorio Martínez Pérez</i> <br></li>
           <li>A Review of "Evaluation of the Executional Power in Windows using Return Oriented Programming"
           <br> <i>Daniel Uroz y Ricardo J. Rodríguez</i> <br></li>
-          <li>Classifying suspicious Pastebin content using Machine Learning
+          <li>A review of: Optimal Feature Configuration for Dynamic Malware Detection.
+          <br> <i>David Escudero García y Noemí DeCastro-García</i> <br></li>
+           <li>Classifying suspicious Pastebin content using Machine Learning
           <br> <i>Daniel Diaz, Francisco Janez-Martino, Javier Velasco-Mata, Eduardo Fidalgo Fernandez, Oscar Garcia y Enrique Alegre</i> <br></li>
           <li>A Review of Neuronal Jamming Cyberattack Over Invasive BCIs Affecting the Resolution of Tasks Requiring Visual Capabilities
           <br> <i>Sergio López Bernal, Alberto Huertas Celdrán y Gregorio Martínez Pérez</i></li></FONT>
