@@ -93,7 +93,7 @@ layout: page
     <tr>
      <td><b>12:15</b></td>
       <td>
-        <b>Sesión VII: Seguridad web e Internet </b>
+        <b>Sesión VII: Criptografía y herramientas matemáticas  </b>
         <br><b> Presidente: </b> TBC
         <br>
         <ul>
