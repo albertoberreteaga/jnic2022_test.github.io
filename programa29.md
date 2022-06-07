@@ -81,7 +81,7 @@ layout: page
           <li>FENIoT: Un nodo edge computing para las investigaciones forenses en el Internet de las Cosas.
           <br> <i>Juan Manuel Castelo Gómez, Sergio Ruiz Villafranca y José Luis Martinez Martínez</i> <br></li>
           <li>Diseño de un ecosistema DTN basado en NFV para el análisis de ciberseguridad en redes 5G.
-          <br> <i>Mario Sanz-Rodrigo, Diego Rivera-Lopez, José Ignacio Moreno-Novella y Xavier Larriva-Novo</i> <br></li>
+          <br> <i>Mario Sanz-Rodrigo, Diego Rivera-Pinto, José Ignacio Moreno-Novella y Xavier Larriva-Novo</i> <br></li>
           <li>Advisory: Análisis de vulnerabilidades en proyectos de desarrollo software.
           <br> <i>Antonio German Márquez Trujillo, Ángel Jesús Varela Vaca, José A. Galindo, María Teresa Gómez López y David Benavides Cuevas</i> <br></li>
           <li>Secure Platform for ICT Systems Rooted at the Silicon Manufacturing Process (SPIRS).
