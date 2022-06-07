@@ -99,8 +99,8 @@ layout: page
         <ul>
          <FONT SIZE=2><li>Análisis estadístico seguro para ensayos clínicos.
           <br> <i>Alicia Quirós, Diego Simón and Adriana Suárez Corona</i><br></li>
-          <li>QuantumSolver: Librería para el desarrollo cuántico.
-          <br> <i>José Daniel Escánez-Expósito, Pino Caballero-Gil y Francisco Martín-Fernández</i><br></li>
+          <li>A Security and Trust Framework for Decentralized 5G Marketplaces.
+          <br> <i>José María Jorquera Valero, Manuel Gil Pérez and Gregorio Martínez Pérez</i><br></li>
           <li>Privacidad y seguridad en Federated Learning: Combinando ambas mediante SCALE-MAMBA.
           <br> <i>Idoia Gamiz Ugarte, Cristina Regueiro Senderos, Oscar Lage Serrano y Eduardo Jacob Taquet</i><br></li>
           <li>Estudio comparativo de rendimiento de frameworks de criptografía homomórfica.
