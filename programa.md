@@ -100,17 +100,16 @@ layout: page
           <br> <i>Javier Muñoz, Felipe Bueno, Rafael Estepa, Antonio Estepa Alonso y Jesús E. Diaz-Verdejo</i><br></li>
           <li>Hunting@home: Plug and Play setup for intrusion detection in home networks.
           <br> <i>Lorena Mehavilla, José García y Alvaro Alesanco</i><br></li>
-          <li>A Security and Trust Framework for Decentralized 5G Marketplaces.
-          <br> <i>José María Jorquera Valero, Manuel Gil Pérez and Gregorio Martínez Pérez</i><br></li>
           <li>Designing a platform for discovering TOR onion services.
           <br> <i>Javier Pastor-Galindo, Roberto Sáez Ruiz, Jorge Maestre Vidal, Marco Antonio Sotelo Monge, Félix Gómez Mármol y Gregorio Martínez Pérez</i><br></li>
           <li>Generación sintética de tráfico de red con Deep Learning: botnet Neris como caso de estudio.
           <br> <i>Francisco Álvarez-Terribas, Roberto Magán-Carrión, Gabriel Maciá-Fernández y Antonio M. Mora García</i><br></li>
           <li>Análisis estadístico del tráfico DoH para la detección del uso malicioso de túneles.
           <br> <i>Marta Moure-Garrido, Celeste Campo y Carlos Garcia-Rubio</i></li>
-          </FONT>
+          <li>FCTNLP: An architecture to fight cyberterrorism with natural language processing.
+          <br> <i>Andrés Zapata, Daniel Díaz-López, Javier Pastor-Galindo y Félix Gómez Mármol</i><br></li></FONT>
         </ul>
-        </td>       
+        </td>        
       </tr>
     <tr>
       <td><b>12:45</b></td>
@@ -142,9 +141,7 @@ layout: page
         <br><b> Presidente: </b> TBC
         <br>
         <ul>
-         <FONT SIZE=2><li>FCTNLP: An architecture to fight cyberterrorism with natural language processing.
-          <br> <i>Andrés Zapata, Daniel Díaz-López, Javier Pastor-Galindo y Félix Gómez Mármol</i><br></li>
-          <li>Estrategias de inmunización selectiva para la mitigación del movimiento lateral.
+         <FONT SIZE=2> <li>Estrategias de inmunización selectiva para la mitigación del movimiento lateral.
           <br> <i>David Herranz Oliveros, Iván Marsá Maestre y José Manuel Giménez Guzmán</i><br></li>
           <li>Revisión sistemática de técnicas de aprendizaje automático para la detección de Amenazas Persistentes Avanzadas (APT) utilizando flujos de red en formato NetFlow.
           <br> <i>Christian Vega Gonzáleáz, Adrián Campazas Vega, Ignacio Samuel Crespo Martínez, Ángel Manuel Guerrero Higueras y Vicente Matellán Olivera</i><br></li>
@@ -154,6 +151,8 @@ layout: page
           <br> <i>Razvan Raducu, Ricardo J. Rodríguez y Pedro Alvarez</i><br></li>
           <li>FATR: a Framework for Automated Analysis of Threat Reports.
           <br> <i>Juan Caballero, Gibran Gómez, Srdjan Matic, Gustavo Sánchez, Silvia Sebastián y Arturo Villacañas</i></li>
+          <li>QuantumSolver: Librería para el desarrollo cuántico.
+          <br> <i>José Daniel Escánez-Expósito, Pino Caballero-Gil y Francisco Martín-Fernández</i><br></li>
           </FONT>
         </ul>
         </td>        
