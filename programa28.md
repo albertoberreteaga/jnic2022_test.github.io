@@ -87,8 +87,8 @@ layout: page
           <br> <i>Macarena C. Martínez-Rodríguez, Eros Camacho Ruiz, Santiago Sánchez Solano y Piedad Brox</i> <br></li>
           <li>Optimal botnet detection on network data.
           <br> <i>Daniel Diaz, Javier Velasco-Mata, Aitor Del Rio y Eduardo Fidalgo Fernandez</i> <br></li>
-          <li>A review of: Optimal Feature Configuration for Dynamic Malware Detection.
-          <br> <i>David Escudero García y Noemí DeCastro-García</i> <br></li>
+          <li>A summary of “Defending Industry 4.0: An enhanced authentication scheme for IoT devices"
+          <br> <i>Nasour Bagheri, Saru Kumari, Carmen Camara y Pedro Peris-Lopez</i> <br></li>
           <li>Zephyrus: An information hiding mechanism leveraging Ethereum data fields.
           <br> <i>Mar Gimenez-Aguilar, Jose M. de Fuentes, Lorena González-Manzano y Carmen Camara</i></li>
           </FONT>
