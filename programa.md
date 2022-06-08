@@ -178,7 +178,9 @@ layout: page
           <li>Sra. Eva Ferreira. Rectora de la UPV/EHU</li>
           <li>Sra. Lola Rebollo. Gerente del área de Apoyo a la Empresa, Industria, Emprendimiento e I+D+i (INCIBE)</li> </FONT>
         </ul> -->
-         Organizada por: <a href="https://www.women4cyberspain.es/" target="_blank"><img style="max-height: 100px; padding:25px;" src="/Logos/Women4Cyber.png"></a> <a href="https://www.basquecybersecurity.eus/es/" target="_blank"><img style="max-height: 100px; padding:25px;" src="/images/patrocinadores/BCSC.png"></a> <a href="https://www.tecnalia.com" target="_blank"><img style="max-height: 100px; padding:25px;" src="/images/patrocinadores/TECNALIA_BRT.jpg"></a>
+         Organizada por: <a href="https://www.women4cyberspain.es/" target="_blank"><img style="max-height: 100px; padding:25px;" src="/Logos/Women4Cyber.png"></a> 
+        <a href="https://www.basquecybersecurity.eus/es/" target="_blank"><img style="max-height: 100px; padding:25px;" src="/images/patrocinadores/BCSC.png"></a> 
+        <a href="https://www.tecnalia.com" target="_blank"><img style="max-height: 100px; padding:25px;" src="/images/patrocinadores/TECNALIA_BRT.jpg"></a>
         <br> 
        <!-- Organiza:<a href="http://www.pesi-seguridadindustrial.org/es"><img src="/Logos/pesi.png"></a>
         <br> -->
