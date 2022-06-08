@@ -50,7 +50,7 @@ layout: page
          <FONT SIZE=2><li> A Review of Kubernetes Security Vulnerabilities, Attacks and Practices.
           <br> <i>Santiago Figueroa Lorenzo y Saioa Arrizabalaga</i><br></li>
           <li>Plataforma Europea para adquisición de Consciencia de Situación del Ciberespacio.
-          <br> <i>Jorge Maestre Vidal, Marco Antonio Sotelo Monge, Francisco Antonio Rodriguez Lopez, Monica Mateos Calle, Daniel Tornero Sánchez, Juan Manuel Estevez Tapiador, Víctor Abraham Villagrá Gonzalez, Rebeca Gomez Henche y Israel Perez Llopis</i><br></li>
+          <br> <i>Jorge Maestre Vidal, Marco Antonio Sotelo Monge, Francisco Antonio Rodriguez Lopez, Monica Mateos Calle, Daniel Tornero Sánchez, Juan Manuel Estevez Tapiador, Víctor Abraham Villagrá Gonzalez, Rebeca Gomez Henche y Mario Aragonés Lozano</i><br></li>
           <li>Privacidad contextual en entornos Edge.
           <br> <i>Manuel Ruiz Ruiz, Rubén Ríos del Pozo, Rodrigo Román Castro y Javier López Muñoz</i><br></li>
           <li>ChaosXploit: A Security Chaos Engineering framework based on Attack Trees.
