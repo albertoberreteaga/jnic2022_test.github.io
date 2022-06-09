@@ -102,7 +102,7 @@ layout: page
           <br> <i>Lorena Mehavilla, José García y Alvaro Alesanco</i><br></li>
           <li>Designing a platform for discovering TOR onion services.
           <br> <i>Javier Pastor-Galindo, Roberto Sáez Ruiz, Jorge Maestre Vidal, Marco Antonio Sotelo Monge, Félix Gómez Mármol y Gregorio Martínez Pérez</i><br></li>
-          <li>Generación sintética de tráfico de red con Deep Learning: botnet Neris como caso de estudio.
+          <li>Generación sintética de topologías de red con Deep Learning: la botnet Neris como caso de estudio.
           <br> <i>Francisco Álvarez-Terribas, Roberto Magán-Carrión, Gabriel Maciá-Fernández y Antonio M. Mora García</i><br></li>
           <li>Análisis estadístico del tráfico DoH para la detección del uso malicioso de túneles.
           <br> <i>Marta Moure-Garrido, Celeste Campo y Carlos Garcia-Rubio</i></li>
