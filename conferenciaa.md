@@ -13,14 +13,15 @@ layout: page
 <!--<a href="{{site.url}}/track-transferencia" class=""><img src="{{site.url}}/images/IcoTrackTX.jpg" class="img-circle" 	width="40" height="40"><strong>Track de Transferencia</strong></a> -->
 </div><br>
 
-# Conferencia Invitada - Towards a quantitative approach to security
-## por Valentina Casola
+## Conferencia Invitada - Towards a quantitative approach to security
+### por Valentina Casola
 
 <!-- La Computación Cuántica modifica muchas de las cosas que son pilares para los negocios de hoy. La manera en la que creamos y mantenemos secreto va a ser pronto alterada por tecnologías cuánticas que modificarán diversos sectores, diferentes industrias. Basada en la teoría de la mecánica y la física cuántica, si los ordenadores cuánticos existieran hoy representaría un salto de gigante en la velocidad y el poder computacional así como en el uso de la tecnología. ¿Pero existen realmente y qué podemos hacer con ellos? Hay inversiones multimillonarias alrededor del mundo en esta disciplina y, de la misma manera que existió una carrera espacial y en el uso de la energía nuclear, han habido avances fundamentales en computación cuántica en pocos años. No es esta una era de cambios sino un cambio de era. Al asistir a esta sesión se podrá comprender el estado de las tecnologías cuánticas hoy y qué suponen para las organizaciones y la sociedad en la que vivimos. Se podrá conocer el impacto inequívoco de todo ello, especialmente en lo que se refiere a Ciberseguridad. Y es que la Computación Cuántica no es un Revolución... sino una Re-Evolución. -->
 
 [Volver al Programa de JNIC 2022](https://2022.jnic.es/programa)
-## Valentina Casola
-![Valentina Casola]({{site.url}}/images/Casola_white.jpeg)
+### Valentina Casola
+<center>
+![Valentina Casola]({{site.url}}/images/Casola_white.jpeg)</center>
 
 Prof. Valentina Casola is currently an Associate Professor at the Department of Electrical Engineering and Information Technology of the University of Napoli Federico II, Italy. She received the MSc degree in Electronic Engineering from the University of Napoli Federico II, magna cum laude, in 2001. She got a Ph.D. in Computer Engineering from the Second University of Napoli in 2004. 
 She has been teaching Secure System Design and Computer Architecture since 2005. 
