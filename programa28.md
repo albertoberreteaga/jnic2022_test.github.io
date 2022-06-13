@@ -33,8 +33,8 @@ layout: page
     <tr>
      <td><b>9:00</b></td>
       <td colspan="2">
-        <b>Conferencia invitada: </b>
-       <!-- <a href="http://2021.jnic.es/conferenciaa"><b>Conferencia invitada: </b><i>Computación Cuántica: La Re-evolución</i></a> -->
+        <!--<b>Conferencia invitada: </b> -->
+        <a href="http://jnic2022.mytri.cc/conferenciab"><b>Conferencia invitada: </b><i>"Combating the Internet of Evil Things: detecting, profiling and mitigating IoT-based attacks"</i></a>
         <br>
         <i>Carlos H Gañan -- Delft University</i>
         <br>
