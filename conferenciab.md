@@ -16,8 +16,8 @@ layout: page
 ### por Carlos H. Gañan
 
 Despite the benefits of the widespread deployment of diverse Internet-enabled devices such as IP cameras and smart home appliances - the so-called Internet of Things (IoT) has amplified the attack surface that is being leveraged by cyber criminals. While manufacturers keep deploying new products, infected devices can be counted in the millions and spreading at an alarming rate all over consumer and business networks. How can we detect these infections? Who is responsible for this problem? How can we deploy effective countermeasures?
-<!--
-[Volver al Programa de JNIC 2022](https://2022.jnic.es/programa)-->
+
+<br>
 ### Carlos H. Gañan
 <center>
 <img src= "{{site.url}}/images/carlos.jpg">
@@ -25,4 +25,4 @@ Despite the benefits of the widespread deployment of diverse Internet-enabled de
 
 Carlos is an associate professor at Delft University of Technology in the Netherlands and lead security researcher at ICANN. His research focuses on measuring and improving the resiliency and stability of the Internet and in particular the internet of things. He leverages socio-technical approaches that combine big data analysis techniques and network science methods to understand cybersecurity issues.  Carlos hold a M.Sc in telematics, telecommunications and business administration as well as a Ph.D. in network security from the Technical University of Catalonia. 
 
-[Volver al Programa de JNIC 2022](https://2022.jnic.es/programa)
+[Volver al Programa de JNIC 2022](https://2022.jnic.es/programa28)
