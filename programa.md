@@ -47,8 +47,8 @@ layout: page
     <tr>
      <td><b>10:00</b></td>
       <td colspan="2">
-        <b>Conferencia invitada: "Towards a quantitative approach to security" </b>
-        <a href="http://jnic2022.mytri.cc/conferenciaa"><b>Conferencia invitada: </b><i>Computación Cuántica: La Re-evolución</i></a>
+        <!--<b>Conferencia invitada: "Towards a quantitative approach to security" </b>-->
+        <a href="http://jnic2022.mytri.cc/conferenciaa"><b>Conferencia invitada: </b><i>"Towards a quantitative approach to security"</i></a>
         <br>
         <i>Valentina Casola --  Dipartimento di Ingegneria Elettrica e Tecnologie dell'Informazione, University of Naples Federico</i>
         <br>
