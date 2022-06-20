@@ -186,6 +186,12 @@ layout: page
         <br> -->
       </td>
     </tr>
+    <tr>
+      <td><b>17:45</b></td>
+      <td colspan="2">
+        <b>Fin del primer día</b> 
+       </td>
+    </tr>
    <tr>
       <td><b>19:00</b></td>
       <td colspan="2">
