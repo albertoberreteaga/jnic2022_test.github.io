@@ -172,7 +172,13 @@ layout: page
        </td>
      </tr>
    <tr>
-      <td><b>19:30</b></td>
+     <tr>
+      <td><b>17:45</b></td>
+      <td colspan="2">
+        <b>Fin del segundo día</b> 
+       </td>
+    </tr> 
+     <td><b>19:30</b></td>
       <td colspan="2">
         <b>Visita guiada por Bilbao</b> 
        </td>
