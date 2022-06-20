@@ -37,7 +37,7 @@ layout: page
      <td><b>10:30</b></td>
       <td>
         <b>Sesión VI: Mecanismos de protección del usuario </b>
-        <br><b> Presidente: </b> TBC
+        <br><b> Presidente: </b> Victor A. Villagrá González, Universidad Politécnica de Madrid.
         <br>
         <ul>
          <FONT SIZE=2><li>Automatizando RGPD 2016/679 mediante Procesos de Negocio: El caso del Artículo 32.
@@ -94,7 +94,7 @@ layout: page
      <td><b>12:15</b></td>
       <td>
         <b>Sesión VII: Criptografía y herramientas matemáticas  </b>
-        <br><b> Presidente: </b> TBC
+        <br><b> Presidente: </b> Luis Hernández Encinas, Consejo Superior de Investigaciones Científicas.
         <br>
         <ul>
          <FONT SIZE=2><li>Análisis estadístico seguro para ensayos clínicos.
