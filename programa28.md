@@ -44,7 +44,7 @@ layout: page
      <td><b>10:00</b></td>
       <td>
         <b>Sesión IV: Vulnerabilidades y ciber amenazas </b>
-        <br><b> Presidente: </b> TBC
+        <br><b> Presidenta: </b> Lorena González Manzano, Universidad Carlos III de Madrid.
         <br>
         <ul>
          <FONT SIZE=2><li> A Review of Kubernetes Security Vulnerabilities, Attacks and Practices.
@@ -99,7 +99,7 @@ layout: page
      <td><b>12:00</b></td>
       <td>
         <b>Sesión V: Seguridad IoT, IIoT, ICS </b>
-        <br><b> Presidente: </b> TBC
+        <br><b> Presidenta: </b> Marisa Escalante Martínez, TECNALIA.
         <br>
         <ul>
          <FONT SIZE=2><li> Hacia la creación de reglas CEP no supervisadas para la detección en tiempo real de ataques en entornos IoT.
