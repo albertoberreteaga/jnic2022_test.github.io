@@ -34,14 +34,13 @@ layout: page
       <td><b>9:15</b></td>
       <td colspan="2">
         <b>Inauguración oficial de las JNIC 2022</b>
-        <!--
         <ul>
          <FONT SIZE=2><li>Sr. D. Jesus Valero. Director General de TECNALIA</li>
-          <li>Representación Gobierno Vasco: TBC</li>
+          <li>Sra. Estibaliz Hernáez, Viceconsejera, Departamento de Tecnología, Innovación y Transformación Digital, EUSKO JAURLARITZA/GOBIERNO VASCO </li>
           <li>Sra. Dña. Ainara Basurko, Diputada, Departamento de Promoción Económica, DIPUTACIÓN FORAL DE BIZKAIA</li>
-          <li> Sra. Dña. Oihane Aguirregoitia, Concejala, Departamento de Atención y Participación Ciudadana e Internacionalización, AYUNTAMIENTO DE BILBAO. Presidenta de BILBOTIK.</li>
+          <li>Sra. Dña. Oihane Aguirregoitia, Concejala, Departamento de Atención y Participación Ciudadana e Internacionalización, AYUNTAMIENTO DE BILBAO. Presidenta de BILBOTIK.</li>
           <li>Representación INCIBE: TBC</li></FONT>
-        </ul> -->
+        </ul>
       </td>
     </tr>
     <tr>
@@ -91,7 +90,7 @@ layout: page
      <td><b>11:30</b></td>
       <td>
         <b>Sesión I: Seguridad web e Internet </b>
-        <br><b> Presidente: </b> TBC
+        <br><b> Presidente: </b> José María de Fuentes García-Romero de Tejada, Universidad Carlos III de Madrid
         <br>
         <ul>
          <FONT SIZE=2><li> Extracción de variables para caracterización multi-clase de la severidad de IPs.
@@ -115,7 +114,7 @@ layout: page
       <td><b>12:45</b></td>
       <td>
         <b>Sesión II: Formación e Innovación Educativa</b>
-        <br><b> Presidente:</b>  Jose Carlos Sancho (Universidad de Extremadura)
+        <br><b> Presidente:</b>  Jose Carlos Sancho Núñez, Universidad de Extremadura
         <br>
         <ul>
          <FONT SIZE=2><li>DIANA: Un asesor virtual inteligente para la transformación digital segura.
@@ -138,7 +137,7 @@ layout: page
      <td><b>15:15</b></td>
       <td>
         <b>Sesión III: Vulnerabilidades y ciber amenazas</b>
-        <br><b> Presidente: </b> TBC
+        <br><b> Presidente: </b> Noemí De Castro García, Universidad de León
         <br>
         <ul>
          <FONT SIZE=2> <li>Estrategias de inmunización selectiva para la mitigación del movimiento lateral.
@@ -170,14 +169,15 @@ layout: page
         <br>
         <b>Moderador</b>: Sra. Ana Ayerbe. TECNALIA-BRTA y WOMEN4CYBER
         <br>
-       <b>Participantes</b>: TBC
+       <b>Participantes</b>: 
         <br>
-        <!--<ul>
-          <FONT SIZE=2><li>Sra. Iratxe Martin. Responsable de Infraestructuras del Basque Cybersecurity Center (BCSC)  </li>
-          <li>Sra. Garbiñe Manterola.  Knowledge Transfer Manager del Basque Research & Technology Alliance (BRTA)</li>
-          <li>Sra. Eva Ferreira. Rectora de la UPV/EHU</li>
-          <li>Sra. Lola Rebollo. Gerente del área de Apoyo a la Empresa, Industria, Emprendimiento e I+D+i (INCIBE)</li> </FONT>
-        </ul> -->
+        <ul>
+          <FONT SIZE=2><li>Sra. Iratxe Martin. Responsable de Infraestructuras del Basque Cybersecurity Center (BCSC). </li>
+          <li>Sra. Garbiñe Manterola. Knowledge Transfer Manager del Basque Research & Technology Alliance (BRTA).</li>
+          <li>Sra. Eva Ferreira. Rectora de la UPV/EHU.</li>
+          <li>Sra. Aitana Alonso. Técnico de Apoyo a la I+D+i en Ciberseguridad de INCIBE.</li> 
+           <li>Sra. Sheila Mendez – Directora de Transformación Digital e Innovación (IZERTIS).</li> </FONT>
+        </ul>
          Organizada por: <a href="https://www.women4cyberspain.es/" target="_blank"><img style="max-height: 100px; padding:25px;" src="/Logos/Women4Cyber.png"></a> 
         <a href="https://www.basquecybersecurity.eus/es/" target="_blank"><img style="max-height: 100px; padding:25px;" src="/images/patrocinadores/BCSC.png"></a> 
         <a href="https://www.tecnalia.com" target="_blank"><img style="max-height: 100px; padding:25px;" src="/images/patrocinadores/TECNALIA_BRT.jpg"></a>
