@@ -34,11 +34,11 @@ layout: page
       <td colspan="2">
         <b>Inauguración oficial de las JNIC 2022</b>
         <ul>
-         <FONT SIZE=2><li>Sr. D. Jesus Valero. Director General de TECNALIA</li>
+         <FONT SIZE=2><li>Sr. Jesus Valero, Director General de TECNALIA</li>
           <li>Sra. Estibaliz Hernáez, Viceconsejera, Departamento de Tecnología, Innovación y Transformación Digital, EUSKO JAURLARITZA/GOBIERNO VASCO </li>
-          <li>Sra. Dña. Ainara Basurko, Diputada, Departamento de Promoción Económica, DIPUTACIÓN FORAL DE BIZKAIA</li>
-          <li>Sra. Dña. Oihane Aguirregoitia, Concejala, Departamento de Atención y Participación Ciudadana e Internacionalización, AYUNTAMIENTO DE BILBAO. Presidenta de BILBOTIK.</li>
-          <li>Representación INCIBE: A confirmar.</li></FONT>
+          <li>Sra. Ainara Basurko, Diputada, Departamento de Promoción Económica, DIPUTACIÓN FORAL DE BIZKAIA</li>
+          <li>Sra. Oihane Aguirregoitia, Concejala, Departamento de Atención y Participación Ciudadana e Internacionalización, AYUNTAMIENTO DE BILBAO. Presidenta de BILBOTIK.</li>
+          <li>Sr. Juan Díez González, Responsable de Apoyo a la  I+D+i de INCIBE.</li></FONT>
         </ul>
       </td>
     </tr>
