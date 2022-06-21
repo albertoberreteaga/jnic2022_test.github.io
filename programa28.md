@@ -185,7 +185,7 @@ layout: page
     <tr>
       <td><b>21:30</b></td>
       <td colspan="2">
-        <b>Cena de gala en el restaurante San Mamés.</b> <a href="https://goo.gl/maps/3FxAjbjWVBDdspGM6" target="_blank">Mapa</a>.</p> 
+        <b>Cena de gala en el restaurante San Mamés.</b> <a href="https://goo.gl/maps/3FxAjbjWVBDdspGM6" target="_blank">Mapa</a>. 
        </td>
     </tr>
   </tbody>
