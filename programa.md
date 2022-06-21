@@ -26,7 +26,7 @@ layout: page
       <th colspan="2">Sesión</th>
     </tr>
     <tr>
-       <th><b>8:15</b></th>
+       <th><b>8:30</b></th>
       <th colspan="2">Registro y recogida de documentación.</th>
     </tr>
     <tr>
