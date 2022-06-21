@@ -100,7 +100,7 @@ A continuación, detallamos las actividades sociales de JNIC 2022, centrados en 
    </tr>
    <tr style="vertical-align: top;">
     <td style="width: 49%; text-align: center;">
-      <p style="text-align:center"> Paseo por Bilbao con información sobre la historia y arquitectura de la villa. Nos reuniremos a las 18:45 en el <a href="https://goo.gl/maps/DTjJ3STHZkh458jV7" target="_blank">palacio euskalduna</a>. </p>
+      <p style="text-align:center"> Paseo por Bilbao con información sobre la historia y arquitectura de la villa. Nos reuniremos a las 19:15 en el <a href="https://goo.gl/maps/DTjJ3STHZkh458jV7" target="_blank">palacio euskalduna</a>. </p>
     </td>
     <td style="width: 2%;">&nbsp;</td>
     <td style="width: 49%; text-align: center;">
