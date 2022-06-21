@@ -39,7 +39,7 @@ layout: page
           <li>Sra. Estibaliz Hernáez, Viceconsejera, Departamento de Tecnología, Innovación y Transformación Digital, EUSKO JAURLARITZA/GOBIERNO VASCO </li>
           <li>Sra. Dña. Ainara Basurko, Diputada, Departamento de Promoción Económica, DIPUTACIÓN FORAL DE BIZKAIA</li>
           <li>Sra. Dña. Oihane Aguirregoitia, Concejala, Departamento de Atención y Participación Ciudadana e Internacionalización, AYUNTAMIENTO DE BILBAO. Presidenta de BILBOTIK.</li>
-          <li>Representación INCIBE: TBC</li></FONT>
+          <li>Representación INCIBE: A confirmar.</li></FONT>
         </ul>
       </td>
     </tr>
@@ -137,7 +137,7 @@ layout: page
      <td><b>15:15</b></td>
       <td>
         <b>Sesión III: Vulnerabilidades y ciber amenazas</b>
-        <br><b> Presidente: </b> Noemí De Castro García, Universidad de León
+        <br><b> Presidenta: </b> Noemí De Castro García, Universidad de León
         <br>
         <ul>
          <FONT SIZE=2> <li>Estrategias de inmunización selectiva para la mitigación del movimiento lateral.
@@ -167,16 +167,16 @@ layout: page
       <td colspan="2">
         <b>Mesa Redonda:</b><i> La Investigación Aplicada: Cómo recorrer el camino desde la Investigación a la Transferencia Tecnológica.</i>
         <br>
-        <b>Moderador</b>: Sra. Ana Ayerbe. TECNALIA-BRTA y WOMEN4CYBER
+        <b>Moderadora</b>: Sra. Ana Ayerbe. TECNALIA-BRTA y WOMEN4CYBER
         <br>
        <b>Participantes</b>: 
         <br>
         <ul>
-          <FONT SIZE=2><li>Sra. Iratxe Martin. Responsable de Infraestructuras del Basque Cybersecurity Center (BCSC). </li>
-          <li>Sra. Garbiñe Manterola. Knowledge Transfer Manager del Basque Research & Technology Alliance (BRTA).</li>
-          <li>Sra. Eva Ferreira. Rectora de la UPV/EHU.</li>
-          <li>Sra. Aitana Alonso. Técnico de Apoyo a la I+D+i en Ciberseguridad de INCIBE.</li> 
-           <li>Sra. Sheila Mendez – Directora de Transformación Digital e Innovación (IZERTIS).</li> </FONT>
+          <FONT SIZE=2><li>Sra. Iratxe Martin. Basque Cybersecurity Center (BCSC). </li>
+          <li>Sra. Garbiñe Manterola. Basque Research & Technology Alliance (BRTA).</li>
+          <li>Sra. Jaxone Astorga. Universidad del País Vasco (UPV/EHU).</li>
+          <li>Sra. Aitana Alonso. INCIBE.</li> 
+          <li>Sra. Sheila Mendez. IZERTIS.</li> </FONT>
         </ul>
          Organizada por: <a href="https://www.women4cyberspain.es/" target="_blank"><img style="max-height: 100px; padding:25px;" src="/Logos/Women4Cyber.png"></a> 
         <a href="https://www.basquecybersecurity.eus/es/" target="_blank"><img style="max-height: 100px; padding:25px;" src="/images/patrocinadores/BCSC.png"></a> 
@@ -195,13 +195,13 @@ layout: page
    <tr>
       <td><b>19:00</b></td>
       <td colspan="2">
-        <b>Navegando Bilbao</b> 
+        <b>Navegando Bilbao. <a href="https://goo.gl/maps/h6Q3ibVTsxiURk578" target="_blank">Punto de encuentro</a> 18:45.</b> 
        </td>
     </tr>
     <tr>
       <td><b>21:00</b></td>
       <td colspan="2">
-        <b>Cena en el Restaurante El Txoko Berria</b> 
+        <b>Cena en el Restaurante El Txoko Berria. <a href="https://g.page/eltxokoberria?share" target="_blank"> Mapa</a>.</b> 
        </td>
     </tr>
   </tbody>
