@@ -37,12 +37,11 @@ A continuación, detallamos las actividades sociales de JNIC 2022, centrados en 
        </tr>
    <tr style="vertical-align: top;">
     <td style="width: 49%; text-align: center;">
-      <p style="text-align:center"> Evento de bienvenida donde nos reencontraremos y charlaremos tranquilamente con un pequeño picoteo. <a href="http://happyriver.es/" target="_blank">Evento bienvenida</a>.</p>
+      <p style="text-align:center"> Evento de bienvenida donde nos reencontraremos y charlaremos tranquilamente con un pequeño picoteo. Nos juntaremos a las 19:30 en <a href="http://happyriver.es/" target="_blank">Happy River</a> y estaremos hasta las 21:00. <a href="https://goo.gl/maps/cyZoWKKgrahQWbSr6" target="_blank"> Mapa </a></p>
     </td>
     </tr>
  </table>
 </div>
-
 
 ### 27 Junio 2022
 <div class="container">
@@ -67,11 +66,11 @@ A continuación, detallamos las actividades sociales de JNIC 2022, centrados en 
    </tr>
    <tr style="vertical-align: top;">
     <td style="width: 49%; text-align: center;">
-      <p style="text-align:center"> Este paseo, por el corazón de la Villa, dura unos 60 minutos, visitando la zona centro de Bilbao, desde el puente del Ayuntamiento a la Ribera de Zorrotzaurre <a href="https://www.bilboats.com/navegando-bilbao/" target="_blank">Bilboats</a>.</p>
+      <p style="text-align:center"> Este paseo, por el corazón de la Villa, dura unos 60 minutos, visitando la zona centro de Bilbao, desde el puente del Ayuntamiento a la Ribera de Zorrotzaurre <a href="https://www.bilboats.com/navegando-bilbao/" target="_blank">Bilboats</a>. Nos reuniremos a las 18:45 en el <a href="https://goo.gl/maps/h6Q3ibVTsxiURk578" target="_blank">punto de encuentro</a>. </p>
     </td>
     <td style="width: 2%;">&nbsp;</td>
     <td style="width: 49%; text-align: center;">
-      <p style="text-align:center"> Cena en un restaurante donde disfrutar de la comida típica vasca. Restaurante <a href="https://eltxokoberria.com/" target="_blank"> El Txoko Berria</a>.</p>
+      <p style="text-align:center"> Cena en un restaurante donde disfrutar de la comida típica vasca. Restaurante <a href="https://eltxokoberria.com/" target="_blank"> El Txoko Berria</a>. <a href=" https://g.page/eltxokoberria?share" target="_blank"> Mapa </a>. </p>
     </td>
    </tr>
  </table>
@@ -101,11 +100,11 @@ A continuación, detallamos las actividades sociales de JNIC 2022, centrados en 
    </tr>
    <tr style="vertical-align: top;">
     <td style="width: 49%; text-align: center;">
-      <p style="text-align:center"> Paseo por Bilbao con información sobre la historia y arquitectura de la villa.</p>
+      <p style="text-align:center"> Paseo por Bilbao con información sobre la historia y arquitectura de la villa. Nos reuniremos a las 18:45 en el <a href="https://goo.gl/maps/DTjJ3STHZkh458jV7" target="_blank">palacio euskalduna</a>. </p>
     </td>
     <td style="width: 2%;">&nbsp;</td>
     <td style="width: 49%; text-align: center;">
-      <p style="text-align:center">Cena de gala en el <a href="https://www.sanmamesjatetxea.com/es/" target="_blank"> restaurante San Mamés</a>.</p>
+      <p style="text-align:center">Cena de gala en el <a href="https://www.sanmamesjatetxea.com/es/" target="_blank"> restaurante San Mamés</a>.<a href="https://goo.gl/maps/3FxAjbjWVBDdspGM6" target="_blank">Mapa</a>.</p>
     </td>
    </tr>
  </table>
