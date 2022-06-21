@@ -10,15 +10,16 @@ layout: page
 <a href="{{site.url}}/programa"><img src="{{site.url}}/images/IcoPrograma.jpg" class="img-circle" 	width="40" height="40"><strong>Programa</strong></a> &nbsp;&nbsp;&nbsp;
 <a href="{{site.url}}/actividades-sociales"><img src="{{site.url}}/images/IcoActividades.jpg" class="img-circle" 	width="40" height="60"><strong>Actividades sociales</strong></a>&nbsp;&nbsp;&nbsp;
 <a href="{{site.url}}/premios"><img src="{{site.url}}/images/IcoPremios.jpg" class="img-circle" 	width="40" height="40"><strong>Premios</strong></a>&nbsp;&nbsp;&nbsp;
-<!--<a href="{{site.url}}/track-transferencia" class=""><img src="{{site.url}}/images/IcoTrackTX.jpg" class="img-circle" 	width="40" height="40"><strong>Track de Transferencia</strong></a> -->
+
 </div><br>
 
 ## Conferencia Invitada - Towards a quantitative approach to security
 ### por Valentina Casola
 
-<!-- La Computación Cuántica modifica muchas de las cosas que son pilares para los negocios de hoy. La manera en la que creamos y mantenemos secreto va a ser pronto alterada por tecnologías cuánticas que modificarán diversos sectores, diferentes industrias. Basada en la teoría de la mecánica y la física cuántica, si los ordenadores cuánticos existieran hoy representaría un salto de gigante en la velocidad y el poder computacional así como en el uso de la tecnología. ¿Pero existen realmente y qué podemos hacer con ellos? Hay inversiones multimillonarias alrededor del mundo en esta disciplina y, de la misma manera que existió una carrera espacial y en el uso de la energía nuclear, han habido avances fundamentales en computación cuántica en pocos años. No es esta una era de cambios sino un cambio de era. Al asistir a esta sesión se podrá comprender el estado de las tecnologías cuánticas hoy y qué suponen para las organizaciones y la sociedad en la que vivimos. Se podrá conocer el impacto inequívoco de todo ello, especialmente en lo que se refiere a Ciberseguridad. Y es que la Computación Cuántica no es un Revolución... sino una Re-Evolución. -->
-<!--
-[Volver al Programa de JNIC 2022](https://2022.jnic.es/programa)-->
+Recent software development methodologies, as DevOps or Agile, are very popular especially in the development of cloud services and applications. They significantly reduce the time-to- market of developed software but, at the same time, they can be hardly integrated with security design methodologies or secure certification frameworks. Indeed, due to the need of security experts during the initial security design choices and to the lack of automatic tools to quantitatively evaluate and assess security in the design and operation phases, security design methodologies cannot be easily automated.
+
+This talk presents a novel Security-by-Design methodology, developed in the context of SPECS and MUSA European Projects, based on the quantification of security trough concepts as Security Service Level Agreements (SLAs) and Security metrics, which can be integrated within modern development processes and that is able to support the risk management life- cycle in an almost-completely automated way.
+
 <br>
 
 ### Valentina Casola
