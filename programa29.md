@@ -31,7 +31,11 @@ layout: page
       <td><b>9:30</b></td>
       <td colspan="2">
         <b>Retos de investigación en ciberseguridad para la resiliencia empresarial.</b>
-        </td>
+        <br>
+        Organizada por: <a href="http://www.pesi-seguridadindustrial.org/es" target="_blank"><img style="max-height: 100px; padding:25px;" src="/Logos/pesi.png"></a> 
+        <a href="https://www.cybasque.eus/home-cybasque" target="_blank"><img style="max-height: 100px; padding:25px;" src="/images/patrocinadores/CYBASQUE.png"></a> 
+        <br> 
+      </td>
     </tr>
     <tr>
      <td><b>10:30</b></td>
