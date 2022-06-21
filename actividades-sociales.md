@@ -66,11 +66,11 @@ A continuación, detallamos las actividades sociales de JNIC 2022, centrados en 
    </tr>
    <tr style="vertical-align: top;">
     <td style="width: 49%; text-align: center;">
-      <p style="text-align:center"> Este paseo, por el corazón de la Villa, dura unos 60 minutos, visitando la zona centro de Bilbao, desde el puente del Ayuntamiento a la Ribera de Zorrotzaurre <a href="https://www.bilboats.com/navegando-bilbao/" target="_blank">Bilboats</a>. Nos reuniremos a las 18:45 en el <a href="https://goo.gl/maps/h6Q3ibVTsxiURk578" target="_blank">punto de encuentro</a>. </p>
+      <p style="text-align:center"> Este paseo, por el corazón de la Villa, dura unos 60 minutos, visitando la zona centro de Bilbao, desde el puente del Ayuntamiento a la Ribera de Zorrotzaurre <a href="https://www.bilboats.com/navegando-bilbao/" target="_blank">Bilboats</a>. Nos reuniremos a las 18:45 en este <a href="https://goo.gl/maps/h6Q3ibVTsxiURk578" target="_blank">punto de encuentro</a>. </p>
     </td>
     <td style="width: 2%;">&nbsp;</td>
     <td style="width: 49%; text-align: center;">
-      <p style="text-align:center"> Cena en un restaurante donde disfrutar de la comida típica vasca. Restaurante <a href="https://eltxokoberria.com/" target="_blank"> El Txoko Berria</a>. <a href=" https://g.page/eltxokoberria?share" target="_blank"> Mapa </a>. </p>
+      <p style="text-align:center"> Cena en un restaurante donde disfrutar de la comida típica vasca. Restaurante <a href="https://eltxokoberria.com/" target="_blank"> El Txoko Berria</a>. La cena empezará a las 21:00. <a href=" https://g.page/eltxokoberria?share" target="_blank"> Mapa </a>. </p>
     </td>
    </tr>
  </table>
@@ -104,7 +104,7 @@ A continuación, detallamos las actividades sociales de JNIC 2022, centrados en 
     </td>
     <td style="width: 2%;">&nbsp;</td>
     <td style="width: 49%; text-align: center;">
-      <p style="text-align:center">Cena de gala en el <a href="https://www.sanmamesjatetxea.com/es/" target="_blank"> restaurante San Mamés</a>.<a href="https://goo.gl/maps/3FxAjbjWVBDdspGM6" target="_blank">Mapa</a>.</p>
+      <p style="text-align:center">Cena de gala en el <a href="https://www.sanmamesjatetxea.com/es/" target="_blank"> restaurante San Mamés</a>. La cena empezará a  las 21:30. <a href="https://goo.gl/maps/3FxAjbjWVBDdspGM6" target="_blank">Mapa</a>.</p>
     </td>
    </tr>
  </table>
