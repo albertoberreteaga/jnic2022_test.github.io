@@ -129,7 +129,7 @@ layout: page
       <td colspan="2">
         <b>Mesa Redonda:</b><i> Presente y futuro de la criptografía tras la llegada del adversario cuántico.</i>
         <br>
-        <b>Moderador</b>: Sra. Nerea Martiartu, Lantik.
+        <b>Moderadora</b>: Sra. Nerea Martiartu, Lantik.
         <br>
        <b>Participantes</b>: 
         <br>
