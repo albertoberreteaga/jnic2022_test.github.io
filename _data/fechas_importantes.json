@@ -15,7 +15,7 @@
 		"titulo":"Inscripción a las jornadas",
 		"contenido":"22/06/2022",
 		"fecha_ref":"4",
-		"activada": true
+		"activada": false
 	},
 	{
 		"titulo":"Envío de trabajos definitivos",
