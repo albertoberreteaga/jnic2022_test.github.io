@@ -5,11 +5,10 @@
 layout: home
 ---
 
-<!-- <H2 style="text-align: center; background-color:red; color:white;">INFORMACION</h2> -->
-<!-- <H2 style="text-align: center;"><strong><a href="http://doi.org/10.18239/jornadas_2021.34.00" target="_actas">Descarga las Actas JNIC 2021 Live</a></strong></H2> -->
- <H2 style="text-align: center;"
+<h2 style="text-align: center;"
     <strong><a href="{{site.url}}/Actas_JNIC2022_v11.pdf" target="_actas">Descarga las Actas JNIC 20222</a></strong>
-</H2>
+</h2>
+
 <!--
 <h3 style="text-align: center">
     <a href="https://www.youtube.com/channel/UCp34bSijbcf0xeJk2AI5dCw/videos">
