@@ -5,7 +5,7 @@
 layout: home
 ---
 
-<h2 style="text-align: center;"
+<h2 style="text-align: center;">
     <strong><a href="{{site.url}}/Actas_JNIC2022_v11.pdf" target="_actas">Descarga las Actas JNIC 20222</a></strong>
 </h2>
 
