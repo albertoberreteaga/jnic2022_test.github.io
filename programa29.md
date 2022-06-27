@@ -32,7 +32,7 @@ layout: page
       <td colspan="2">
         <b>Retos de investigación en ciberseguridad para la resiliencia empresarial.</b>
         <br>
-        Organizada por: <a href="http://www.pesi-seguridadindustrial.org/es" target="_blank"><img style="max-height: 100px; padding:25px;" src="/Logos/pesi.png"></a> 
+        Organizada por: <a href="https://www.accenture.com/es-es" target="_blank"><img style="max-height: 100px; padding:20px;" src="{{site.url}}/images/patrocinadores/Accenture.png"></a> <a href="http://www.pesi-seguridadindustrial.org/es" target="_blank"><img style="max-height: 100px; padding:25px;" src="/Logos/pesi.png"></a> 
         <a href="https://www.cybasque.eus/home-cybasque" target="_blank"><img style="max-height: 80px; padding:25px;" src="/images/patrocinadores/CYBASQUE.png"></a> 
         <br> 
       </td>
