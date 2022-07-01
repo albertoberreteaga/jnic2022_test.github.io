@@ -34,7 +34,7 @@ _Juan Caballero, Gibran Gómez, Srdjan Matic, Gustavo Sánchez, Silvia Sebastiá
 
 
 
-Por otra parte, también se hará entrega a los premios otorgados por la [RENIC](https://www.incibe.es/red-excelencia-idi-ciberseguridad) a la mejor Tesis y TFM de Ciberseguridad, cuyos premiados son los siguientes:
+Por otra parte, los premios otorgados por la [RENIC](https://www.incibe.es/red-excelencia-idi-ciberseguridad) a la mejor Tesis y TFM de Ciberseguridad, son los siguientes:
 
 * __Mejor Tesis Doctoral en Ciberseguridad.__   
 "Towards Decentralized And Scalable Architectures For Access Control Systems For IIoT Scenarios."  
