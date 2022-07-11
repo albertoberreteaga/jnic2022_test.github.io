@@ -45,6 +45,9 @@ Para terminar, además de felicitar a todos los participantes en nuestro CTF, qu
   + **DAVID GORDILLO BURRERO**.
   + **MARCOS JESÚS SEQUERA FERNÁNDEZ**.
   + **JAVIER MATEOS MANZANO**.
+  + **  **.
+  + **MARCOS JESÚS SEQUERA FERNÁNDEZ**.
+  + **JAVIER MATEOS MANZANO**.
 
 **¡Nos vemos en la edición de 2023!**
 
