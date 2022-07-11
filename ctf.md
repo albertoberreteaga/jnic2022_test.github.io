@@ -41,11 +41,8 @@ Para terminar, además de felicitar a todos los participantes en nuestro CTF, qu
   + **DIEGO PALACIOS ORTEGA**.
   + **ISMAEL GÓMEZ ESQUILICHI**.
   + **DAVID BILLHARDT DESDENTADO**.
-+  3º equipo clasificado – IcebergAtómico (Universidad de Extremadura) **Premiados con unos auriculares HUAWEI FreeBuds Pro.**
++ 3º equipo clasificado – IcebergAtómico (Universidad de Extremadura) **Premiados con unos auriculares HUAWEI FreeBuds Pro.**
   + **DAVID GORDILLO BURRERO**.
-  + **MARCOS JESÚS SEQUERA FERNÁNDEZ**.
-  + **JAVIER MATEOS MANZANO**.
-  + **  **.
   + **MARCOS JESÚS SEQUERA FERNÁNDEZ**.
   + **JAVIER MATEOS MANZANO**.
 
